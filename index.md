@@ -54,4 +54,4 @@ University of Colorado Boulder Libraries
 | 2:30 to 3:00|[Wrap Up and Next Steps](content/wrap-up.html)|Jordan Wrigley and Adi Ranganath|
 |3:30 to 5:30| Clinic| CRDDS Team
 
-_Actual schedule may vary depending on group needs_  
+_Actual schedule may vary depending on group needs; all times refer to Mountain Standard Time (MST)_  
