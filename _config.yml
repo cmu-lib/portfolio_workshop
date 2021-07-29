@@ -58,5 +58,3 @@ footer_content: <a href="https://github.com/CU-Boulder-CRDDS/data_bootcamp" targ
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-theme: jekyll-theme-cayman
