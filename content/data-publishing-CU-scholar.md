@@ -21,3 +21,5 @@ Scholarly Communication Librarian
 ### Introduction
 
 This section provides an overview of resources, requirements, and best practices relevant to data management and data publishing. You can find the presentation slide-deck [here](https://cu-boulder-crdds.github.io/data_bootcamp/cu_scholar_publishing/cu_scholar_publishing.pdf).
+
+<iframe src="https://cu-boulder-crdds.github.io/data_bootcamp/cu_scholar_publishing/cu_scholar_publishing.pdf" style="width: 1000px; height: 3000px;" frameBorder="0"></iframe>
