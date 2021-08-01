@@ -29,6 +29,6 @@ Based on the research questions and variables, we were able to start narrowing d
 
 1. Write down a research interest or something you are curious about. (2-3 mins)
 2. Find a dataset that may shed light on this interest or curiosity (10 minutes)
-3. Break out rooms for discussion (15 minutes)
-  a. Share your question and experience in finding and evaluating your dataset
+3. Break out rooms for discussion (15 minutes)  
+  a. Share your question and experience in finding and evaluating your dataset  
   b. Include the 7 Principles in your discussion
