@@ -6,4 +6,4 @@ nav_order: 4
 ---
 # Bootcamp Overview
 
-![Research Lifecycle](https://github.com/CU-Boulder-CRDDS/data_bootcamp/blob/adds-finding-data-lesson/introduction/research_lifecycle.jpeg) 
+![Research Lifecycle](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle.jpeg) 
