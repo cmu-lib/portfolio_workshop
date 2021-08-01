@@ -4,6 +4,8 @@ title: Bootcamp Overview
 parent: Introduction
 nav_order: 4
 ---
-# Bootcamp Overview
+# Research Data Bootcamp Overview
 
-![Research Lifecycle](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle.jpeg) 
+Welcome to the Center for Research Data and Digital Scholarship's Research Data Bootcamp for incoming graduate students.
+
+![Research Lifecycle](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle.jpeg)
