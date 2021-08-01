@@ -9,3 +9,5 @@ nav_order: 4
 Welcome to the Center for Research Data and Digital Scholarship's Research Data Bootcamp for incoming graduate students.
 
 ![Research Lifecycle](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle.jpeg)
+
+Test 
