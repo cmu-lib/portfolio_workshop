@@ -17,7 +17,7 @@ First of all, if you're new to Git and GitHub, here are a few helpful resources.
   - Contains a lot of the basic concepts and terminology.  
 * ### [Introduction to the Command Line](https://programminghistorian.org/en/lessons/intro-to-bash)
   - For folks new to the command line, this is a great introduction.
-  - Includes fundamentals like navigated your file system through the command line interacting with files, plus a handy command reference guide.  
+  - Includes fundamentals like navigating your file system through the command line interacting with files, plus a handy command reference guide.  
 * ### [What is GitHub?](https://guides.github.com/activities/hello-world/)
   - A quick guide to the basics of GitHub.
   - Creating a repository, commits, branches, pull requests.
