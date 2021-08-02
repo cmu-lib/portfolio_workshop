@@ -68,8 +68,7 @@ Copy the url of your new remote repository
 
 Step 3
 {: .label .label-step}
-In your terminal, navigate to the folder containing your site directory/repo.
-Set the reset the remote origin to your newly created GitHub repository:
+In your terminal, navigate to the folder containing your site directory/repo. Reset the remote origin to your newly created GitHub repository:
 ```
 git remote set-url origin https://github.com/your-user-name/your-repo.git
 ```  
