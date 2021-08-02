@@ -14,4 +14,6 @@ In thinking about the various skills and tasks that are relevant to projects tha
 
 ![Research Lifecycle](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle.jpeg)
 
-The lifecycle model specifies, in broad terms, the distinct yet interconnected stages of a 
+The lifecycle model specifies, in broad terms, the distinct yet interconnected stages of a data-intensive research project; each stage involves a variety of more specific tasks and competencies, as represented in the following [graphic](https://www.colorado.edu/crdds/what-we-do/research-lifecycle) from the CRDDS website:
+
+![Research Lifecycle Tasks](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle_tasks.png)
