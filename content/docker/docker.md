@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Presentation
-parent: Containerization with Docker
+parent: Enabling Reproducibility With Docker
 nav_order: 1
 has_children: false
 ---

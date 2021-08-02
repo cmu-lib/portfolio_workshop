@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Containerization with Docker
+title: Enabling Reproducibility With Docker
 has_children: true
 nav_order: 1.61
 ---
 
-# Data, Code, and Reproducability: Containerization with Docker
+# Enabling Reproducibility With Docker
 
 ## Instructor
 Daniel Trahan
