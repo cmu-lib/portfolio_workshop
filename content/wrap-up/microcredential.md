@@ -35,6 +35,10 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 
 Please add files that correspond to the above requirements (a statement of a question or hypothesis, R script, Python script, and data set evaluation) to a GitHub repository that is specifically created to host your Digital Badge project materials. When all of your material is uploaded, please send us a link to your repository.
 
+## What You Will Receive
+
+If you complete and submit the Digital Badge project, you will receive a digital certificate that officially certifies your participation in the Bootcamp, and your completion of the associated project. This certificate will include a link to the repository containing your project materials; this will allow those viewing the badge (for example, future employers, supervisors, or collaborators) to verify your familiarity with the Bootcamp's core competencies. 
+
 ## Examples
 
 To give you a sense of the nature and scope of a possible project, consider the following hypothetical project ideas:
