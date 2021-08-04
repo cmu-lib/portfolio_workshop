@@ -9,4 +9,6 @@ has_children: false
 
 ## Python Lesson Plan
 
-To access the lesson in its own window, please click [here](https://cu-boulder-crdds.github.io/data_bootcamp/python/Python_Data_Science.html). 
+To access the lesson in its own window, please click [here](https://cu-boulder-crdds.github.io/data_bootcamp/python/Python_Data_Science.html).
+
+<iframe src="https://cu-boulder-crdds.github.io/data_bootcamp/python/Python_Data_Science.html" style="width: 1000px; height: 3000px;" frameBorder="0"></iframe>
