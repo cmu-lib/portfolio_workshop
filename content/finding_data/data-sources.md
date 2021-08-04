@@ -30,13 +30,13 @@ has_children: false
 *Specialized Data Repositories*
 
 * [Geoblacklight](https://geoblacklight.org/)(Spatial Data)
-* [Google Earth Engine](https://earthengine.google.com/)(Satellite Imagery)
-* [UCI Network Data Repository](https://networkdata.ics.uci.edu/)(Network Data)
+* [Google Earth Engine](https://earthengine.google.com/) (Satellite Imagery)
+* [UCI Network Data Repository](https://networkdata.ics.uci.edu/) (Network Data)
 
 *General Repository Resources*
 
 * [re3data.org](https://www.re3data.org/)
-* Individual journal repositories containing replication dataset
+* Individual journal repositories containing replication datasets
 
 **Government and International Organization Data**
 
