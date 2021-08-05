@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Bootcamp Microcredential (Digital Badge)
+title: Bootcamp Digital Badge
 parent: Wrap Up and Next Steps
 nav_order: 1
 ---
-# Research Data Bootcamp Microcredential (Digital Badge)
+# Research Data Bootcamp Digital Badge
 
 The goal of the Research Data Bootcamp Microcredential (i.e. the digital badge) is to provide learners with an opportunity to demonstrate literacy in:
 
-* R **OR** Python programming for data analysis (you don't have to do both languages - pick the one that feels most comfortable and intutitive!)
+* R **OR** Python programming for data analysis
 * Critical evaluation of existing data sets and data approaches
 
 To earn the digital badge certifying literacy in these areas, learners must complete the following:
@@ -24,17 +24,18 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 
 1. **Question or Hypothesis**: A statement of a question or hypothesis that you are interested in investigating with data (the question or hypothesis could be relevant to your formal academic interests, but this is by no means necessary). Briefly explain the variables (which often correspond to the columns of a conventional tabular data set) you would need to answer your question or test your hypothesis.
 
-2. **Python and R Code and Analysis Outputs**: Find a data set that will allow you to explore the question you formulated in (1). Write **one** script (in R or Python programming language) that cast light on your question. For example, you might write code that produces a visualization, implements a statistical test, calculates summary statistics, generates a crosstab, or derives a new data set from an existing one (for example, creating a "tidy" data set from an unstructured one).    
-* Please comment your code so that other researchers (or your future self!) can easily follow and understand your script.Please remember to cite the data set you use in your analysis in the repository's Readme.  
-* Please remember to cite the data set you used for your analysis in the repository's Readme file. Here is a [Readme Template](https://drive.google.com/file/d/1h_iBgq3HY0yXyJXDwWpi80GMC2Z4fO9U/view). You don't have to fill out the whole Readme. Any information to help us understand your code or data is great!
+2. **Python OR R Code and Analysis Outputs**: Find a data set that will allow you to explore the question you formulated in (1). Write **one** script (either an R script or Python Script) that casts light on your question. For example, you might write code that produces a visualization, implements a statistical test, calculates summary statistics, generates a crosstab, or derives a new data set from an existing one (for example, creating a "tidy" data set from an unstructured one).  
+* Please note that you are welcome to write two scripts (one in R and one in Python) if this would help your learning goals, or you would like to demonstrate proficiency in both. However, you are only **required** to write one.
+* Please comment your code so that other researchers (or your future self!) can easily follow and understand your script.
+* Please remember to cite the data set you use in your analysis, as well as other relevant contextual information in the repository's Readme.  
 
 3. **Data set Evaluation**: A brief (250-500 words) that evaluates a data set with respect to each of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
 
-## Submitting Your Work
+## Making Your Digital Badge GitHub Repository
 
-Please add files that correspond to the above requirements (a statement of a question or hypothesis, R script, Python script, and data set evaluation) to a GitHub repository that is specifically created to host your Digital Badge project materials. When all of your material is uploaded, please send us a link to your repository by completing this [form](https://docs.google.com/forms/d/e/1FAIpQLSfE3rX2WKez1PpaEHQ50v62TdJIZ0lzJpiobLYxcSQCRnZwLA/viewform).
+Please add files that correspond to the above requirements (a statement of a question or hypothesis, an R script or Python script, and data set evaluation) to a GitHub repository that is specifically created to host your Digital Badge project materials. When all of your material is uploaded, please send us a link to your repository by completing this [form](https://docs.google.com/forms/d/e/1FAIpQLSfE3rX2WKez1PpaEHQ50v62TdJIZ0lzJpiobLYxcSQCRnZwLA/viewform).
 
-We encourage you to write your code in R Markdown and Jupyter Notebooks, and to publish your files via GitHub Pages, particularly if you plan to submit your Digital Badge to future employers or mentors (since this will make it easier for others to quickly understand your work). If you do publish your code via GitHub Pages, please send us a link to these published files, in addition to the link to your GitHub repository.
+We encourage you to write your code in R Markdown or in a Jupyter Notebook, and to publish your files via GitHub Pages, particularly if you plan to submit your Digital Badge to future employers or mentors (since this will make it easier for others to quickly understand your work, and demonstrate familiarity with important tools that facilitate sharing and reproducibility). If you do publish your code via GitHub Pages, please send us a link to these published files, in addition to the link to your GitHub repository.
 
 However, you are **not** required to publish your code via GitHub Pages. It is perfectly fine to simply push your raw code to a GitHub repository, and send us the link; this will be sufficient to earn the badge.
 
