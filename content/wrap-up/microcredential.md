@@ -61,3 +61,12 @@ To give you a sense of the nature and scope of a possible project, consider the 
 2. **We are here to help!** Please join the end-of-day clinics or reach out to us if you have any questions or are struggling with any aspect of the boot camp or digital badge. Peer support and feedback is an integral part of data work.
 
 3. **Explore relevant online resources!** In addition to reaching out to us for help, we also encourage you to take this opportunity to troubleshoot possible problems by seeking help from online resources and documentation relevant to R and Python. These resources are substantial, and an important part of the learning process involves self-directed troubleshooting using these resources.
+
+## Turn in Your Final Portfolio Project!
+Use this Google Survey link to turn in your project: https://forms.gle/azPH7vFsX7D18frT7
+Be sure to give us your:
+1. First and last name
+2. Your email (preferably your CU Boulder email but personal email is ok if that's not possible)
+3. A link to your find Git page or repository project
+
+Cheers!
