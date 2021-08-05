@@ -8,7 +8,7 @@ nav_order: 1
 
 The goal of the Research Data Bootcamp Microcredential (i.e. the digital badge) is to provide learners with an opportunity to demonstrate literacy in:
 
-* R **AND** Python programming for data analysis
+* R **OR** Python programming for data analysis (you don't have to do both languages - pick the one that feels most comfortable and intutitive!)
 * Critical evaluation of existing data sets and data approaches
 
 To earn the digital badge certifying literacy in these areas, learners must complete the following:
@@ -24,10 +24,9 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 
 1. **Question or Hypothesis**: A statement of a question or hypothesis that you are interested in investigating with data (the question or hypothesis could be relevant to your formal academic interests, but this is by no means necessary). Briefly explain the variables (which often correspond to the columns of a conventional tabular data set) you would need to answer your question or test your hypothesis.
 
-2. **Python and R Code and Analysis Outputs**: Find a data set that will allow you to explore the question you formulated in (1). Write **two** scripts (one R script should be written using the R language, and the other one should use the Python programming language) that cast light on your question. For example, you might write code that produces a visualization, implements a statistical test, calculates summary statistics, generates a crosstab, or derives a new data set from an existing one (for example, creating a "tidy" data set from an unstructured one).  
-* Please note that you are welcome to implement identical analyses in your Python and R scripts (for instance, you could create write code that creates functionally equivalent visualizations in both Python and R) but you are not required to; if you prefer, feel free to implement different procedures in your R and Python scripts.  
+2. **Python and R Code and Analysis Outputs**: Find a data set that will allow you to explore the question you formulated in (1). Write **one** script (in R or Python programming language) that cast light on your question. For example, you might write code that produces a visualization, implements a statistical test, calculates summary statistics, generates a crosstab, or derives a new data set from an existing one (for example, creating a "tidy" data set from an unstructured one).    
 * Please comment your code so that other researchers (or your future self!) can easily follow and understand your script.Please remember to cite the data set you use in your analysis in the repository's Readme.  
-* Please remember to cite the data set you used for your analysis in the repository's Readme file.  
+* Please remember to cite the data set you used for your analysis in the repository's Readme file. Here is a [Readme Template](https://drive.google.com/file/d/1h_iBgq3HY0yXyJXDwWpi80GMC2Z4fO9U/view). You don't have to fill out the whole Readme. Any information to help us understand your code or data is great!
 
 3. **Data set Evaluation**: A brief (250-500 words) that evaluates a data set with respect to each of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
 
