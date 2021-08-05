@@ -3,7 +3,7 @@
 <head><meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Python_Data_Science (3)</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
+<title>Python_Data_Science</title><script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.1.10/require.min.js"></script>
 
 
 
@@ -14484,7 +14484,7 @@ The '--yes' tells pip to automatically say yes when it asks you 'Proceed (y/n)?'
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># this will take ~10 seconds.</span>
-<span class="c1">#!pip install censusdata</span>
+<span class="o">!</span>pip install censusdata
 </pre></div>
 
      </div>
@@ -15336,6 +15336,14 @@ Along with the location we have 5 columns of data for sex of the individual, edu
 The good news is Pandas knows how to read and write Parquet files.</p>
 
 </div>
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<h4 id="Paths-to-auxiliary-data">Paths to auxiliary data<a class="anchor-link" href="#Paths-to-auxiliary-data">&#182;</a></h4><p>It's important to know the path to where your data is when you try to read it in.<br>
+There are a number of ways to adding the complete or relative path to your data in to your code.
+But this becomes a lengthy conversation so lets assume if you are working natively on your own machines use the following line.</p>
+
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -15350,6 +15358,32 @@ The good news is Pandas knows how to read and write Parquet files.</p>
 </div>
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>IF however, you are using the EC2 shared instance please uncomment the following line and use it.</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="c1">#df = pd.read_parquet(&#39;/home/jovyan/work/shared/Python_session_data/census_data.parq&#39;)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>We can look at the full dataset, well sort of with just;</p>
+
+</div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -15364,6 +15398,121 @@ The good news is Pandas knows how to read and write Parquet files.</p>
 </div>
 </div>
 
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>If we just wanted to look at the top few rows of the data we can use Pandas head() function.</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Likewise we can just look at the bottom few rows with the tail() function.</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">tail</span><span class="p">()</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>She's pretty big just how long is it? As in how many rows of data?<br>
+We can check that by using the length function len().</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="nb">len</span><span class="p">(</span><span class="n">df</span><span class="p">)</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>That just gave us the number of rows.<br>
+What if you wanted the number of both rows and columns?<br>
+In this case we can use Pandas shape() function like this;</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span><span class="o">.</span><span class="n">shape</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p>Either way this is way to large for the purposes of this workshop so lets cut the dataframe down to just 1 million rows.<br>
+<b>NOTE:</b> reducing the dataframe size will affect any actual results we investigate since we will only be working with 1/308th of the full dataset!!!</p>
+
+</div>
+</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
+<div class="jp-Cell-inputWrapper">
+<div class="jp-InputArea jp-Cell-inputArea">
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
+<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
+     <div class="CodeMirror cm-s-jupyter">
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">1000000</span><span class="p">)</span>
+
+<span class="n">df</span><span class="o">.</span><span class="n">shape</span>
+</pre></div>
+
+     </div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
+</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
+<p><b>Important Note:</b> This is nice and could be sufficient but it will create warnings because this makes a shallow copy as opposed to a deep copy.<br>
+Don't ask or worry about what this means.</p>
+<p>For most other file formats we could just load the first 'nrows' or even skip n number of rows and then access the next nrows.<br>
+But because of the column nature of parquet files this is not an available function in Pandas's read_parquet().</p>
+
+</div>
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
@@ -15654,7 +15803,7 @@ It then prints the time out for us.</p>
 
 <span class="n">df</span><span class="p">[</span><span class="s1">&#39;Education&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="n">edu_dict</span><span class="p">,</span> <span class="n">inplace</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
 
-<span class="c1">#Wall time: 18.2 s</span>
+<span class="c1">#Wall time: 18.2 s #Note this was with the full 308 million rows!</span>
 </pre></div>
 
      </div>
@@ -16128,27 +16277,6 @@ From here on out we will concentrate on graph objects for our plots.</p>
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
 <h3 id="Lets-move-back-to-our-census-data-and-explore-it-better">Lets move back to our census data and explore it better<a class="anchor-link" href="#Lets-move-back-to-our-census-data-and-explore-it-better">&#182;</a></h3>
 </div>
-</div>
-<div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
-</div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p><b>Important Note:</b> For times sake we will be working with just the first 1 million rows of data from our full dataset as some of the things we will be doing will take a few minutes (not bad for &gt;308 million rows!!!).<br>
-Later when you have time and if you have a desire I highly recommend rerunning these plots with the full dataset as the results will not only be more accurate but actually different when we compare data columns later!</p>
-
-</div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
-<div class="jp-Cell-inputWrapper">
-<div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
-<div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
-     <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">df1</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">head</span><span class="p">(</span><span class="mi">1000000</span><span class="p">)</span>
-</pre></div>
-
-     </div>
-</div>
-</div>
-</div>
-
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
@@ -16156,8 +16284,8 @@ Later when you have time and if you have a desire I highly recommend rerunning t
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Calculate the values for the x and y axis.</span>
-<span class="n">x</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">df1</span><span class="p">[</span><span class="s1">&#39;Sex&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">())</span>
-<span class="n">y</span> <span class="o">=</span> <span class="n">df1</span><span class="p">[</span><span class="s1">&#39;Sex&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
+<span class="n">x</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;Sex&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">())</span>
+<span class="n">y</span> <span class="o">=</span> <span class="n">df</span><span class="p">[</span><span class="s1">&#39;Sex&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">()</span>
 </pre></div>
 
      </div>
@@ -16209,7 +16337,7 @@ Later when you have time and if you have a desire I highly recommend rerunning t
 <div class=" highlight hl-ipython3"><pre><span></span><span class="o">%%time</span>
 <span class="c1"># Calculate the values for the x and y axis.</span>
 <span class="n">x</span> <span class="o">=</span> <span class="n">edu_list</span>
-<span class="n">y</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">df1</span><span class="p">[</span><span class="s1">&#39;Education&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
+<span class="n">y</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;Education&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
 </pre></div>
 
      </div>
@@ -16223,7 +16351,7 @@ Later when you have time and if you have a desire I highly recommend rerunning t
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="o">.</span><span class="n">bar</span><span class="p">(</span><span class="n">df1</span><span class="p">,</span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="o">.</span><span class="n">bar</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> 
               <span class="n">x</span> <span class="o">=</span> <span class="n">x</span><span class="p">,</span> 
               <span class="n">y</span> <span class="o">=</span> <span class="n">y</span><span class="p">,</span> 
               <span class="n">color</span> <span class="o">=</span> <span class="n">y</span><span class="p">,</span>
@@ -16259,7 +16387,7 @@ We will also change it so we are coloring by the different categories. This will
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[&nbsp;]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="o">.</span><span class="n">bar</span><span class="p">(</span><span class="n">df1</span><span class="p">,</span> 
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">fig</span> <span class="o">=</span> <span class="n">px</span><span class="o">.</span><span class="n">bar</span><span class="p">(</span><span class="n">df</span><span class="p">,</span> 
               <span class="n">x</span> <span class="o">=</span> <span class="n">y</span><span class="p">,</span> 
               <span class="n">y</span> <span class="o">=</span> <span class="n">x</span><span class="p">,</span> 
               <span class="n">color</span> <span class="o">=</span> <span class="n">x</span><span class="p">,</span>
@@ -16296,8 +16424,8 @@ Well except for the fact we can control the number of bins in the histogram!</p>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Calculate the values for the x and y axis.</span>
-<span class="n">x</span> <span class="o">=</span> <span class="p">(</span><span class="n">df1</span><span class="p">[</span><span class="s1">&#39;Age&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">())</span>
-<span class="n">y</span> <span class="o">=</span> <span class="p">(</span><span class="n">df1</span><span class="p">[</span><span class="s1">&#39;Age&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
+<span class="n">x</span> <span class="o">=</span> <span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;Age&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">unique</span><span class="p">())</span>
+<span class="n">y</span> <span class="o">=</span> <span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;Age&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
 </pre></div>
 
      </div>
@@ -16368,8 +16496,8 @@ Pandas has a wonderful function called 'query' which makes this happen. To make 
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Create unique dataframes for each gender</span>
-<span class="n">female_education</span> <span class="o">=</span> <span class="n">df1</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s1">&#39;Sex==&quot;Female&quot;&#39;</span><span class="p">)</span>
-<span class="n">male_education</span> <span class="o">=</span> <span class="n">df1</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s1">&#39;Sex==&quot;Male&quot;&#39;</span><span class="p">)</span>
+<span class="n">female_education</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s1">&#39;Sex==&quot;Female&quot;&#39;</span><span class="p">)</span>
+<span class="n">male_education</span> <span class="o">=</span> <span class="n">df</span><span class="o">.</span><span class="n">query</span><span class="p">(</span><span class="s1">&#39;Sex==&quot;Male&quot;&#39;</span><span class="p">)</span>
 </pre></div>
 
      </div>
@@ -16451,7 +16579,7 @@ Lastly I'll finally show you how to modify the interactive text-over display.</p
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">labels</span> <span class="o">=</span> <span class="n">cow_list</span>
-<span class="n">values</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">df1</span><span class="p">[</span><span class="s1">&#39;Worker Class&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
+<span class="n">values</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="n">df</span><span class="p">[</span><span class="s1">&#39;Worker Class&#39;</span><span class="p">]</span><span class="o">.</span><span class="n">value_counts</span><span class="p">())</span>
 </pre></div>
 
      </div>
@@ -16538,7 +16666,7 @@ It does this by aggregating and rasterizing the data into regular grids. There i
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>For Datashader we can easily play with all 308 million rows of data so for data safety sake we will begin by reloading the dataset back up.</p>
+<p><b>For Datashader we can easily play with all 308 million rows of data so for data safety sake we will begin by reloading the dataset back up.</b></p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
@@ -17077,7 +17205,7 @@ is that Pandas has been around for many many years, has a huge support community
 </div>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h1 id="Is-Plotly-the-end-all-be-all-for-data-visualization?">Is Plotly the end all be all for data visualization?<a class="anchor-link" href="#Is-Plotly-the-end-all-be-all-for-data-visualization?">&#182;</a></h1><p>Yes, but no. Yes, it's the current king of the hill (Pythonically speaking) especially when mixed with Dash. But when you get down to it there are a near infinite number of ways to visualize data and no one package can do them all. So for the vast majority of what a normal person would want to do, Plotly is for you, unless you already have Matplotlib, Seaborn, ect... code to work with then use it till you need more! Else look into all the other wonderful packages out there to expand your horizons.</p>
+<h1 id="Is-Plotly-the-end-all-be-all-for-data-visualization?">Is Plotly the end all be all for data visualization?<a class="anchor-link" href="#Is-Plotly-the-end-all-be-all-for-data-visualization?">&#182;</a></h1><p>Yes, but no, nothing is. Yes, it's the current king of the hill (Pythonically speaking) especially when mixed with Dash. But when you get down to it there are a near infinite number of ways to visualize data and no one package can do them all. So for the vast majority of what a normal person would want to do, Plotly is for you, unless you already have Matplotlib, Seaborn, ect... code to work with then use it till you need more! Else look into all the other wonderful packages out there to expand your horizons.</p>
 
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell jp-mod-noOutputs  ">
