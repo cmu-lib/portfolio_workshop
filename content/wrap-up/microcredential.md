@@ -29,7 +29,7 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 * Please comment your code so that other researchers (or your future self!) can easily follow and understand your script.
 * Please remember to cite the data set you use in your analysis, as well as other relevant contextual information in the repository's Readme.  
 
-3. **Data set Evaluation**: A brief (250-500 words) that evaluates a data set with respect to each of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
+3. **Data set Evaluation**: A brief (250-500 words) that evaluates a data set with respect to one of the FAIR principles, and best practices for data publishing more generally. In the write-up, you might reflect on the challenges that a user of the data set might encounter, or suggest changes to the data set's documentation or metadata with a view towards enhancing its reusability for future users.
 
 ## Making Your Digital Badge GitHub Repository
 
@@ -60,7 +60,7 @@ To give you a sense of the nature and scope of a possible project, consider the 
 
 2. **We are here to help!** Please join the end-of-day clinics or reach out to us if you have any questions or are struggling with any aspect of the boot camp or digital badge. Peer support and feedback is an integral part of data work.
 
-3. **Explore relevant online resources!** In addition to reaching out to us for help, we also encourage you to take this opportunity to troubleshoot possible problems by seeking help from online resources and documentation relevant to R and Python. These resources are substantial, and an important part of the learning process involves self-directed troubleshooting using these resources.
+3. **Explore relevant online resources** In addition to reaching out to us for help, we also encourage you to take this opportunity to troubleshoot possible problems by seeking help from online resources and documentation relevant to R and Python. These resources are substantial, and an important part of the learning process involves self-directed troubleshooting using these resources.
 
 ## Turn in Your Final Portfolio Project!
 Use this Google Survey link to turn in your project: https://forms.gle/azPH7vFsX7D18frT7
