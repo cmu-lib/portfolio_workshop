@@ -14,3 +14,15 @@ For instructions on how to install Python, please see the following [guide](http
 ## Session data
 
 To download the data associated with this Bootcamp session, please click [here](https://osf.io/zcw7b/).
+
+## Using the CRDDS Research Data Bootcamp JupyterHub:
+
+Step 1: Navigate to https://jupyterhub-crdds-colorado.org
+
+Step 2: Login with your Github credentials
+
+Step 3: Click "Launch Server" then choose which notebook type you want to open (rstudio or python), and click "Start".  
+
+Step 4: You will now be in the JupyterLab interface. 
+
+4A: If you chose a "python" notebook, you can simply open a *.ipynb file or click the "Python 3" button on the RHS of the screen to open a Jupyter notebook.  All of the packages needed for this workshop have been pre-installed.
