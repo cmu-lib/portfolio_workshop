@@ -13,6 +13,6 @@ Digital Scholarship Librarian, Assistant Professor
 Center for Research Data & Digital Scholarship
 
 ## Session Synopsis
-In this workshop, we will broadly discuss ways in which researchers can critically engage with data. Through the lens of the US Census, we will explore ethical issues in data, in particular power, privacy, trust, and justice. Slides will be posted after the workshop.
+In this workshop, we will broadly discuss ways in which researchers can critically engage with data. Through the lens of the US Census, we will explore ethical issues in data, in particular power, privacy, trust, and justice. Slides: https://docs.google.com/presentation/d/1EnOE_1ILQmOkOANMJbepUbzFjhSzXPnN3QYD78yvbBA/edit?usp=sharing
 
 
