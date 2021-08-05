@@ -33,13 +33,13 @@ Final projects will consist of a portfolio of work hosted on a GitHub repository
 
 ## Submitting Your Work
 
-Please add files that correspond to the above requirements (a statement of a question or hypothesis, R script, Python script, and data set evaluation) to a GitHub repository that is specifically created to host your Digital Badge project materials. When all of your material is uploaded, please send us a link to your repository.
+Please add files that correspond to the above requirements (a statement of a question or hypothesis, R script, Python script, and data set evaluation) to a GitHub repository that is specifically created to host your Digital Badge project materials. When all of your material is uploaded, please send us a link to your repository by completing this [form](https://docs.google.com/forms/d/e/1FAIpQLSfE3rX2WKez1PpaEHQ50v62TdJIZ0lzJpiobLYxcSQCRnZwLA/viewform).
 
 We encourage you to write your code in R Markdown and Jupyter Notebooks, and to publish your files via GitHub Pages, particularly if you plan to submit your Digital Badge to future employers or mentors (since this will make it easier for others to quickly understand your work). If you do publish your code via GitHub Pages, please send us a link to these published files, in addition to the link to your GitHub repository.
 
 However, you are **not** required to publish your code via GitHub Pages. It is perfectly fine to simply push your raw code to a GitHub repository, and send us the link; this will be sufficient to earn the badge.
 
-[This](https://github.com/CU-Boulder-CRDDS/data_bootcamp/blob/main/R_MATERIALS/BootCamp_R.rmd ) is an example of a raw markdown file that is hosted on GitHub. [This](https://cu-boulder-crdds.github.io/data_bootcamp/R_MATERIALS/BootCamp_R.html) is how it looks when it has been published via GitHub Pages. 
+[This](https://github.com/CU-Boulder-CRDDS/data_bootcamp/blob/main/R_MATERIALS/BootCamp_R.rmd ) is an example of a raw markdown file that is hosted on GitHub. [This](https://cu-boulder-crdds.github.io/data_bootcamp/R_MATERIALS/BootCamp_R.html) is how it looks when it has been published via GitHub Pages.
 
 ## What You Will Receive
 
