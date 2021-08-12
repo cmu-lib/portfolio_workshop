@@ -9,6 +9,10 @@ nav_order: 1.52
 
 Welcome to this Introductory workshop on GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
 
+### Boot Camp 2021 Recording
+<iframe width="560" height="315" src="https://youtu.be/tGufTHT_JKgE" title="Git Pages" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ____
 ### Presenter
 Phil White <a href='https://github.com/outpw' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
