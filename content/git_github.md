@@ -9,9 +9,8 @@ nav_order: 1.52
 
 Welcome to this Introductory workshop on GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
 
-### Boot Camp 2021 Recording 
+### Boot Camp 2021 Recording - GitHub and GitHub Pages
 https://youtu.be/tGufTHT_JKgE
-
 
 ____
 ### Presenter
