@@ -7,6 +7,9 @@ nav_order: 1.62
 
 # Finding and Evaluating Data
 
+### 2021 Boot Camp Recording - Finding Data
+https://youtu.be/bE_D4HdJF7M
+
 ## Instructors
 
 Jordan Wrigley (she/hers)
