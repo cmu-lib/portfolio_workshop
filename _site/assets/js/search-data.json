@@ -187,21 +187,21 @@
   },"31": {
     "doc": "Data Analysis in R",
     "title": "Data Analysis in R",
-    "content": "2021 Boot Camp Recording R Session CORRUPTED See Resources Below . ",
+    "content": " ",
     "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R.html",
     "relUrl": "/content/data-analysis-in-R.html"
   },"32": {
     "doc": "Data Analysis in R",
     "title": "Instructor",
-    "content": "Jacob Holster, PhD. (he/him/his) Lecturer of Music Education The Pennsylvania State University . Introduction . This session will cover the fundamentals of data analysis and visualization using the R programming language. ",
+    "content": "Jacob Holster, PhD. (he/him/his) Lecturer of Music Education The Pennsylvania State University . ",
     "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R.html#instructor",
     "relUrl": "/content/data-analysis-in-R.html#instructor"
   },"33": {
     "doc": "Data Analysis in R",
-    "title": "Resources",
-    "content": "Online: . dyplyr cheat sheet - data wrangling https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf . Data Visualization Resources . ggplot cheat sheet https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf . qplots http://www.sthda.com/english/wiki/qplot-quick-plot-with-ggplot2-r-software-and-data-visualization . Histograms/Density plots http://www.sthda.com/english/wiki/ggplot2-histogram-plot-quick-start-guide-r-software-and-data-visualization . Boxplots/Violin plots . http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization . Scatter plots . http://www.sthda.com/english/wiki/ggplot2-scatter-plots-quick-start-guide-r-software-and-data-visualization . R Markdown Cheatsheet https://rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf . Data Carpentry http://www.datacarpentry.org/R-genomics/01-intro-to-R.html . R manuals by CRAN https://cran.r-project.org/manuals.html . Basic Reference Card https://cran.r-project.org/doc/contrib/Short-refcard.pdf . R for Beginners (Emmanuel Paradis) https://cran.r-project.org/doc/contrib/Paradis-rdebuts_en.pdf . The R Guide (W. J. Owen) https://cran.r-project.org/doc/contrib/Owen-TheRGuide.pdf . An Introduction to R (Longhow Lam) https://cran.r-project.org/doc/contrib/Lam-IntroductionToR_LHL.pdf . Cookbook for R http://www.cookbook-r.com/ . Advanced R (Hadley Wickham) http://adv-r.had.co.nz/ . rseek: search most online R documentation and discussion forums http://rseek.org/ . The R Inferno: useful for trouble shooting errors http://www.burns-stat.com/documents/books/the-r-inferno/ . Google: endless blogs, posted Q &amp; A, tutorials, references guides where you’re often directed to sites such as Stackoverflow, Crossvalidated, and the R-help mailing list. YouTube R channel https://www.youtube.com/user/TheLearnR . R Programming in Coursera https://www.coursera.org/learn/r-programming . Various R videos http://jeromyanglim.blogspot.co.uk/2010/05/videos-on-data-analysis-with-r.html . R for Data Science - Book http://r4ds.had.co.nz . Base R cheat sheet https://www.rstudio.com/wp-content/uploads/2016/05/base-r.pdf . dyplyr cheat sheet - data wrangling https://www.rstudio.com/wp-content/uploads/2015/02/data-wrangling-cheatsheet.pdf . ggplot cheat sheet - data visualization https://www.rstudio.com/wp-content/uploads/2015/03/ggplot2-cheatsheet.pdf . ",
-    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R.html#resources",
-    "relUrl": "/content/data-analysis-in-R.html#resources"
+    "title": "Introduction",
+    "content": "This session will cover the fundamentals of data analysis and visualization using the R programming language. ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R.html#introduction",
+    "relUrl": "/content/data-analysis-in-R.html#introduction"
   },"34": {
     "doc": "Data Analysis in Python",
     "title": "Data Analysis in Python",
@@ -456,46 +456,46 @@
     "relUrl": "/content/introduction/participating-online.html"
   },"76": {
     "doc": "Preliminaries",
-    "title": "Python Installation",
-    "content": "For instructions on how to install Python, please see the following guide. Pay attention to Step 3, particularly if you’re a Windows user! . ",
-    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html#python-installation",
-    "relUrl": "/content/data-analysis-in-python/preliminaries.html#python-installation"
-  },"77": {
-    "doc": "Preliminaries",
-    "title": "Session data",
-    "content": "Please download the session’s data from this Open Science Foundation repository. ",
-    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html#session-data",
-    "relUrl": "/content/data-analysis-in-python/preliminaries.html#session-data"
-  },"78": {
-    "doc": "Preliminaries",
-    "title": "Using the CRDDS Research Data Bootcamp JupyterHub:",
-    "content": "Step 1: Navigate to https://jupyterhub-crdds-colorado.org . Step 2: Login with your GitHub credentials . Step 3: Click “Launch Server” then choose which notebook type you want to open (rstudio or python), and click “Start”. Step 4: You will now be in the JupyterLab interface. 4A: If you chose a “python” notebook, you can simply open a *.ipynb file or click the “Python 3” button on the RHS of the screen to open a Jupyter notebook. All of the packages needed for this workshop have been pre-installed. ",
-    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html#using-the-crdds-research-data-bootcamp-jupyterhub",
-    "relUrl": "/content/data-analysis-in-python/preliminaries.html#using-the-crdds-research-data-bootcamp-jupyterhub"
-  },"79": {
-    "doc": "Preliminaries",
-    "title": "Preliminaries",
-    "content": " ",
-    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html",
-    "relUrl": "/content/data-analysis-in-python/preliminaries.html"
-  },"80": {
-    "doc": "Preliminaries",
     "title": "R and R Studio Installation",
     "content": "For instructions on how to download R and R Studio, please see here. ",
     "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/preliminaries.html#r-and-r-studio-installation",
     "relUrl": "/content/data-analysis-in-R/preliminaries.html#r-and-r-studio-installation"
-  },"81": {
+  },"77": {
     "doc": "Preliminaries",
     "title": "Session data",
     "content": "Before beginning the lesson, please download to a directory on your computer. ",
     "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/preliminaries.html#session-data",
     "relUrl": "/content/data-analysis-in-R/preliminaries.html#session-data"
-  },"82": {
+  },"78": {
     "doc": "Preliminaries",
     "title": "Preliminaries",
     "content": " ",
     "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/preliminaries.html",
     "relUrl": "/content/data-analysis-in-R/preliminaries.html"
+  },"79": {
+    "doc": "Preliminaries",
+    "title": "Python Installation",
+    "content": "For instructions on how to install Python, please see the following guide. Pay attention to Step 3, particularly if you’re a Windows user! . ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html#python-installation",
+    "relUrl": "/content/data-analysis-in-python/preliminaries.html#python-installation"
+  },"80": {
+    "doc": "Preliminaries",
+    "title": "Session data",
+    "content": "Please download the session’s data from this Open Science Foundation repository. ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html#session-data",
+    "relUrl": "/content/data-analysis-in-python/preliminaries.html#session-data"
+  },"81": {
+    "doc": "Preliminaries",
+    "title": "Using the CRDDS Research Data Bootcamp JupyterHub:",
+    "content": "Step 1: Navigate to https://jupyterhub-crdds-colorado.org . Step 2: Login with your GitHub credentials . Step 3: Click “Launch Server” then choose which notebook type you want to open (rstudio or python), and click “Start”. Step 4: You will now be in the JupyterLab interface. 4A: If you chose a “python” notebook, you can simply open a *.ipynb file or click the “Python 3” button on the RHS of the screen to open a Jupyter notebook. All of the packages needed for this workshop have been pre-installed. ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html#using-the-crdds-research-data-bootcamp-jupyterhub",
+    "relUrl": "/content/data-analysis-in-python/preliminaries.html#using-the-crdds-research-data-bootcamp-jupyterhub"
+  },"82": {
+    "doc": "Preliminaries",
+    "title": "Preliminaries",
+    "content": " ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/preliminaries.html",
+    "relUrl": "/content/data-analysis-in-python/preliminaries.html"
   },"83": {
     "doc": "Data Finding Principles and Strategies",
     "title": "Data Finding: Principles and Strategies",
@@ -521,18 +521,54 @@
     "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-python/python_lesson.html",
     "relUrl": "/content/data-analysis-in-python/python_lesson.html"
   },"87": {
+    "doc": "R Resources",
+    "title": "R Resources",
+    "content": " ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/r-resources.html",
+    "relUrl": "/content/data-analysis-in-R/r-resources.html"
+  },"88": {
+    "doc": "R Resources",
+    "title": "Cheatsheets and Reference Guides",
+    "content": ". | dyplyr cheat sheet (data wrangling) | ggplot cheat sheet (data visualization) | R Markdown Cheatsheet (reproducibility and communication of results) | Base R cheat sheet | R Reference Card | . ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/r-resources.html#cheatsheets-and-reference-guides",
+    "relUrl": "/content/data-analysis-in-R/r-resources.html#cheatsheets-and-reference-guides"
+  },"89": {
+    "doc": "R Resources",
+    "title": "Troubleshooting",
+    "content": ". | rseek (search most online R documentation and discussion forums) | R inferno (useful for troubleshooting) | . ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/r-resources.html#troubleshooting",
+    "relUrl": "/content/data-analysis-in-R/r-resources.html#troubleshooting"
+  },"90": {
+    "doc": "R Resources",
+    "title": "Data Visualization Guides and Tutorials",
+    "content": ". | qplots tutorial | Histograms/Density plots tutorial | Boxplots/Violin plots tutorial | Scatterplots tutorial | . ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/r-resources.html#data-visualization-guides-and-tutorials",
+    "relUrl": "/content/data-analysis-in-R/r-resources.html#data-visualization-guides-and-tutorials"
+  },"91": {
+    "doc": "R Resources",
+    "title": "General guides and courses",
+    "content": ". | Data Carpentry | R manuals by CRAN | R for Beginners by Emmanuel Paradis | The R Guide by W.J. Owen | An Introduction to R by Longhow Lam | Cookbook for R | Advanced R by Hadley Wickham | R Programming in Coursera | R for Data Science | . ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/r-resources.html#general-guides-and-courses",
+    "relUrl": "/content/data-analysis-in-R/r-resources.html#general-guides-and-courses"
+  },"92": {
+    "doc": "R Resources",
+    "title": "Video Tutorials",
+    "content": ". | YouTube R channel | Various R videos | . ",
+    "url": "http://localhost:4000/data_bootcamp/content/data-analysis-in-R/r-resources.html#video-tutorials",
+    "relUrl": "/content/data-analysis-in-R/r-resources.html#video-tutorials"
+  },"93": {
     "doc": "Virtual Environments",
     "title": "Virtual Environments",
     "content": "Using the CRDDS Research Data Bootcamp JupyterHub: . Step 1: Navigate to https://jupyterhub-crdds-colorado.org . Step 2: Login with your Github credentials . Step 3: Click “Launch Server” then choose which notebook type you want to open (rstudio or python), and click “Start”. Step 4: You will now be in the JupyterLab interface. 4A: If you chose a “python” notebook, you can simply open a *.ipynb file or click the “Python 3” button on the RHS of the screen to open a Jupyter notebook. All of the packages needed for this workshop have been pre-installed. or: . 4B: If you chose the “rstudio” notebook option, there is no need to click buttons – just manually change “lab” to “rstudio” in the URL bar of your browser. For example: . Change: https://jupyterhub-crdds-colorado.org/user/janedoe/lab/workspaces/auto-F . To: https://jupyterhub-crdds-colorado.org/user/janedoe/rstudio . ….this will take you to the familiar Rstudio interface. All of the packages needed for this workshop have been pre-installed. ",
     "url": "http://localhost:4000/data_bootcamp/content/virtual-environments.html",
     "relUrl": "/content/virtual-environments.html"
-  },"88": {
+  },"94": {
     "doc": "Wrap Up and Next Steps",
     "title": "Wrap-up and Next Steps",
     "content": "Thank you for joining us these past few days! We hope you’ll join CRDDS for future training opportunities as you explore these ideas further. For more on CRDDS education and training activities, please see here. Please also check follow our events calendar, which is regularly updated. ",
     "url": "http://localhost:4000/data_bootcamp/content/wrap-up.html#wrap-up-and-next-steps",
     "relUrl": "/content/wrap-up.html#wrap-up-and-next-steps"
-  },"89": {
+  },"95": {
     "doc": "Wrap Up and Next Steps",
     "title": "Wrap Up and Next Steps",
     "content": " ",
