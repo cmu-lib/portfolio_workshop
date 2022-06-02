@@ -46,5 +46,3 @@ has_children: false
 * [Various R videos](http://jeromyanglim.blogspot.co.uk/2010/05/videos-on-data-analysis-with-r.html) 
 
 
-
-

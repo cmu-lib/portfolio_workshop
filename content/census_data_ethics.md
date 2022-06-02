@@ -11,8 +11,8 @@ nav_order: 1.82
 [https://youtu.be/qHNyehOmakA](https://youtu.be/qHNyehOmakA)
 
 ## Instructor
-Nickoal Eichmann-Kalwara
-Digital Scholarship Librarian, Assistant Professor
+Nickoal Eichmann-Kalwara\
+Digital Scholarship Librarian, Assistant Professor\
 Center for Research Data & Digital Scholarship
 
 ## Session Synopsis
