@@ -7,7 +7,7 @@ nav_order: 1.81
 
 # Data Publishing and and CU Scholar
 
-**Session Recording:**[https://youtu.be/tBqN7dcdjIs](https://youtu.be/tBqN7dcdjIs)
+**Session Recording:** [https://youtu.be/tBqN7dcdjIs](https://youtu.be/tBqN7dcdjIs)
 
 ## Instructors
 
