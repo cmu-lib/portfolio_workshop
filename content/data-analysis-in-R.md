@@ -7,6 +7,8 @@ nav_order: 1.8
 
 # Data Analysis in R
 
+**Note:** Unfortunately, there is no recording for this session, but please see the *R Resources* section below for additional guidance. 
+
 ## Instructor
 
 Jacob Holster, PhD. (he/him/his)  
