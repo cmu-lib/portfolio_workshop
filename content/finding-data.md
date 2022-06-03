@@ -12,14 +12,14 @@ nav_order: 1.62
 
 ## Instructors
 
-Jordan Wrigley (she/hers)
+Jordan Wrigley (she/hers)\
 Data Librarian  
 Center for Research Data and Digital Scholarship  
 University of Colorado Boulder Libraries  
 [jordan.wrigley@colorado.edu](mailto:jordan.wrigley@colorado.edu)
 
 
-Aditya Ranganath (he/his)
+Aditya Ranganath (he/his)\
 Data Librarian  
 Center for Research Data and Digital Scholarship  
 University of Colorado Boulder Libraries  

@@ -12,11 +12,11 @@ As incoming graduate students, it is likely that you will work with research dat
 
 In thinking about the various skills and tasks that are relevant to projects that involve research data, librarians and data professionals often think in terms of a heuristic called the research data lifecycle:
 
-![Research Lifecycle](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle.jpeg)
+![Research Lifecycle](research_lifecycle.png)
 
 The lifecycle model specifies, in broad terms, the distinct yet interconnected stages of a data-intensive research project; each stage involves a variety of more specific tasks and competencies, as represented in the following [graphic](https://www.colorado.edu/crdds/what-we-do/research-lifecycle) from the CRDDS website:
 
-![Research Lifecycle Tasks](https://raw.githubusercontent.com/CU-Boulder-CRDDS/data_bootcamp/adds-finding-data-lesson/introduction/research_lifecycle_tasks.png)
+![Research Lifecycle Tasks](research_lifecycle_tasks.png)
 
 By attending the Bootcamp, our hope is that you will be empowered to navigate the research data lifecycle with respect to your own work, in a deliberate and intentional way.
 

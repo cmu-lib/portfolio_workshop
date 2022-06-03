@@ -3,7 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 ---
-# Research Data Bootcamp
+# CRDDS Research Data Bootcamp (2021)
 Sponsored by the [Center for Research Data and Digital Scholarship (CRDDS)](https://www.colorado.edu/crdds/)
 
 ## Coordinators
