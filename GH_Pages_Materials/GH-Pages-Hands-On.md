@@ -15,7 +15,7 @@ During this hands-on portion, you will fork a repository over to your own GitHub
 
 Step 1
 {: .label .label-step}
-Go to [https://github.com/CU-Boulder-CRDDS/pages-sample](https://github.com/CU-Boulder-CRDDS/pages-sample)
+Go to [our sample portfolio repository](https://github.com/cmu-lib/portfolio)
 
 Step 2
 {: .label .label-step}
