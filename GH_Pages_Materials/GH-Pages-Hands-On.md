@@ -40,7 +40,7 @@ Click the edit button.
 Step 3
 {: .label .label-step}
 Change the url field to match your username. On line 28, change:  
-`https://CU-Boulder-CRDDS.github.io` to `https://your-user-name.github.io`
+`https://cmu-lib.github.io` to `https://your-user-name.github.io`
 ![Change url](../content/img/pages4.png)  
 
 Step 4
