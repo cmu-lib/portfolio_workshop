@@ -37,4 +37,4 @@ The goal of this workshop is to get you started on GitHub Pages. This is *not* a
 | 1:15 | Advanced Pages and Wrap-Up
 
 ### Slides  
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRda_iDkyPInOqL1YLCejV-9djrF9_a_DVQSNM8wUXn6n-qLGVfbDPr1SC0UWFl5RwaL8HSta4a4rUx/embed?start=false&loop=false&delayms=60000" frameborder="0" width="625" height="352" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> *Click on the slides then press the F key for full screen*
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRda_iDkyPInOqL1YLCejV-9djrF9_a_DVQSNM8wUXn6n-qLGVfbDPr1SC0UWFl5RwaL8HSta4a4rUx/embed?start=false&loop=false&delayms=60000" frameborder="0" width="625" height="352" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> *Click on the slides then press CTRL+Shift+F for full screen*
