@@ -9,14 +9,17 @@ nav_order: 1.52
 
 Welcome to this Introductory workshop on GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
 
-**Session Recording**: [https://youtu.be/tGufTHT_JKgE](https://youtu.be/tGufTHT_JKgE)
-
 ____
-### Presenter
-Phil White <a href='https://github.com/outpw' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Earth, Environment & Geospatial Librarian  
-University of Colorado Boulder Libraries  
-[philip.white@colorado.edu](mailto:philip.white@colorado.edu)
+### Presenters
+Sarah Young <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Principal Librarian  
+Office: 109G, Hunt Library  
+[sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu)
+
+Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Open Science Postdoctoral Associate  
+Office: 4416, Sorrells Library  
+[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
 
 - Please create a [GitHub account](https://github.com/) right now if you have yet to do so.
 {: .prereq}
@@ -28,11 +31,10 @@ The goal of this workshop is to get you started on GitHub Pages. This is *not* a
 
 | Time | Content
 | --- | ---
-| 10:15 | Introductions
-| 10:20 | Slides: Git/GitHub Background and GH Pages
-| 10:40 | Hands on: Fork it! Spin it! Play!
-| 11:20 | Advanced customization: Themes, running locally, workflows
-| 11:35 | Wrap Up/ Q&A
+| 12:00 | Welcome and Introduction
+| 12:05 | Git and GitHub
+| 12:25 | Pages Hands-On
+| 1:15 | Advanced Pages and Wrap-Up
 
 ### Slides  
 <iframe width="625" height="352" frameborder="0" marginheight="0" marginwidth="0" src="slides/GitHub-GH-Pages.html"></iframe> *Click on the slides then press the F key for full screen*
