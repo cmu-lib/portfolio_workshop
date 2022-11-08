@@ -117,7 +117,7 @@ layout: home
 title: Home
 ---
 ```
-Enter a commit message and click Commit. Let your site reload and few the results...
+Enter a commit message and click Commit. Let your site reload and view the results...
 
 *It's changed! What is all this "Posts" stuff?*  
 
@@ -131,7 +131,7 @@ In your repository, open the `_posts` folder and you can see that I've provided 
 Posts must be saved in the `_posts` folder, and they must always be formatted as `yyyy-mm-dd-title-of-post.md`. This is how they show up properly in the feed.
 {: .note}
 
-You must also set the layout as 'post' and provide the a category in the front matter, the value of which can be whatever you want. Date is also good:
+You must also set the layout as 'post' and provide a category in the front matter, the value of which can be whatever you want. Date is also good:
 ```
 ---
 layout: post
