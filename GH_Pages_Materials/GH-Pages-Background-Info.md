@@ -21,6 +21,9 @@ First of all, if you're new to Git and GitHub, here are a few helpful resources.
 * ### [What is GitHub?](https://guides.github.com/activities/hello-world/)
   - A quick guide to the basics of GitHub.
   - Creating a repository, commits, branches, pull requests.
+* ### [Hands-On Git Tutorial](GIT-tutorial/GIT-tutorial.md)
+  - If you want further practice, we have provided a brief Git Tutorial.
+  - Includes a cheat sheet of commands and a hands-on example.
 
 ## GitHub Pages & Jekyll
 
