@@ -25,7 +25,7 @@ Office: 4416, Sorrells Library
 | Time | Content|
 | --- | ---|
 | 12:00 to 12:05 | Welcome and Introduction|
-| 12:05 to 12:25 | [Git and GitHub](GH_Pages_Materials/GH-Pages-Background-Info.html)|
+| 12:05 to 12:25 | [Overview to Git, GitHub, and GitPages](GH_Pages_Materials/GH-Pages-Background-Info.html)|
 |12:25 to 1:15|[Pages Hands-On](GH_Pages_Materials/GH-Pages-Hands-On.html)|
 | 1:15 to 1:30|[Advanced Pages](GH_Pages_Materials/GH-Pages-Advanced.html) and Wrap-Up|
 
