@@ -11,7 +11,7 @@ I get it!
 
 ## Recommended Workflow:
 
-**First, install Ruby and Jeckyll.**    
+**First, install Ruby and Jekyll.**    
 
 - See these great instructions for [Mac](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#on-a-mac-){:target="_blank"} and [Windows](https://programminghistorian.org/en/lessons/building-static-sites-with-jekyll-github-pages#on-windows-){:target="_blank"}.
 
