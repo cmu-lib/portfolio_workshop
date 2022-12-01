@@ -9,7 +9,7 @@ nav_order: 1
 
 # Introduction to Git
 
-*Created by Ishank Lakhmani*
+*Created by [Ishank Lakhmani](https://github.com/ishanklakhmani97)*
 
 ## 1. What is Git?
 Git is an open source distributed file system which is used for tracking, storing and also reverting to older versions of a code. Every time a code is ‘pushed’ into a repository, it is called a ‘commit’ and this means that a new version of the code has been created and added to the repository. This repository can be shared among different people to track the latest version of a code and also get older versions, if needed.
