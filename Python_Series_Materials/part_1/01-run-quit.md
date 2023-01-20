@@ -2,7 +2,7 @@
 layout: default
 parent: Python for Data Science
 has_children: false
-nav_order: 1
+nav_order: 2
 title: "Running and Quitting"
 teaching: 15
 exercises: 0
