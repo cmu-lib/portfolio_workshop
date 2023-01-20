@@ -48,8 +48,7 @@ reasonably up-to-date browser (ideally a current version of Chrome, Safari, or F
 Explorer versions 9 and below are *not* supported.
 
 JupyterLab is included as part of the Anaconda Python distribution. If you have not already
-installed the Anaconda Python distribution, see [the setup instructions]({{ page.root }}{% link
-setup.md %})
+installed the Anaconda Python distribution, see [the setup instructions](../setup.md)
 for installation instructions.
 
 Even though JupyterLab is a web-based application, JupyterLab runs locally on your machine and
