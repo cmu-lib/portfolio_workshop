@@ -10,7 +10,7 @@ title: "Setup"
 
 The data we will be using is taken from the [gapminder][gapminder] dataset.
 To obtain it, download and unzip the file
-[python-novice-gapminder-data.zip]({{page.root}}/files/python-novice-gapminder-data.zip).
+[python-novice-gapminder-data.zip](files/python-novice-gapminder-data.zip).
 In order to follow the presented material, you should launch the JupyterLab
 server in the root directory (see [Starting JupyterLab](part_1/01-run-quit/#starting-jupyterlab)).
 
