@@ -25,6 +25,8 @@ keypoints:
 - "Markdown does most of what HTML does."
 ---
 
+# Running and Quitting
+
 Many software developers will often use an integrated development environment (IDE) or a
 text editor to create and edit their Python programs which can be executed through the IDE or command line directly. While this is a common approach, we are going to use the [Jupyter Notebook][jupyter] via [JupyterLab][jupyterlab] for the remainder of this workshop.
 
@@ -569,6 +571,7 @@ $ jupyter lab
 {: .challenge}
 
 [anaconda]: https://docs.continuum.io/anaconda/install
+[jupyter]: https://jupyter.org/
 [jupyterlab]: https://jupyterlab.readthedocs.io/en/stable/
 [jupyterlab-ui]: https://jupyterlab.readthedocs.io/en/stable/user/interface.html
 [jupyterlab-notebook-docs]: https://jupyterlab.readthedocs.io/en/stable/user/notebook.html
