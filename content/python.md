@@ -2,7 +2,7 @@
 layout: default
 title: Python for Data Science
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Introduction to Python for Data Science
