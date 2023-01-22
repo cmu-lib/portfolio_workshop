@@ -1,4 +1,8 @@
 ---
+layout: default
+parent: Python for Data Science
+has_children: false
+nav_order: 3
 title: "Variables and Assignment"
 teaching: 10
 exercises: 10
