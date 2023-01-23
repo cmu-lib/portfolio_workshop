@@ -1,6 +1,7 @@
 ---
 layout: default
-parent: Python for Data Science
+grand_parent: Python for Data Science
+parent: Introduction to Basic Programming with Data
 has_children: false
 nav_order: 2
 title: "Running and Quitting"
