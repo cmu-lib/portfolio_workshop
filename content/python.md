@@ -8,7 +8,7 @@ nav_order: 3
 # Introduction to Python for Data Science
 
 Welcome to this introductory workshop series on Python for data science. This is
-a three part series that will walk through basic Python programming with data, 
+a three part series that will walk through basic Python programming with data,
 enhancing your workflow in Jupyter Lab, and doing advanced analyses with tabular
 datasets. See the schedule or table of contents below to navigate through all
 the workshop material.
@@ -20,7 +20,7 @@ Open Science Postdoctoral Associate
 Office: 4416, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
 
-Lencia Beltran <a href='https://github.com/lenciabeltran' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>
+Lencia Beltran <a href='https://github.com/lenciabeltran' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Open Science Project Coordinator
 Office: 4416, Sorrells Library
 [lbeltran@andrew.cmu.edu](mailto:lbeltran@andrew.cmu.edu)
