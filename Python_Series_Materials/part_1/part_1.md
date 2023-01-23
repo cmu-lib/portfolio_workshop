@@ -2,7 +2,7 @@
 layout: default
 parent: Python for Data Science
 has_children: true
-nav_order: 1
+nav_order: 2
 title: Introduction to Basic Programming with Data
 ---
 
