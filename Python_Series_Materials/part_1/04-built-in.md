@@ -1,4 +1,9 @@
 ---
+layout: default
+grand_parent: Python for Data Science
+parent: Introduction to Basic Programming with Data
+has_children: false
+nav_order: 5
 title: "Built-in Functions and Help"
 teaching: 15
 exercises: 10
@@ -144,7 +149,7 @@ round(3.712, 1)
 * Some methods are used for internal Python operations, and are marked with double underlines.
 
 ~~~
-my_string = 'Hello world!'  # creation of a string object 
+my_string = 'Hello world!'  # creation of a string object
 
 print(len(my_string))       # the len function takes a string as an argument and returns the length of the string
 
@@ -192,7 +197,7 @@ Help on built-in function round in module builtins:
 
 round(number, ndigits=None)
     Round a number to a given precision in decimal digits.
-    
+
     The return value is an integer if ndigits is omitted or None.  Otherwise
     the return value has the same type as the number.  ndigits may be negative.
 ~~~
@@ -342,13 +347,13 @@ NameError: name 'aege' is not defined
 > > 4
 > > ~~~
 > > {: .output}
-> > `max(len(rich), poor)` throws a TypeError. This turns into `max(4, 'tin')` and 
+> > `max(len(rich), poor)` throws a TypeError. This turns into `max(4, 'tin')` and
 > > as we discussed earlier a string and integer cannot meaningfully be compared.
 > > ~~~
 > > TypeError                                 Traceback (most recent call last)
 > > <ipython-input-65-bc82ad05177a> in <module>
 > > ----> 1 max(len(rich), poor)
-> > 
+> >
 > > TypeError: '>' not supported between instances of 'str' and 'int'
 > > ~~~
 > > {: .error }
@@ -385,7 +390,7 @@ NameError: name 'aege' is not defined
 > The [official Python documentation](https://docs.python.org/3/) is arguably the most complete
 > source of information about the language. It is available in different languages and contains a lot of useful
 > resources. The [Built-in Functions page](https://docs.python.org/3/library/functions.html) contains a catalogue of
-> all of these functions, including the ones that we've covered in this lesson. Some of these are more advanced and 
+> all of these functions, including the ones that we've covered in this lesson. Some of these are more advanced and
 > unnecessary at the moment, but others are very simple and useful.
-> 
+>
 {: .callout}

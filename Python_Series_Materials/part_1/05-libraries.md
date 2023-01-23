@@ -1,4 +1,9 @@
 ---
+layout: default
+grand_parent: Python for Data Science
+parent: Introduction to Basic Programming with Data
+has_children: false
+nav_order: 6
 title: "Libraries"
 teaching: 10
 exercises: 10
@@ -188,7 +193,7 @@ cos(pi) is -1.0
 > > ~~~
 > > {: .language-python}
 > >
-> > Perhaps you found the [`random.sample`](https://docs.python.org/3/library/random.html#random.sample) function? 
+> > Perhaps you found the [`random.sample`](https://docs.python.org/3/library/random.html#random.sample) function?
 > > It allows for slightly less typing but might be a bit harder to understand just by reading:
 > >
 > > ~~~
@@ -200,10 +205,10 @@ cos(pi) is -1.0
 > >
 > > Note that this function returns a list of values. We will learn about
 > > lists in [episode 11]({{ page.root }}/11-lists/).
-> > 
-> > The simplest and shortest solution is the [`random.choice`](https://docs.python.org/3/library/random.html#random.choice) 
+> >
+> > The simplest and shortest solution is the [`random.choice`](https://docs.python.org/3/library/random.html#random.choice)
 > > function that does exactly what we want:
-> > 
+> >
 > > ~~~
 > > from random import choice
 > >
@@ -218,7 +223,7 @@ cos(pi) is -1.0
 > ## Jigsaw Puzzle (Parson's Problem) Programming Example
 >
 > Rearrange the following statements so that a random
-> DNA base is printed and its index in the string. 
+> DNA base is printed and its index in the string.
 > Not all statements may be needed.  Feel free to use/add
 > intermediate variables.
 >
@@ -235,9 +240,9 @@ cos(pi) is -1.0
 > > ## Solution
 > >
 > > ~~~
-> > import math 
+> > import math
 > > import random
-> > bases = "ACTTGCTTGAC" 
+> > bases = "ACTTGCTTGAC"
 > > n_bases = len(bases)
 > > idx = random.randrange(n_bases)
 > > print("random base", bases[idx], "base index", idx)
@@ -333,9 +338,9 @@ cos(pi) is -1.0
 > > 3. Library call 2. Here `sin` and `pi` are referred to with the regular library
 > >    name `math`, so the regular `import ...` call suffices.
 > >
-> > __Note:__ although library call 4 works, importing all names from a module using a wildcard 
+> > __Note:__ although library call 4 works, importing all names from a module using a wildcard
 > > import is [not recommended][pep8-imports] as it makes it unclear which names from the module
-> > are used in the code. In general it is best to make your imports as specific as possible and to 
+> > are used in the code. In general it is best to make your imports as specific as possible and to
 > > only import what your code uses. In library call 1, the `import` statement explicitly tells us
 > > that the `sin` function is imported from the `math` module, but library call 4 does not
 > > convey this information.
@@ -390,7 +395,7 @@ cos(pi) is -1.0
 > > <ipython-input-1-d72e1d780bab> in <module>
 > >       1 from math import log
 > > ----> 2 log(0)
-> > 
+> >
 > > ValueError: math domain error
 > > ~~~
 > > {: .output}
