@@ -30,6 +30,9 @@ keypoints:
 - "Python reports a runtime error when something goes wrong while a program is executing."
 - "Fix syntax errors by reading the source code, and runtime errors by tracing the program's execution."
 ---
+
+# Built-in Functions and Help
+
 ## Use comments to add documentation to programs.
 
 ~~~

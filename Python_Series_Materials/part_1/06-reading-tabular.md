@@ -21,6 +21,9 @@ keypoints:
 - "Use `DataFrame.T` to transpose a dataframe."
 - "Use `DataFrame.describe` to get summary statistics about data."
 ---
+
+# Reading Tabular Data into DataFrames
+
 ## Use the Pandas library to do statistics on tabular data.
 
 *   Pandas is a widely-used Python library for statistics, particularly on tabular data.

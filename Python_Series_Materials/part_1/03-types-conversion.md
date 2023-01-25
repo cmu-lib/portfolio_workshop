@@ -24,6 +24,9 @@ keypoints:
 - "Can mix integers and floats freely in operations."
 - "Variables only change value when something is assigned to them."
 ---
+
+# Data Types and Type Conversion
+
 ## Every value has a type.
 
 *   Every value in a program has a specific type.

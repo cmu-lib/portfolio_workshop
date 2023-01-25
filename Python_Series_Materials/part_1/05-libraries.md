@@ -21,6 +21,9 @@ keypoints:
 - "Import specific items from a library to shorten programs."
 - "Create an alias for a library when importing it to shorten programs."
 ---
+
+# Libraries
+
 ## Most of the power of a programming language is in its libraries.
 
 *   A *library* is a collection of files (called *modules*) that contains

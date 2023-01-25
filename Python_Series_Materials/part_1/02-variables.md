@@ -24,6 +24,9 @@ keypoints:
 - "Python is case-sensitive."
 - "Use meaningful variable names."
 ---
+
+# Variables and Assignment
+
 ## Use variables to store values.
 
 *   **Variables** are names for values.
