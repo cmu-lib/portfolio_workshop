@@ -12,8 +12,8 @@ In this first part of the 3-part workshop series, "Introduction to Python for Da
 
 **Date:** February 7, 2023
 **Time:** 1:00-3:00 pm
-**Location:** The Den, Sorrells Library
-____
+**Location:** The Den, Sorrells Library 
+
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Open Science Postdoctoral Associate  
