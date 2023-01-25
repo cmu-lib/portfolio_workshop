@@ -10,9 +10,9 @@ title: Introduction to Basic Programming with Data
 
 In this first part of the 3-part workshop series, "Introduction to Python for Data Science," we offer an introduction to Python for non-programmers with a focus on data analysis. In this workshop, we will demonstrate how to do basic Python programming in Jupyter Notebooks. Topics will include working with different data types, using built-in functions and libraries like Pandas to read and manipulate data. Part 2 will offer an extensive tutorial on Jupyter Notebooks and Jupyter Lab, and part 3 will expand on the programming skills covered in this part, covering more advanced techniques on plotting and analyzing data.
 
-**Date:** February 7, 2023
-**Time:** 1:00-3:00 pm
-**Location:** The Den, Sorrells Library 
+**Date:** February 7, 2023   
+**Time:** 1:00-3:00 pm   
+**Location:** The Den, Sorrells Library   
 
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
