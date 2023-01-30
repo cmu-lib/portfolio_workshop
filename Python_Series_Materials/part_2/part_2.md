@@ -27,7 +27,7 @@ Office: 4416, Sorrells Library
 
 ### Setup
 
-To be best prepared for tis workshop, please follow the [setup instructions](../setup)
+To be best prepared for this workshop, please follow the [setup instructions](../setup)
 prior to attending.
 
 ### Schedule
