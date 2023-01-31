@@ -26,3 +26,5 @@ To be best prepared for this workshop, please follow the [setup instructions](..
 prior to attending.
 
 ### Schedule
+
+Coming Soon!
