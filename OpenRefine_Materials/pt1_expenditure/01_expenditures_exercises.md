@@ -3,7 +3,7 @@ layout: default
 parent: Cleaning Untidy Data with OpenRefine
 has_children: true
 nav_order: 2
-title: Part 1: OpenRefine Basics with Personal Consumption Expeditures Data
+title: Part 1 OpenRefine Basics with Personal Consumption Expeditures Data
 ---
 
 # Part 1: OpenRefine Basics with Personal Consumption Expeditures Data In this activity set, we will be:

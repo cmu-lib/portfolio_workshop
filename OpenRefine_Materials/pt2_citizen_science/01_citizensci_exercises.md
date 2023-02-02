@@ -3,7 +3,7 @@ layout: default
 parent: Cleaning Untidy Data with OpenRefine
 has_children: true
 nav_order: 2
-title: Part 2: Advanced Data Cleaning with Citizen Science Data
+title: Part 2 Advanced Data Cleaning with Citizen Science Data
 ---
 
 ## Citizen Science Lesson: Advanced Data Cleaning

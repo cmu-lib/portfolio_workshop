@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Cleaning Untidy Data with OpenRefine
-parent: Part 2: Advanced Data Cleaning with Citizen Science Data
+parent: Part 2 Advanced Data Cleaning with Citizen Science Data
 has_children: false
 nav_order: 3
 title: Splitting and concatenating
