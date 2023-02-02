@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Cleaning Untidy Data with OpenRefine
-has_children: true
+has_children: false
 nav_order: 1
 title: Setup
 ---
@@ -46,4 +46,4 @@ The interface to OpenRefine is accessed via a web browser. When you run Refine n
 
 ## Workshop Slides
 
-The workshop slides are available at: [http://bit.ly/CMU\_OR2019_slides](http://bit.ly/CMU_OR2019_slides).
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQH8JCcDoRcBAEwfvWooqwDz5UvKiZpNJ98-xw9EcPqkHEHZQKZwUDGTLKO7apC9nVUOJkO-AGexzy_/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

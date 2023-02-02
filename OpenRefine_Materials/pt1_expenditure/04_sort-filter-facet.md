@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Part 1: OpenRefine Basics with Personal Consumption Expeditures Data
-has_children: true
+has_children: false
 nav_order: 4
 title: Sorting, filtering and faceting
 ---

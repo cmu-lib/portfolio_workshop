@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Part 1: OpenRefine Basics with Personal Consumption Expeditures Data
-has_children: true
+has_children: false
 nav_order: 3
 title: Basic data cleanup
 ---

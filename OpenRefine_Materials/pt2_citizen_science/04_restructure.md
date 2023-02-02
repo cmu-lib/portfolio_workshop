@@ -1,7 +1,7 @@
 ---
 layout: default
 parent: Part 2: Advanced Data Cleaning with Citizen Science Data
-has_children: true
+has_children: false
 nav_order: 4
 title: Restructuring data
 ---
