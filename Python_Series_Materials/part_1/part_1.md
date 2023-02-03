@@ -18,7 +18,7 @@ In this first part of the 3-part workshop series, "Introduction to Python for Da
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Open Science Postdoctoral Associate  
 Office: 4416, Sorrells Library  
-[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)|[Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
+[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
 ### Setup
 
