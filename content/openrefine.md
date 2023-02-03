@@ -53,8 +53,9 @@ _Actual schedule may vary depending on group needs; all times refer to Eastern S
 
 ### Acknowledgements
 
-The lesson materials and slides for this workshop were largely adapted from an OpenRefine Workshop delivered at IASSIST 2018 in Montreal by:	 		 		 	 	 									
-Leanne Trimble, Data & Statistics Librarian
-Kelly Schultz, Data Visualization Librarian
+The lesson materials and slides for this workshop were largely adapted from an OpenRefine Workshop delivered at IASSIST 2018 in Montreal by:  
+
+Leanne Trimble, Data & Statistics Librarian  
+Kelly Schultz, Data Visualization Librarian  
 University of Toronto Libraries
 
