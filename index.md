@@ -10,6 +10,24 @@ Hosted by the Open Science program within the
 This website highlights workshops from CMU libraries that help
 build computational skills for Open Research and Data Science.
 
+## Workshop Calendar
+
+| Day | Time | Title
+| --- | --- | ---
+| February 7, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 1: Introduction to Basic Programming with Data](https://cmu.libcal.com/event/10230106) ([Content](Python_Series_Materials/part_1/part_1.md))
+| February 14, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 2: Making the Most with Jupyter Lab and Notebooks](https://cmu.libcal.com/event/10230549) ([Content](Python_Series_Materials/part_2/part_2.md))
+| February 15, 2023 | 3:00 pm - 4:30 pm | [Cleaning Messy Data with OpenRefine](https://cmu.libcal.com/event/10185679) ([Content](content/openrefine.md))
+| February 16, 2023 | 10:00 am - 11:30 am | [Intro to R Part 1: Getting Started with R and RStudio](https://cmu.libcal.com/event/10185624)
+| February 21, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 3: Plotting and Analyzing Tabular Datasets](https://cmu.libcal.com/event/10230737) ([Content](Python_Series_Materials/part_3/part_3.md))
+| February 23, 2023 | 10:00 am - 11:30 am | [Intro to R Part 2: Working with Data in R](https://cmu.libcal.com/event/10185621)
+| March 8, 2023 | 10:00 am - 12:00 pm | [Advanced Research Note-Taking with Obsidian](https://cmu.libcal.com/event/10247379)
+| March 14, 2023 | 10:00 am - 12:00 pm | [Introduction to Command Line Interface](https://cmu.libcal.com/event/10252549)
+| March 15, 2023 | 11:00 am - 12:00 pm | [Data Visualization Best Practices](https://cmu.libcal.com/event/10231975)
+| March 22, 2023 | 11:00 am - 12:00 pm | [Data Visualization in R](https://cmu.libcal.com/event/10231953)
+| March 29, 2023 | 11:00 am - 12:00 pm | [Data Visualization in Tableau](https://cmu.libcal.com/event/10231987)
+| April 19, 2023 | 10:00 am - 12:00 pm | [Python for Harvesting Data on the Web](https://cmu.libcal.com/event/10252102)
+| April 20, 2023 | 12:00 pm - 1:30 pm | [Creating Websites and Portfolios with GitPages](https://cmu.libcal.com/event/10185690) ([Content](content/git_github.md))
+
 ## Coordinators
 
 Melanie Gainey (she/her/hers)  
@@ -36,21 +54,3 @@ Sarah Young (she/her/hers)
 Principal Librarian  
 Office: 109G, Hunt Library  
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/sarahy)
-
-## Workshop Calendar
-
-| Day | Time | Title
-| --- | --- | ---
-| February 7, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 1: Introduction to Basic Programming with Data](https://cmu.libcal.com/event/10230106) ([Content](Python_Series_Materials/part_1/part_1.md))
-| February 14, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 2: Making the Most with Jupyter Lab and Notebooks](https://cmu.libcal.com/event/10230549) ([Content](Python_Series_Materials/part_2/part_2.md))
-| February 15, 2023 | 3:00 pm - 4:30 pm | [Cleaning Messy Data with OpenRefine](https://cmu.libcal.com/event/10185679) ([Content](content/openrefine.md))
-| February 16, 2023 | 10:00 am - 11:30 am | [Intro to R Part 1: Getting Started with R and RStudio](https://cmu.libcal.com/event/10185624)
-| February 21, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 3: Plotting and Analyzing Tabular Datasets](https://cmu.libcal.com/event/10230737) ([Content](Python_Series_Materials/part_3/part_3.md))
-| February 23, 2023 | 10:00 am - 11:30 am | [Intro to R Part 2: Working with Data in R](https://cmu.libcal.com/event/10185621)
-| March 8, 2023 | 10:00 am - 12:00 pm | [Advanced Research Note-Taking with Obsidian](https://cmu.libcal.com/event/10247379)
-| March 14, 2023 | 10:00 am - 12:00 pm | [Introduction to Command Line Interface](https://cmu.libcal.com/event/10252549)
-| March 15, 2023 | 11:00 am - 12:00 pm | [Data Visualization Best Practices](https://cmu.libcal.com/event/10231975)
-| March 22, 2023 | 11:00 am - 12:00 pm | [Data Visualization in R](https://cmu.libcal.com/event/10231953)
-| March 29, 2023 | 11:00 am - 12:00 pm | [Data Visualization in Tableau](https://cmu.libcal.com/event/10231987)
-| April 19, 2023 | 10:00 am - 12:00 pm | [Python for Harvesting Data on the Web](https://cmu.libcal.com/event/10252102)
-| April 20, 2023 | 12:00 pm - 1:30 pm | [Creating Websites and Portfolios with GitPages](https://cmu.libcal.com/event/10185690) ([Content](content/git_github.md))
