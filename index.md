@@ -12,11 +12,6 @@ build computational skills for Open Research and Data Science.
 
 ## Coordinators
 
-Sarah Young (she/her/hers)  
-Principal Librarian  
-Office: 109G, Hunt Library
-[sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu)
-
 Melanie Gainey (she/her/hers)
 Open Science Program Director/Librarian
 Office: Library 431, Mellon library
@@ -36,6 +31,11 @@ Emma Slayton (she/her/hers)
 Data Curation, Visualization, and GIS Specialist
 Office: 4408, Sorrells Library
 [eslayton@andrew.cmu.edu](mailto:eslayton@andrew.cmu.edu)
+
+Sarah Young (she/her/hers)  
+Principal Librarian  
+Office: 109G, Hunt Library
+[sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu)
 
 ## Workshop Calendar
 
