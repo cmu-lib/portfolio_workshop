@@ -24,7 +24,11 @@ Office: 109G, Hunt Library
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu)
 
 ### Goals of this Workshop
-TBD
+* Import data and perform basic cleaning steps
+* Use sorting, filtering and facets to clean data
+* Restructure columns and cells
+* Export JSON script for repeating steps
+* Save and export files and projects
 
 ## Schedule
 
@@ -33,9 +37,14 @@ TBD
 | Time | Content|
 | --- | ---|
 | 15:00 to 15:05 | Welcome and Introduction|
-| 15:05 to 15:25 | |
-| 15:25 to 16:15||
-| 16:15 to 16:30| and Wrap-Up|
+| 15:05 to 15:15 | Importing data and basic cleanup |
+| 15:15 to 15:30| Sorting, filtering and faceting |
+| 15:30 to 15:40| Transposing data and advanced facets |
+| 15:40 to 15:50| Clustering |
+| 15:50 to 16:10| Splitting and concatenating |
+| 16:10 to 16:20| Restructuring data |
+| 16:20 to 16:25| Exporting JSON scripts |
+| 16:25 to 16:30| Wrap-Up|
 
 _Actual schedule may vary depending on group needs; all times refer to Eastern Standard Time (EST)_    
 
