@@ -43,7 +43,7 @@ Office: 109G, Hunt Library
 | --- | --- | ---
 | February 7, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 1: Introduction to Basic Programming with Data](https://cmu.libcal.com/event/10230106) ([Content](Python_Series_Materials/part_1/part_1.md))
 | February 14, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 2: Making the Most with Jupyter Lab and Notebooks](https://cmu.libcal.com/event/10230549) ([Content](Python_Series_Materials/part_2/part_2.md))
-| February 15, 2023 | 3:00 pm - 4:30 pm | [Cleaning Messy Data with OpenRefine](https://cmu.libcal.com/event/10185679) ([Content]())
+| February 15, 2023 | 3:00 pm - 4:30 pm | [Cleaning Messy Data with OpenRefine](https://cmu.libcal.com/event/10185679) ([Content](content/openrefine.md))
 | February 16, 2023 | 10:00 am - 11:30 am | [Intro to R Part 1: Getting Started with R and RStudio](https://cmu.libcal.com/event/10185624)
 | February 21, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 3: Plotting and Analyzing Tabular Datasets](https://cmu.libcal.com/event/10230737) ([Content](Python_Series_Materials/part_3/part_3.md))
 | February 23, 2023 | 10:00 am - 11:30 am | [Intro to R Part 2: Working with Data in R](https://cmu.libcal.com/event/10185621)
