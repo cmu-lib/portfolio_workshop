@@ -40,6 +40,12 @@ prior to attending.
 | [Reading Tabular Data into DataFrames](06-reading-tabular.md) | 02:35 |
 | Finish  | 03:00  |
 
+### Interactive Curriculum
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/portfolio_workshop/HEAD?labpath=Python_Series_Materials%2F__jupyter-notebooks%2F)
+
+Click the badge above to work through the course content in JupyterLab. 
+
 ### Post-Workshop Survey
 
 Please complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLSeZJ1xPFUMpdeEqoLSJpjwLhmxB0F5UtM37cLqUAxdgJG9how/viewform?usp=sf_link)
