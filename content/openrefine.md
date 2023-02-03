@@ -50,3 +50,11 @@ _Actual schedule may vary depending on group needs; all times refer to Eastern S
 
 ### Slides  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQH8JCcDoRcBAEwfvWooqwDz5UvKiZpNJ98-xw9EcPqkHEHZQKZwUDGTLKO7apC9nVUOJkO-AGexzy_/embed?start=false&loop=false&delayms=60000" frameborder="0" width="640" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> *Click on the slides then press CTRL+Shift+F for full screen*
+
+### Acknowledgements
+
+The lesson materials and slides for this workshop were largely adapted from an OpenRefine Workshop delivered at IASSIST 2018 in Montreal by:	 		 		 	 	 									
+Leanne Trimble, Data & Statistics Librarian
+Kelly Schultz, Data Visualization Librarian
+University of Toronto Libraries
+
