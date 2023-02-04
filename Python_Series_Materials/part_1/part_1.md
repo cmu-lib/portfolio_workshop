@@ -42,9 +42,9 @@ prior to attending.
 
 ### Interactive Curriculum
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/portfolio_workshop/HEAD?labpath=Python_Series_Materials%2F__jupyter-notebooks%2F)
+Click the Binder badge below to work through the course content in JupyterLab.
 
-Click the badge above to work through the course content in JupyterLab. 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/portfolio_workshop/HEAD?labpath=Python_Series_Materials%2F__jupyter-notebooks%2F)
 
 ### Post-Workshop Survey
 
