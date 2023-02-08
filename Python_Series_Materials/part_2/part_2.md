@@ -32,4 +32,29 @@ prior to attending.
 
 ### Schedule
 
-Coming Soon!
+| Section  | Time |
+| ------------- | ------------- |
+| [Setup](../setup.md)  |   |
+| Navigating JupyterLab | 01:00  |
+| Markdown and Magic Commands  | 01:15  |
+| Displaying Media  |  01:35  |
+| Break | 01:55
+| Interactive Plots | 02:00 |
+| Workshop Survey | 02:30 |
+| Moving Notebooks to the Web | 02:35 |
+| Finish  | 03:00  |
+
+### Accessing the Curriculum
+
+See the concepts covered in this workshop as a Jupyter Notebook on nbviewer:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/cmu-lib/portfolio_workshop/blob/main/Python_Series_Materials/__jupyter-notebooks/making-the-most-with-jupyter.ipynb)
+
+Or work through the course content in JupyterLab on Binder:
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/portfolio_workshop/HEAD?labpath=Python_Series_Materials%2F__jupyter-notebooks%2F)
+
+### Post-Workshop Survey
+
+Please complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLSd-sRm4zKwRRvAMr0ZzI9sBS-XSn5bUA_USzwB8DVwbK8gZiQ/viewform?usp=sf_link)
+after attending the workshop. Thank you in advance!!!
