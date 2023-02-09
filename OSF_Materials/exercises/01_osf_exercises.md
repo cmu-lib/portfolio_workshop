@@ -3,7 +3,7 @@ layout: default
 parent: Project Management with with Open Science Framework
 has_children: false
 nav_order: 2
-title: Project Management with with Open Science Framework Framework
+title: Workshop Exercises
 ---
 
 ## Workshop Exercises 
