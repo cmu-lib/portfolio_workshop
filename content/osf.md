@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Management and Pre-Registration with with Open Science
+title: Project Management with with Open Science Framework
 has_children: true
 nav_order: 2
 ---

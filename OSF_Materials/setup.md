@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Project Management and Pre-Registration with with Open Science
+parent: Project Management with with Open Science Framework
 has_children: false
 nav_order: 1
 title: Setup
