@@ -20,7 +20,7 @@ No previous experience is required. This will be a hands-on workshop--please bri
 
 #### 1. Download the workshop files
 
-Download [the workshop files](https://github.com/cmu-lib/portfolio_workshop/blob/main/OpenRefine_Materials/files/20201001_OpenRefine_Workshop_files.zip) and save them in a folder on your desktop. Make sure to extract the files from the zip file.  
+Download [the workshop files](https://github.com/cmu-lib/portfolio_workshop/blob/main/OpenRefine_Materials/files/20201001_OpenRefine_Workshop_files.zip?raw=true) and save them in a folder on your desktop. Make sure to extract the files from the zip file.  
 
 #### 2. Download and Install OpenRefine
 

@@ -18,7 +18,7 @@ In this first part of the 3-part workshop series, "Introduction to Python for Da
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Open Science Postdoctoral Associate  
 Office: 4416, Sorrells Library  
-[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
+[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
 ### Setup
 
@@ -36,5 +36,17 @@ prior to attending.
 | Break | 01:55
 | [Built-in Functions and Help](04-built-in.md) | 02:00 |
 | [Libraries](05-libraries.md) | 02:20 |
+| Workshop Survey | 02:30 |
 | [Reading Tabular Data into DataFrames](06-reading-tabular.md) | 02:35 |
 | Finish  | 03:00  |
+
+### Interactive Curriculum
+
+Click the Binder badge below to work through the course content in JupyterLab.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/portfolio_workshop/HEAD?labpath=Python_Series_Materials%2F__jupyter-notebooks%2F)
+
+### Post-Workshop Survey
+
+Please complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLSeZJ1xPFUMpdeEqoLSJpjwLhmxB0F5UtM37cLqUAxdgJG9how/viewform?usp=sf_link)
+after attending the workshop. Thank you in advance!!!
