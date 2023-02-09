@@ -16,7 +16,7 @@ In set of exercises, we will be:
 * Connecting external platforms like Google Drive, Mendeley, and GitHub
 * Understanding version control in OSF
 
-If you haven't already, download [the workshop files](https://github.com/cmu-lib/portfolio_workshop/blob/main/OpenRefine_Materials/files/20201001_OpenRefine_Workshop_files.zip) and save them in a folder on your desktop. Make sure to extract the files from the zip file.
+If you haven't already, download [the workshop files](https://github.com/cmu-lib/portfolio_workshop/blob/main/OSF_Materials/files/20230213_OSF_files.zip) and save them in a folder on your desktop. Make sure to extract the files from the zip file.
 
 
 ### Exercise 1 Copy a template from an existing project
