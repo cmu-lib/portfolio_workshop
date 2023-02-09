@@ -1,0 +1,35 @@
+-------------------
+GENERAL INFORMATION
+-------------------
+
+1. title of dataset
+Survey data on research data management practices and perceptions of MRI researchers
+
+2. author information
+
+John Borghi
+California Digital Library
+415 20th St, Oakland, CA 94612
+john.borghi@UCOP.edu
+
+Ana Van Gulick
+Carnegie Mellon University Libraries
+5000 Forbes Avenue, Pittsburgh, PA 15213
+anavangulick@cmu.edu
+*Corresponding Author
+
+---------------------
+DATA & FILE OVERVIEW
+---------------------
+
+Directory of files
+
+Filename: Borghi_VanGulick_2018_datadictonary.csv
+Description: A list of variables associated with each survey question. Where multiple responses to a single question were allowed (indicated with the “mc_multiple” variable), names of appropriate recoded variables- each corresponding to a single response- are also included. The “text_response” variable indicates questions where the participant was asked to enter text.
+
+Filename: Borghi_VanGulick_2018_data.csv
+Description: Survey responses from all included participants (n=144). Variable names correspond to survey questions as described in data dictionary. Variables that included potentially identifying information (e.g. university/department affiliation) have been removed from this version.
+
+Dates of Data Collection: June-September 2017 using 
+
+Survey Platform: Qualtrics
