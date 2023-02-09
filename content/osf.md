@@ -25,6 +25,7 @@ No previous experience is required.
 ## Schedule
 
 ### Monday, February 13, 2023
+
 | Time | Content|
 | --- | ---|
 | 12:00 to 12:05 | Welcome and Introduction|
