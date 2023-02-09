@@ -50,7 +50,7 @@ Open Science Program Coordinator
 [lbeltran@andrew.cmu.edu](mailto:lbeltran@andrew.cmu.edu)
 
 Melanie Gainey <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Program Director and Librarian 
+Open Science Program Director and Librarian   
 [mgainey@andrew.cmu.edu](mailto:mgainey@andrew.cmu.edu)
 
 Sarah Young <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
