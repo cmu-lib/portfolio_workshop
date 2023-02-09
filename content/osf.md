@@ -45,8 +45,9 @@ Katie Behrman <a href='https://github.com/rootsandberries' target='_blank'><img 
 Institutional Repository Specialist  
 [kbehrman@andrew.cmu.edu](mailto:kbehrman@andrew.cmu.edu)
 
-Lencia Beltran <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Program Coordinator  
+Lencia Beltran <a href='https://github.com/lenciabeltran' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Open Science Program Coordinator
+Office: 4416, Sorrells Library  
 [lbeltran@andrew.cmu.edu](mailto:lbeltran@andrew.cmu.edu)
 
 Melanie Gainey <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
