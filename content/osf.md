@@ -38,7 +38,7 @@ No previous experience is required.
 | 13:20 to 13:25| Pre-prints and other uses |
 | 13:25 to 13:30| Wrap-Up|
 
-_Actual schedule may vary depending on group needs; all times refer to Eastern Standard Time (EST)_ 
+_Actual schedule may vary depending on group needs; all times refer to Eastern Standard Time (EST) 
 ____
 ### Presenters
 Katie Behrman <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
