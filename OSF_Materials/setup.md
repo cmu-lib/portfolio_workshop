@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Project Management with with Open Science Framework
+parent: Project Management with Open Science Framework
 has_children: false
 nav_order: 1
 title: Setup
