@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Project Management with with Open Science Framework
+title: Project Management with Open Science Framework
 has_children: true
 nav_order: 2
 ---
