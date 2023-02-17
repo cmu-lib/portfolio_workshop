@@ -10,8 +10,8 @@ title: Plotting and Analyzing Tabular Datasets
 
 In the final part of the 3-part workshop series, "Introduction to Python for Data Science," we demonstrate advanced Python programming techniques using the Pandas library to read tabular datasets, perform statistical analyses, and visualize data. The content covered in this workshop will be a continuation of the content covered in part 1, "Introduction to Basic Programming with Data". We highly encourage attending the first part of the series before this workshop, especially to learners that are new to the Python programming language.  
 
-**Date:** February 21, 2023   
-**Time:** 1:00-3:00 pm   
+**Date:** March 20, 2023   
+**Time:** 1:30-3:30 pm   
 **Location:** The Den, Sorrells Library   
 
 ### Presenters

@@ -10,8 +10,8 @@ title: Making the Most with Jupyter Lab and Notebooks
 
 Are you new to using Jupyter Lab and Notebooks? Or have you used these platforms before but want to learn more about them? Then come check out this workshop! This workshop is designed to be an introduction to Jupyter Lab and Notebooks. Some of the topics that will be covered include: how to access these platforms, an overview of platform features like hotkeys and magic commands, the basics of using markdown, publishing notebooks on the web, and how to use and display interactive figures. This is the second part of a workshop series titled “Introduction to Python for Data Science.” Attending the first part is not a requirement, but highly encouraged if you are new to the Python programming language.
 
-**Date:** February 14, 2023   
-**Time:** 1:00-3:00 pm   
+**Date:** March 13, 2023   
+**Time:** 1:30-3:30 pm   
 **Location:** The Den, Sorrells Library   
 
 ### Presenters
