@@ -8,9 +8,9 @@ title: Introduction to Command Line Interface
 # Introduction to Command Line Interface
 Intro
 
-**Date:** March 14, 2023
-**Time:** 10:00 am - 12:00 pm
-**Location:** 
+**Date:** March 14, 2023                           
+**Time:** 10:00 am - 12:00 pm                       
+**Location:** Virtual Workshop - This is a virtual event. A URL to participate will be sent via a reminder email 24 hours before the event.
 
 ### Presenters
 Lencia Beltran <a href='https://github.com/lenciabeltran' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
