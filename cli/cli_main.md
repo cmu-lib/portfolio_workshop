@@ -6,9 +6,10 @@ title: Introduction to Command Line Interface
 ---
 
 # Introduction to Command Line Interface
+Intro
 
-**Date:** 
-**Time:** 
+**Date:** March 14, 2023
+**Time:** 10:00 am - 12:00 pm
 **Location:** 
 
 ### Presenters
