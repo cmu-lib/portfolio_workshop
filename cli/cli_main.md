@@ -1,8 +1,7 @@
 ---
 layout: default
-parent: Command Line Interface
 has_children: true
-nav_order: 2
+nav_order: 5
 title: Introduction to Command Line Interface
 ---
 
