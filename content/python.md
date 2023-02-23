@@ -40,6 +40,6 @@ for the purpose of working with data.
 
 | Day | Time | Title
 | --- | --- | ---
-| February 7, 2023 | 1:00-3:00 pm | Part 1: Introduction to Basic Programming with Data
-| February 14, 2023 | 1:00-3:00 pm | Part 2: Making the Most with Jupyter Lab and Notebooks
-| February 21, 2023 | 1:00-3:00 pm | Part 3: Plotting and Analyzing Tabular Datasets
+| February 7, 2023 | 1:00-3:00 pm | [Part 1: Introduction to Basic Programming with Data](../Python_Series_Materials/part_1/part_1)
+| March 13, 2023 | 1:30-3:30 pm | [Part 2: Making the Most with Jupyter Lab and Notebooks](../Python_Series_Materials/part_2/part_2)
+| March 20, 2023 | 1:30-3:30 pm | [Part 3: Plotting and Analyzing Tabular Datasets](../Python_Series_Materials/part_3/part_3)
