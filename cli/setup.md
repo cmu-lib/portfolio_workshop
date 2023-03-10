@@ -29,7 +29,7 @@ If you use
 [Linux](setup.html#Linux)           
 
 ### Microsoft
-1. Download the Git for Windows [installer] (https://gitforwindows.org/).
+1. Download the Git for Windows [installer](https://gitforwindows.org/).
 2. Run the installer and follow the steps below:
     1. Click on "Next" four times (two times if you've previously installed Git). You don't need to change anything in the Information, location, components, and start menu screens.
 
