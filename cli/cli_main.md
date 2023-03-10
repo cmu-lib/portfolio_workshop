@@ -6,7 +6,7 @@ title: Introduction to Command Line Interface
 ---
 
 # Introduction to Command Line Interface
-This is a hands-on introduction to using the command line interface. This workshop is designed for those who are beginning their exploration into command line programming and anyone seeking to refresh their skills. Command line interface (CLI) is a quick and efficient way to perform computing tasks. A few of the topics that will be introduced include navigating the directory structure, commonly used commands, working with files and directories, and more. For this workshop you’ll need access to Bash Shell. If you use MacOS or Linux then you should have Bash already installed. For those on Windows OS you may need to install a bash shell. <a href='https://gitforwindows.org' target='_blank'> [Git Bash] installation is one option for installing Bash Shell.  
+This is a hands-on introduction to using the command line interface. This workshop is designed for those who are beginning their exploration into command line programming and anyone seeking to refresh their skills. Command line interface (CLI) is a quick and efficient way to perform computing tasks. A few of the topics that will be introduced include navigating the directory structure, commonly used commands, working with files and directories, and more. For this workshop you’ll need access to Bash Shell. If you use MacOS or Linux then you should have Bash already installed. For those on Windows OS you may need to install a bash shell. [Git Bash](https://gitforwindows.org) installation is one option for installing Bash Shell.  
 
 **Date:** March 14, 2023                           
 **Time:** 10:00 am - 12:00 pm                       
