@@ -26,9 +26,9 @@ If you use
 
 {% include python_install.html %}
 
-[Microsoft](setup.html#Microsoft)
-Mac
-Linux
+[Microsoft](setup.html#Microsoft)           
+[Mac](setup.html#Mac)           
+[Linux](setup.html#Linux)           
 
 ### Microsoft
 1. Download the Git for Windows [installer] (https://gitforwindows.org/).
