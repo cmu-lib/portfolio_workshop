@@ -29,7 +29,8 @@ prior to attending.
 | ------------- | ------------- |
 | [Setup](setup.md)  |   |
 | [Introduction to Shell](01_intro_to_shell.md) |   |
-| [Working with Files and Directories](02_files_direc.md)  |  |
+| [Exploring Files and Directories](02_files_direc.md)  |  |
+| [Working with Files and Directories](04_files_direc_working.md)  |  |
 | [Pipes & Filters](03-pipes-filters.md)  |   |
 
 ### Post-Workshop Survey
