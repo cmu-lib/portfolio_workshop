@@ -32,12 +32,6 @@ prior to attending.
 | [Working with Files and Directories](02_files_direc.md)  |  |
 | [Pipes & Filters](03-pipes-filters.md)  |   |
 
-### Introduction to Shell
-[Introduction to Shell](01_intro_to_shell.md)
-### Working with Files and Directories
-[Working with Files and Directories](02_files_direc.md)
-### Pipes & Filters
-[Pipes & Filters](03-pipes-filters.md)
 ### Post-Workshop Survey
 
 Please complete this [survey]()
