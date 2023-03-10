@@ -24,7 +24,9 @@ If you have a Mac or Linux operating system then you should have access to Bash 
 
 If you use
 
-[Microsoft](###Microsoft)
+{% include python_install.html %}
+
+[Microsoft](setup.html#Microsoft)
 Mac
 Linux
 
