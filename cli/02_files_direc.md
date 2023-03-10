@@ -119,7 +119,7 @@ You can navigate through the man pages in a number of ways:
 
 **3. To search for a character or word** / followed by the character or word
 
-If search results in multiple hits you can mov between hits using n (to move forward) and shift+ n (to move backward)
+If search results in multiple hits you can mov between hits using `n` (to move forward) and `shift+ n` (to move backward)
 
 Press `q` to quit the `man` pages
 
