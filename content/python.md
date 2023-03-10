@@ -43,3 +43,7 @@ for the purpose of working with data.
 | February 7, 2023 | 1:00-3:00 pm | [Part 1: Introduction to Basic Programming with Data](../Python_Series_Materials/part_1/part_1)
 | March 13, 2023 | 1:30-3:30 pm | [Part 2: Making the Most with Jupyter Lab and Notebooks](../Python_Series_Materials/part_2/part_2)
 | March 20, 2023 | 1:30-3:30 pm | [Part 3: Plotting and Analyzing Tabular Datasets](../Python_Series_Materials/part_3/part_3)
+
+### Acknowledgment
+
+*The material for this workshop series was created from the [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/) curriculum developed by [The Software Carpentry Foundation](https://software-carpentry.org/) of [The Carpentries](https://carpentries.org/) licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
