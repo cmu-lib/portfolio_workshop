@@ -30,6 +30,8 @@ Office: 4416, Sorrells Library
 To be best prepared for this workshop, please follow the [setup instructions](../setup)
 prior to attending.
 
+At the end of the workshop, we will provide a demo on how to move Jupyter notebooks to the web. If you are interested in doing this yourself, we recommend that you [create a GitHub account](https://github.com/) using a reliable email address, and download a recent version of [Git](https://git-scm.com/downloads) to your laptop.
+
 ### Schedule
 
 | Section  | Time |
