@@ -18,6 +18,9 @@ Open Science Program Coordinator
 Office: 4416, Sorrells Library  
 [lbeltran@andrew.cmu.edu](mailto:lbeltran@andrew.cmu.edu)
 
+### Goals of this Workshop
+
+
 ### Setup
 To be best prepared for this workshop, please follow the [setup instructions](setup.md)
 prior to attending.
