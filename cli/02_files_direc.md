@@ -30,12 +30,12 @@ At anytime to find out where you are in your command line interface, you can typ
 
 Commands mostly read and write files in the current working directory, i.e. ‘here’, so knowing where you are before running a command is important.
 <p align='center'>
-  <img alt="Bash" src="fig/pwdcommand.png" width="750"/>
+  <img alt="pwdcommand" src="fig/pwdcommand.png" width="750"/>
 </p>
 
 I'm currently in my home directory.
 <p align='center'>
-  <img alt="Bash" src="fig/pwd.png" width="750"/>
+  <img alt="pwd" src="fig/pwd.png" width="750"/>
 </p>
 
 Your home directory might be different depending on your operating system:
@@ -57,7 +57,7 @@ $  C:\Users\lbeltran
 ### Understanding File Directories
 Let's take a quick tour of what a filesystem looks like:
 <p align='center'>
-  <img alt="Bash" src="fig/filesystem.png" width="750"/>
+  <img alt="filesystem" src="fig/filesystem.png" width="750"/>
 </p>
 `/` character represents the root directory on its own. So this is the leading slash in my /Users/lbeltran
 
@@ -74,11 +74,11 @@ As you can see that bash depends on your files being organized in a Hierarchical
 ### Lists
 Let's try our first command,ls. `ls` is short for list. This command will give you a list of all your contents in your current working directory.
 <p align='center'>
-  <img alt="Bash" src="fig/lscommand.png" width="750"/>
+  <img alt="lscommand" src="fig/lscommand.png" width="750"/>
 </p>
 After typing in `ls` press `enter` or `return` and you'll get a list of your contents.
 <p align='center'>
-  <img alt="Bash" src="fig/ls.png" width="750"/>
+  <img alt="ls" src="fig/ls.png" width="750"/>
 </p>
 
 If you are not sure if a content is a directory or a file you can type ls -F and if it has a trailing / then it's a directory.
@@ -91,7 +91,7 @@ You can learn more about a command by using the `--help` command or using the ma
 $ --help
 ~~~
 <p align='center'>
-  <img alt="Bash" src="fig/helpcommand.png" width="750"/>
+  <img alt="helpcommand" src="fig/helpcommand.png" width="750"/>
 </p>
 
 ~~~
@@ -99,7 +99,7 @@ $  help
 ~~~
 
 <p align='center'>
-  <img alt="Bash" src="fig/helpcommand.png" width="750"/>
+  <img alt="helpcommand" src="fig/helpcommand.png" width="750"/>
 </p>
 
 ~~~
@@ -107,7 +107,7 @@ $  man ls
 ~~~
 
 <p align='center'>
-  <img alt="Bash" src="fig/mancommand.png" width="750"/>
+  <img alt="mancommand" src="fig/mancommand.png" width="750"/>
 </p>
 
 Tips for navigating `man`  pages
@@ -126,7 +126,7 @@ Press `q` to quit the `man` pages
 ### Exploring other Directories
 To list and explore other directories without actually moving to that directory you can use `ls` **command**, `-F` **option** and an **argument** `Desktop`
 <p align='center'>
-  <img alt="Bash" src="fig/lsothdirect.png" width="750"/>
+  <img alt="lsothdirect" src="fig/lsothdirect.png" width="750"/>
 </p>
 
 ### Moving down the directory tree
@@ -135,11 +135,11 @@ We can change our location to a different directory to go down the directory tre
 So for example, if we want to get to the exercise folder, on our desktop, we can go down the directory tree to get there doing the following:
 
 <p align='center'>
-  <img alt="Bash" src="fig/cdcommand.png" width="750"/>
+  <img alt="cdcommand" src="fig/cdcommand.png" width="750"/>
 </p>
 
 <p align='center'>
-  <img alt="Bash" src="fig/cdconfirmed.png" width="750"/>
+  <img alt="cdcommand" src="fig/cdconfirmed.png" width="750"/>
 </p>
 
 An alternative method of moving down is `cd -` which will move you back to the previous directory you were in. **Tip**: if you do `cd -` twice it will take you back to the starting directory.
