@@ -6,7 +6,7 @@ nav_order: 2
 title: Working with Files and Directories
 ---
 
-### Exploring Files and Directories
+# Exploring Files and Directories
 
 ### What is Command Line?
 Command line interface, command prompt, command screen, terminal, text interface, and shell are all instances that refer to an environment that receives commands from a user in the form of text. Using the command line interface is an alternative method for interacting with your computer than the commonly known approach, using a mouse to point and click on a computers graphical user interface (gui).
