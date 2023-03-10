@@ -20,7 +20,7 @@ title: Pipes & Filters
 If we run the command `wc *.pdb`, the `* in *.pdb` matches zero or more characters, so the shell turns `*.pdb` into a list of all `.pdb` files in the current directory:
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/starfiletype.png" width="750"/>
+  <img alt="CLI starfiletype" src="fig/starfiletype.png" width="750"/>
 </p>
 
 The above command `*.pdb` will show the total number of **all** lines in the last line of the output. To show only the number of lines per file you can type:
@@ -30,7 +30,7 @@ $ wc -l *.pdb
 ~~~
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/wclcommand.png" width="750"/>
+  <img alt="CLI wclcommand" src="fig/wclcommand.png" width="750"/>
 </p>
 
 Other commands using `wc`
@@ -82,7 +82,7 @@ $ wc -l *.pdb > lengths.txt
 In the command we used the `>` to redirect the content that the `wc` command would have printed to a new file named `lengths.txt`. To check the file exists type `ls lengths.txt` command.
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/redirectcommand.png" width="750"/>
+  <img alt="CLI redirectcommand" src="fig/redirectcommand.png" width="750"/>
 </p>
 
 **Note:**
@@ -106,26 +106,26 @@ Passing output using pipes
 You can use a vertical bar `|`, called a **pipe** between two commands to tell shell you want to use the output of the command on the left as the input to the command on the right. This looks like:
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/pipecommand.png" width="750"/>
+  <img alt="CLI pipecommand" src="fig/pipecommand.png" width="750"/>
 </p>
 
 Combining multiple commands
 We can also use the `pipe` command to consecutively chain pipes, which makes the need for intermediate files unnecessary. In the following example, we are asking shell to send the output of `wc` word count directly to `sort`, and then send the resulting output to `head`. Let's break it down.
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/multiplepipes.png" width="750"/>
+  <img alt="CLI multiplepipes" src="fig/multiplepipes.png" width="750"/>
 </p>
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/multiplepipes2.png" width="750"/>
+  <img alt="CLI multiplepipes2" src="fig/multiplepipes2.png" width="750"/>
 </p>
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/multiplepipesoutput.png" width="750"/>
+  <img alt="CLI multiplepipesoutput" src="fig/multiplepipesoutput.png" width="750"/>
 </p>
 
 <p align='center'>
-  <img alt="CLI Syntax" src="fig/illustrationpipes.png" width="750"/>
+  <img alt="CLI illustrationpipes" src="fig/illustrationpipes.png" width="750"/>
 </p>
 
 ***Tip***: you can think of it like nesting functions in mathematics!
