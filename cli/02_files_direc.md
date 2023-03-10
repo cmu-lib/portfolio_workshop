@@ -124,7 +124,7 @@ If search results in multiple hits you can mov between hits using `n` (to move f
 Press `q` to quit the `man` pages
 
 ### Exploring other Directories
-To list and explore other directories without actually moving to that directory you can use `ls` **command**, `-F` **option** and an **argument** Desktop
+To list and explore other directories without actually moving to that directory you can use `ls` **command**, `-F` **option** and an **argument** `Desktop`
 <p align='center'>
   <img alt="Bash" src="fig/lsothdirect.png" width="750"/>
 </p>
