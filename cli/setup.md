@@ -24,7 +24,7 @@ If you have a Mac or Linux operating system then you should have access to Bash 
 
 If you use
 
-[Microsoft](https://agirlisnoone05.github.io/portfolio_workshop/cli/setup.html#Microsoft)
+[Microsoft](###Microsoft)
 Mac
 Linux
 
