@@ -9,7 +9,7 @@ title: Setup
 # Setup
 
 ### Getting the Data
-The data we will use is taken from the [Software Carpentries](https://software-carpentry.org). To obtain it, download and unzip the file [here](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip). please save the data to a folder called `data` on your desktop
+The data we will use is taken from the [Software Carpentries](https://software-carpentry.org). To obtain it, download the file [here](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip) and unzip it. Please save the data to a folder called `data` on your desktop
 
 ### Install Shell Software
 If you do not already have the shell software installed, you will need to download and install it. (See below)
@@ -70,15 +70,6 @@ Quit command prompt by typing exit then pressing Enter
 This will provide you with both Git and Bash in the Git Bash program.
 
 ### Video Tutorial
-~~~
-%%html
-<!-- blank line -->
-<figure class="video_container">
-  <iframe src="https://www.youtube.com/embed/339AEqk9c-8" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-<!-- blank line -->
-~~~
 
-[Video Tutorial](https://www.youtube.com/watch?v=339AEqk9c-8&embeds_euri=https%3A%2F%2Fdkiq3anw95g-496ff2e9c6d22116-0-colab.googleusercontent.com%2F&feature=emb_logo)
-
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=339AEqk9c-8&embeds_euri=https%3A%2F%2Fdkiq3anw95g-496ff2e9c6d22116-0-colab.googleusercontent.com%2F&feature=emb_logo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+Video Tutorial
+<iframe width="560" height="315" src="https://www.youtube.com/embed/339AEqk9c-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
