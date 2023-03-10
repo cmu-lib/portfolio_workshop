@@ -9,7 +9,7 @@ title: Setup
 # Setup
 
 ### Getting the Data
-The data we will use is taken from the [Software Carpentries](https://software-carpentry.org). To obtain it, download and unzip the file [here] (https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip). please save the data to a folder called `data` on your desktop
+The data we will use is taken from the [Software Carpentries](https://software-carpentry.org). To obtain it, download and unzip the file [here](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip). please save the data to a folder called `data` on your desktop
 
 ### Install Shell Software
 If you do not already have the shell software installed, you will need to download and install it. (See below)
