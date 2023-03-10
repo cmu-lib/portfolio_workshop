@@ -90,7 +90,7 @@ To create a copy of a file or directory, you can use the `cp` copy command. The 
   <img alt="CLI Syntax" src="fig/lscopy.png" width="750"/>
 </p>  
 
-To create a back up of a directory, you can use a recursive option -r. This will create a copy of a directory and all its contents.
+To create a back up of a directory, you can use a recursive option `-r`. This will create a copy of a directory and all its contents.
 <p align='center'>
   <img alt="CLI Syntax" src="fig/cprecursiver.png" width="750"/>
 </p>  
