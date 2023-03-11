@@ -12,13 +12,14 @@ title: Setup
 The data we will use is taken from the [Software Carpentries](https://software-carpentry.org). To obtain it, download the file [here](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip) and unzip it. You should have a new folder on your desktop called `shell-lesson-data`.
 
 ### Install Shell Software
-If you do not already have the shell software installed, you will need to download and install it. (See below)
+If you do not already have the shell software installed, you will need to [download and install it](#install). (See below)
 
 ### Opening Shell
 After installing the software
 
 Open a terminal. If you’re not sure how to open a terminal on your operating system, see the instructions below. In the terminal type cd then press the **Enter** or **Return** key. This step will make sure you start with your home folder as your working directory. In the lesson, you will find out how to access the data files in this folder.
 
+<a id="install"></a>
 ### Installing Bash
 If you have a Mac or Linux operating system then you should have access to Bash through your terminal or command prompt.
 
