@@ -91,7 +91,7 @@ You can learn more about a command by using the `--help` command or using the ma
 $ --help
 ~~~
 <p align='center'>
-  <img alt="helpcommand" src="fig/helpcommand.png" width="750"/>
+  <img alt="helpcommand" src="fig/--helpcommand.png" width="750"/>
 </p>
 
 ~~~
