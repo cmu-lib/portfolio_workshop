@@ -36,5 +36,5 @@ prior to attending.
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
+Please complete this [survey](https://docs.google.com/forms/d/e/1FAIpQLScJFwowUxYc9P3Y43CLnUQ0BnsysA3B7pmbmGH_D5wPkjYtNA/viewform?usp=sharing)
 after attending the workshop. Thank you in advance!!!
