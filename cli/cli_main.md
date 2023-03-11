@@ -19,7 +19,7 @@ Office: 4416, Sorrells Library
 [lbeltran@andrew.cmu.edu](mailto:lbeltran@andrew.cmu.edu)
 
 ### Goals of this Workshop
-
+The goal of this workshop is to introduce beginner users of the command line interface to basic concepts and commands for navigating and working with files and directories.  Learners will understand how to move around their directories using commands like `pwd`, `cd`, and `ls`; work with directories to create new directories, and access the text editor, including moving, making copies, and removing files; use pipe and filters to view word counts, filter files using `sort` and `cat` and combine commands. 
 
 ### Setup
 To be best prepared for this workshop, please follow the [setup instructions](setup.md)
@@ -28,9 +28,11 @@ prior to attending.
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](setup.md)  |   |
-| [Exploring Files and Directories](02_files_direc.md)  |  |
-| [Working with Files and Directories](04_files_direc_working.md)  |  |
-| [Pipes & Filters](03-pipes-filters.md)  |   |
+| [Exploring Files and Directories](02_files_direc.md)  | 10:00 |
+| [Working with Files and Directories](04_files_direc_working.md)  | 10:40 |
+| [Pipes & Filters](03-pipes-filters.md)  | 11:20 |
+| Survey  | 11:50 |
+| Wrap-up  | 12:00 |
 
 ### Post-Workshop Survey
 
