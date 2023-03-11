@@ -3,6 +3,7 @@ layout: default
 parent: Introduction to Command Line Interface
 has_children: false
 nav_order: 2
+date: 2023-03-11
 title: Setup
 ---
 
