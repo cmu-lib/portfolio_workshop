@@ -9,7 +9,7 @@ title: Setup
 # Setup
 
 ### Getting the Data
-The data we will use is taken from the [Software Carpentries](https://software-carpentry.org). To obtain it, download the file [here](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip) and unzip it. Please save the data to a folder called `data` on your desktop
+The data we will use is taken from the [Software Carpentries](https://software-carpentry.org). To obtain it, download the file [here](https://swcarpentry.github.io/shell-novice/data/shell-lesson-data.zip) and unzip it. You should have a new folder on your desktop called `shell-lesson-data`.
 
 ### Install Shell Software
 If you do not already have the shell software installed, you will need to download and install it. (See below)
@@ -74,9 +74,9 @@ This will provide you with both Git and Bash in the Git Bash program.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/339AEqk9c-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
 ### Mac
-The default shell in some versions of macOS is Bash, and Bash is available in all versions, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
+The default shell in some versions of macOS is Bash, and Bash is available in all versions, so no need to install anything. You access Bash from the Terminal `(found in /Applications/Utilities)`. See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
 
-To see if your default shell is Bash type echo $SHELL in Terminal and press the Return key. If the message printed does not end with '/bash' then your default is something else and you can run Bash by typing bash
+To see if your default shell is Bash type `echo $SHELL` in Terminal and press the `Return` key. If the message printed does not end with '/bash' then your default is something else and you can run Bash by typing `bash`
 
 If you want to change your default shell, see this Apple Support article and follow the instructions on "How to change your default shell".
 
@@ -86,5 +86,10 @@ If you want to change your default shell, see this Apple Support article and fol
 ### Linux
 The default shell is usually Bash and there is usually no need to install anything.
 
-To see if your default shell is Bash type echo $SHELL in a terminal and press the Enter key. If the message printed does not end with '/bash' then your default is something else and you can run Bash by typing bash.
+To see if your default shell is Bash type `echo $SHELL` in a terminal and press the `Enter` key. If the message printed does not end with '/bash' then your default is something else and you can run Bash by typing `bash`.
 
+
+
+
+
+*This course material was created from the [The Unix Shell](https://swcarpentry.github.io/shell-novice/) curriculum developed by [The Software Carpentry Foundation](https://software-carpentry.org/) of [The Carpentries](https://carpentries.org/) licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
