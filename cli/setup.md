@@ -24,10 +24,11 @@ If you have a Mac or Linux operating system then you should have access to Bash 
 
 If you use
 
-[Microsoft](setup.html#Microsoft)           
-[Mac](setup.html#Mac)           
-[Linux](setup.html#Linux)           
+[Microsoft](#microsoft)        
+[Mac](#mac)             
+[Linux](#linux)             
 
+<a id="microsoft"></a>
 ### Microsoft
 1. Download the Git for Windows [installer](https://gitforwindows.org/).
 2. Run the installer and follow the steps below:
@@ -73,6 +74,7 @@ This will provide you with both Git and Bash in the Git Bash program.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/339AEqk9c-8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+<a id="mac"></a>
 ### Mac
 The default shell in some versions of macOS is Bash, and Bash is available in all versions, so no need to install anything. You access Bash from the Terminal `(found in /Applications/Utilities)`. See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop.
 
@@ -83,12 +85,11 @@ If you want to change your default shell, see this Apple Support article and fol
 #### Video Tutorial
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9LQhwETCdwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
 
+<a id="linux"></a>
 ### Linux
 The default shell is usually Bash and there is usually no need to install anything.
 
 To see if your default shell is Bash type `echo $SHELL` in a terminal and press the `Enter` key. If the message printed does not end with '/bash' then your default is something else and you can run Bash by typing `bash`.
-
-
 
 
 
