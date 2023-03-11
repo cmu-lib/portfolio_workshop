@@ -20,7 +20,7 @@ You can create a new directory by using the command `mkdir` which means 'make di
 It's possible to create a directory with nested subdirectories in a single operation using the option `-p` with your `mkdir` command.
 
 <p align='center'>
-  <img alt="CLI mkdircommand" src="fig/mkdircommand.png" width="750"/>
+  <img alt="CLI mkdircommand" src="fig/mkdirpcommand.png" width="750"/>
 </p>
 
 To be sure the nested subdirectories were created in your directory hierarchy, type `ls -FR` and directory name. See example below:
