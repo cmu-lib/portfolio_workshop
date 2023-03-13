@@ -2,7 +2,7 @@
 layout: default
 parent: Introduction to Command Line Interface
 has_children: false
-nav_order: 2
+nav_order: 4
 title: Pipes & Filters
 ---
 
