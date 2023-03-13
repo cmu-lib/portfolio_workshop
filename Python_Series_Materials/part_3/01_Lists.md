@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 2
+nav_order: 1
 title: "Lists"
 teaching: 10
 exercises: 10
@@ -24,3 +24,5 @@ keypoints:
 - "Character strings are immutable."
 - "Indexing beyond the end of the collection is an error."
 ---
+
+### Lists
