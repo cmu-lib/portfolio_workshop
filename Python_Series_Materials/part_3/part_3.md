@@ -29,7 +29,7 @@ prior to attending.
 
 | Section  | Time |
 | ------------- | ------------- |
-| [Setup](setup.md)  |   |
+| [Setup](../setup)  |   |
 | [Lists](01_Lists.md)  |  |
 | [For Loops](02_For_Loops.md)  |  |
 | [Conditionals](03_Conditionals.md)  |  |
