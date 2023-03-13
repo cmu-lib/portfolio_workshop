@@ -27,4 +27,16 @@ prior to attending.
 
 ### Schedule
 
-Coming Soon!
+| Section  | Time |
+| ------------- | ------------- |
+| [Setup](setup.md)  |   |
+| [Lists](01_Lists.md)  |  |
+| [For Loops](02_For_Loops.md)  |  |
+| [Conditionals](03_Conditionals.md)  |  |
+| [Looping over Datasets](04_Looping_over_Datasets.md)  |  |
+| Wrap-up  |  |
+
+### Post-Workshop Survey
+
+Please complete this [survey]()
+after attending the workshop. Thank you in advance!!!
