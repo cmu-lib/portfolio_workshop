@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 1
+nav_order: 3
 title: "Conditionals"
 teaching: 10
 exercises: 15
@@ -20,6 +20,9 @@ keypoints:
 - "Conditions are tested once, in order."
 - "Create a table showing variables' values to trace a program's execution."
 ---
+
+# Conditionals
+
 ## Use `if` statements to control whether or not a block of code is executed.
 
 *   An `if` statement (more properly called a *conditional* statement)
