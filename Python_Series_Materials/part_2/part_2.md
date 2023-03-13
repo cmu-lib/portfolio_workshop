@@ -37,14 +37,14 @@ At the end of the workshop, we will provide a demo on how to move Jupyter notebo
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](../setup.md)  |   |
-| Navigating JupyterLab | 01:00  |
-| Markdown and Magic Commands  | 01:15  |
-| Displaying Media  |  01:35  |
+| Navigating JupyterLab | 01:30  |
+| Markdown and Magic Commands  | 01:45  |
+| Displaying Media  |  02:05  |
 | Break | 01:55
-| Interactive Plots | 02:00 |
-| Workshop Survey | 02:30 |
-| Moving Notebooks to the Web | 02:35 |
-| Finish  | 03:00  |
+| Interactive Plots | 02:30 |
+| Workshop Survey | 02:45 |
+| Moving Notebooks to the Web | 03:15 |
+| Finish  | 03:30  |
 
 ### Accessing the Curriculum
 
