@@ -20,7 +20,7 @@ build computational skills for Open Research and Data Science.
 | February 16, 2023 | 10:00 am - 11:30 am | [Intro to R Part 1: Getting Started with R and RStudio](https://cmu.libcal.com/event/10185624)
 | February 23, 2023 | 10:00 am - 11:30 am | [Intro to R Part 2: Working with Data in R](https://cmu.libcal.com/event/10185621)
 | March 13, 2023 | 1:30 pm - 3:30 pm | [Intro to Python Part 2: Making the Most with Jupyter Lab and Notebooks](https://cmu.libcal.com/event/10230549) ([Content](Python_Series_Materials/part_2/part_2.md))
-| March 14, 2023 | 10:00 am - 12:00 pm | [Introduction to Command Line Interface](https://cmu.libcal.com/event/10252549)
+| March 14, 2023 | 10:00 am - 12:00 pm | [Introduction to Command Line Interface](https://cmu.libcal.com/event/10252549) ([Content](cli/cli_main.md))
 | March 15, 2023 | 11:00 am - 12:00 pm | [Data Visualization Best Practices](https://cmu.libcal.com/event/10231975)
 | March 20, 2023 | 1:30 pm - 3:30 pm | [Intro to Python Part 3: Plotting and Analyzing Tabular Datasets](https://cmu.libcal.com/event/10230737) ([Content](Python_Series_Materials/part_3/part_3.md))
 | March 22, 2023 | 11:00 am - 12:00 pm | [Data Visualization in R](https://cmu.libcal.com/event/10231953)
