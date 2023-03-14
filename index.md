@@ -33,7 +33,7 @@ build computational skills for Open Research and Data Science.
 
 Schedule a consultation with our library associates for support with data!
 
-![Data Office Hours Flyer](../content/img/data-office-hours.png)
+![Data Office Hours Flyer](content/img/data-office-hours.png)
 
 ## Coordinators
 
