@@ -29,6 +29,12 @@ build computational skills for Open Research and Data Science.
 | April 19, 2023 | 10:00 am - 12:00 pm | [Python for Harvesting Data on the Web](https://cmu.libcal.com/event/10252102)
 | April 20, 2023 | 12:00 pm - 1:30 pm | [Creating Websites and Portfolios with GitPages](https://cmu.libcal.com/event/10185690) ([Content](content/git_github.md))
 
+## Data Office Hours 
+
+Schedule a consultation with our library associates for support with data!
+
+![Data Office Hours Flyer](../content/img/data-office-hours.png)
+
 ## Coordinators
 
 Melanie Gainey (she/her/hers)  
