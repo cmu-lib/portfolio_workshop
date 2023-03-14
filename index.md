@@ -31,7 +31,7 @@ build computational skills for Open Research and Data Science.
 
 ## Data Office Hours 
 
-Schedule a consultation with our library associates for support with data!
+Schedule a [Data Consultation](https://library.cmu.edu/service/data-office-hours) with our library associates for support with data and research!
 
 ![Data Office Hours Flyer](content/img/data-office-hours.png)
 
