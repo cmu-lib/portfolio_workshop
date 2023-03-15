@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 4
+nav_order: 6
 title: "Looping over Datasets"
 teaching: 5
 exercises: 10
