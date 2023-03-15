@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 3
+nav_order: 5
 title: "Conditionals"
 teaching: 10
 exercises: 15
