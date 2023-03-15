@@ -23,6 +23,8 @@ keypoints:
 - "Select values or NaN using a Boolean mask."
 ---
 
+# Pandas Dataframes
+
 ## Note about Pandas DataFrames/Series
 
 A [DataFrame][pandas-dataframe] is a collection of [Series][pandas-series];
