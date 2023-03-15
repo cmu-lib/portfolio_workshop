@@ -30,6 +30,8 @@ prior to attending.
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](../setup)  |   |
+| [Pandas Dataframes](05_Pandas_DataFrames.md)  |  |
+| [Plotting](06_plotting.md)  |  |
 | [Lists](01_Lists.md)  |  |
 | [For Loops](02_For_Loops.md)  |  |
 | [Conditionals](03_Conditionals.md)  |  |
