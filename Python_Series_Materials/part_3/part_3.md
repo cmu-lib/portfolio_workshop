@@ -40,5 +40,5 @@ prior to attending.
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
+Please complete this [survey](https://forms.gle/SU2uYinx6QvocfkB7)
 after attending the workshop. Thank you in advance!!!
