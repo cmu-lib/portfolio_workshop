@@ -30,13 +30,14 @@ prior to attending.
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](../setup)  |   |
-| [Pandas Dataframes](05_Pandas_DataFrames.md)  |  |
-| [Plotting](06_plotting.md)  |  |
-| [Lists](01_Lists.md)  |  |
-| [For Loops](02_For_Loops.md)  |  |
-| [Conditionals](03_Conditionals.md)  |  |
-| [Looping over Datasets](04_Looping_over_Datasets.md)  |  |
-| Wrap-up  |  |
+| [Pandas Dataframes](05_Pandas_DataFrames.md)  | 01:30 |
+| [Plotting](06_plotting.md)  | 02:00 |
+| [Lists](01_Lists.md)  | 02:20 |
+| Break | 02:30 |
+| [For Loops](02_For_Loops.md)  | 02:35 |
+| [Conditionals](03_Conditionals.md)  | 02:45 |
+| [Looping over Datasets](04_Looping_over_Datasets.md)  | 03:00 |
+| Finish  | 03:30 |
 
 ### Post-Workshop Survey
 
