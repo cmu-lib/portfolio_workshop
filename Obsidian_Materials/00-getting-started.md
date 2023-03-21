@@ -25,14 +25,14 @@ If you haven't already, please [download Obsidian](https://obsidian.md/). It is 
 
 Once you have Obisdian installed, open it and create your first vault!
 
-![[open-vault.png]]
+![open-vault.png](Images/open-vault.png)
 
 There are several options to open a vault. For new users, it is recommended to create a new vault in an empty folder on your computer. There is also an option to open a vault from an existing folder of Markdown files.
 
 ### Create an new vault
 
 Select the option to "*Create new vault*" and in the next window, give a name and location for your vault. This will create a folder of the same name in the chosen location on your computer.
-![[create-new-vault.png]]
+![create-new-vault.png](Images/create-new-vault.png)
 
 ### Open folder as vault
 
@@ -46,7 +46,7 @@ If you want to access your vaults across different devices, you have several opt
 
 Obsidian is highly customizable! Now that you have a vault, you can make it look most appealing to your taste.
 
-![[appearance.png]]
+![appearance.png](Images/appearance.png)
 
 - Select the **Settings** option (gear icon) in the bottom left corner of the window
 - Choose the **Appearance** tab
@@ -55,4 +55,4 @@ Obsidian is highly customizable! Now that you have a vault, you can make it look
 - Finally, you can explore **Community Themes** by selecting **"Manage"** under **Theme.** There are tons of options for you to personalize your vault, but some community themes may drastically change your interface. We recommend that you wait to install community theme after reviewing this tutorial, so that visuals are consistent while you learn.
 
 
-![[community-themes.png]]
+![community-themes.png](Images/community-themes.png)
