@@ -19,7 +19,7 @@ Using Obsidian should be a personal and unique experience. There are countless w
 
 If you haven't already, please [download Obsidian](https://obsidian.md/). It is available for desktop on Windows, Mac, and Linux, and it's available for mobile devices.
 
-![[download.png]]
+![download.png](Images/download.png)
 
 ## Create a Vault
 
