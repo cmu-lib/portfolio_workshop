@@ -15,9 +15,9 @@ to organize, link, and search your recorded thoughts. Finally, we will
 demonstrate how you can link Obsidian to Zotero to help you connect research
 notes to items in your bibliography.  
 
-**Date:** March 22, 2023
-**Time:** 1:00 pm - 3:00 pm
-**Location:** The Den, Sorrells Library
+**Date:** March 22, 2023   
+**Time:** 1:00 pm - 3:00 pm   
+**Location:** The Den, Sorrells Library   
 
 ____
 ### Presenters
