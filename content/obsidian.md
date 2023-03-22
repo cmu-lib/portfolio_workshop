@@ -45,10 +45,15 @@ in a bibliography.
 | Section | Time
 | --- | ---
 | [Getting Started with Obsidian](../Obsidian_Materials/00-getting-started) | 01:00
-| [Creating and Formatting Notes]() | 01:15
-| [Linking Notes and Visualizing Connections]() | 01:45
+| [Creating and Formatting Notes](../Obsidian_Materials/01-creating-notes) | 01:15
+| [Linking Notes and Visualizing Connections](../Obsidian_Materials/02-linking-notes) | 01:45
 | Break | 01:55
-| [Enhancing Your Vault with Plugins]() | 02:00
+| [Enhancing Your Vault with Plugins](../Obsidian_Materials/03-plugins) | 02:00
 | Survey | 02:20
-| [Syncing Your Zotero Collection]() | 02:25
+| [Syncing Your Zotero Collection](../Obsidian_Materials/04-syncing-zotero) | 02:25
 | Finish | 03:00
+
+### Post-Workshop Survey
+
+Please complete this [survey](https://forms.gle/s9cSr8npQqCvYjkz5)
+after attending the workshop. Thank you in advance!!!
