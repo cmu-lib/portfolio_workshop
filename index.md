@@ -24,12 +24,12 @@ build computational skills for Open Research and Data Science.
 | March 15, 2023 | 11:00 am - 12:00 pm | [Data Visualization Best Practices](https://cmu.libcal.com/event/10231975)
 | March 20, 2023 | 1:30 pm - 3:30 pm | [Intro to Python Part 3: Plotting and Analyzing Tabular Datasets](https://cmu.libcal.com/event/10230737) ([Content](Python_Series_Materials/part_3/part_3.md))
 | March 22, 2023 | 11:00 am - 12:00 pm | [Data Visualization in R](https://cmu.libcal.com/event/10231953)
-| March 22, 2023 | 10:00 am - 12:00 pm | [Advanced Research Note-Taking with Obsidian](https://cmu.libcal.com/event/10247379)
+| March 22, 2023 | 1:00 pm - 3:00 pm | [Advanced Research Note-Taking with Obsidian](https://cmu.libcal.com/event/10247379)([Content](content/obsidian.md))
 | March 29, 2023 | 11:00 am - 12:00 pm | [Data Visualization in Tableau](https://cmu.libcal.com/event/10231987)
 | April 19, 2023 | 10:00 am - 12:00 pm | [Python for Harvesting Data on the Web](https://cmu.libcal.com/event/10252102)
 | April 20, 2023 | 12:00 pm - 1:30 pm | [Creating Websites and Portfolios with GitPages](https://cmu.libcal.com/event/10185690) ([Content](content/git_github.md))
 
-## Data Office Hours 
+## Data Office Hours
 
 Schedule a [Data Consultation](https://library.cmu.edu/service/data-office-hours) with our library associates for support with data and research!
 
