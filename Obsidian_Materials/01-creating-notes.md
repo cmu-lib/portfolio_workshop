@@ -17,7 +17,7 @@ Now that your vault is setup, it's time to start filling it up with notes!
 - Name the folder "**Learning**"
 - Notice that the folder has a drop-down icon, which will expand/collapse your view of all files in the folder
 
-![new-folder.png](new-folder.png)
+![new-folder.png](Images/new-folder.png)
 
 ### Creating Notes
 
@@ -27,11 +27,11 @@ There are several options to create a note:
 - Select the **New Note** icon in the upper left corner
 - Right-Click on an existing folder and select the **New Note** option
 
-![new-note.png](new-note.png)
+![new-note.png](Images/new-note.png)
 
 Practice making a few notes using each of these methods. Be sure to give each note a name! You may notice that once a new note is created, it's opened showing the title highlighted at the top. The title will appear at the top of each note, which makes it very easy to update.
 
-![title-new-note.png](title-new-note.png)
+![title-new-note.png](Images/title-new-note.png)
 
 For the next section, make a new note in the "**Learning**" folder, and name it "**Markdown Practice**". You will use this note to practice formatting text by writing Markdown.
 
@@ -133,14 +133,14 @@ Here is a sentence that tells you to learn more tools on our [Workshop Website](
 ![[obsidian-logo.png]]
 ```
 
-![obsidian-logo.png](obsidian-logo.png)
+![obsidian-logo.png](Images/obsidian-logo.png)
 #### Resizing an image
 
 ```markdown
 ![[obsidian-logo.png|100]]
 ```
 
-![obsidian-logo.png|100](obsidian-logo.png)
+![obsidian-logo.png|100](Images/obsidian-logo.png)
 ### Blockquotes
 
 ```markdown
@@ -253,4 +253,4 @@ Easily embed files in your vault like PDFs:
 ![[open-science-for-grad-students.pdf]]
 ```
 
-![open-science-for-grad-students.pdf](open-science-for-grad-students.pdf)
+![open-science-for-grad-students.pdf](Images/open-science-for-grad-students.pdf)
