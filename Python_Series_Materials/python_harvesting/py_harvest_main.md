@@ -27,10 +27,21 @@ Office: 4416, Sorrells Library
 
 ### Goals of this Workshop
 
+This workshop will provide learners the basic approaches to extract information
+from the web using Python. The topics covered will give learners enough ground
+knowledge to harvest information from a several web sources.
+
 ### Setup
 
-To be best prepared for this workshop, please follow the [setup instructions](../setup)
-prior to attending.
+To be best prepared for this workshop, please make sure you have
+[Python Installed](../setup#installing-python-using-anaconda),preferably with
+the Anaconda distribution prior to attending. You may also install some of the
+libraries we will be using ahead of time:
+
+- urllib
+- beautifulsoup4
+- MechanicalSoup
+- sodapy
 
 ### Schedule
 
