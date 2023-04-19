@@ -55,6 +55,17 @@ libraries we will be using ahead of time:
 | Web Requests  | 11:20 |
 | Simple Web API Requests  | 11:40 |
 
+### Accessing the Curriculum
+
+See the concepts covered in this workshop as a Jupyter Notebook on nbviewer:
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/cmu-lib/portfolio_workshop/blob/main/Python_Series_Materials/__jupyter-notebooks/python_harvesting_data.ipynb)
+
+Or work through the course content in JupyterLab on Binder:
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/portfolio_workshop/HEAD?labpath=Python_Series_Materials%2F__jupyter-notebooks%2F)
+
 ### Post-Workshop Survey
 
 Please complete this [survey](https://forms.gle/Xi5SnR7BzzmGUfyu9)
