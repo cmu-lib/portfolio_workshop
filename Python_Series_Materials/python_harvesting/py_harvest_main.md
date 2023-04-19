@@ -48,9 +48,14 @@ libraries we will be using ahead of time:
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](../setup)  |   |
-| Finish  |  |
+| Scrape and Parse Text from the Web  | 10:00 |
+| Using an HTML Parser  | 10:20 |
+| Interacting with HTML Forms  | 10:40 |
+| Interacting with Websites in Real Time  | 11:00 |
+| Web Requests  | 11:20 |
+| Simple Web API Requests  | 11:40 |
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
+Please complete this [survey](https://forms.gle/Xi5SnR7BzzmGUfyu9)
 after attending the workshop. Thank you in advance!!!
