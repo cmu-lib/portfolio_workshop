@@ -37,11 +37,15 @@ The goal of this workshop is to get you started on GitHub Pages. This is *not* a
 | Time | Content|
 | --- | ---|
 | 12:00 to 12:05 | Welcome and Introduction|
-| 12:05 to 12:25 | [Overview to Git, GitHub, and GitPages](GH_Pages_Materials/GH-Pages-Background-Info.html)|
-|12:25 to 1:15|[Pages Hands-On](GH_Pages_Materials/GH-Pages-Hands-On.html)|
-| 1:15 to 1:30|[Advanced Pages](GH_Pages_Materials/GH-Pages-Advanced.html) and Wrap-Up|
+| 12:05 to 12:25 | [Overview to Git, GitHub, and GitPages](../GH_Pages_Materials/GH-Pages-Background-Info.html)|
+|12:25 to 1:15|[Pages Hands-On](../GH_Pages_Materials/GH-Pages-Hands-On.html)|
+| 1:15 to 1:30|[Advanced Pages](../GH_Pages_Materials/GH-Pages-Advanced.html) and Wrap-Up|
 
 _Actual schedule may vary depending on group needs; all times refer to Eastern Standard Time (EST)_    
 
 ### Slides  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRda_iDkyPInOqL1YLCejV-9djrF9_a_DVQSNM8wUXn6n-qLGVfbDPr1SC0UWFl5RwaL8HSta4a4rUx/embed?start=false&loop=false&delayms=60000" frameborder="0" width="625" height="352" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> *Click on the slides then press CTRL+Shift+F for full screen*
+
+
+### Survey  
+Please complete this [survey](https://forms.gle/P3VN7RLbhB66y8yk7) after attending the workshop. Thank you in advance!!!
