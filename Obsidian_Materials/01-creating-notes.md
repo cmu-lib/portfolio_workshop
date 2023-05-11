@@ -249,8 +249,8 @@ Display a callout to emphasize a section of information:
 
 Easily embed files in your vault like PDFs:
 
-```markdown
-![[open-science-for-grad-students.pdf]]
-```
 
 ![open-science-for-grad-students.pdf](Images/open-science-for-grad-students.pdf)
+
+
+
