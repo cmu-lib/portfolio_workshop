@@ -252,5 +252,6 @@ Easily embed files in your vault like PDFs:
 
 ![open-science-for-grad-students.pdf](Images/open-science-for-grad-students.pdf)
 
+<iframe src="Images/open-science-for-grad-students.pdf" width="100%" height="600px"></iframe>
 
 
