@@ -12,22 +12,27 @@ build computational skills for Open Research and Data Science.
 
 ## Workshop Calendar
 
-| Day | Time | Title
-| --- | --- | ---
-| February 7, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 1: Introduction to Basic Programming with Data](https://cmu.libcal.com/event/10230106) ([Content](Python_Series_Materials/part_1/part_1.md))
-| February 13, 2023 | 12:00 pm - 1:30 pm | [Project Management and Pre-Registration with OSF](https://cmu.libcal.com/calendar/workshops/ProjectManagement-Pre-Registration-OSF) ([Content](content/osf.md))
-| February 15, 2023 | 3:00 pm - 4:30 pm | [Cleaning Messy Data with OpenRefine](https://cmu.libcal.com/event/10185679) ([Content](content/openrefine.md))
-| February 16, 2023 | 10:00 am - 11:30 am | [Intro to R Part 1: Getting Started with R and RStudio](https://cmu.libcal.com/event/10185624)
-| February 23, 2023 | 10:00 am - 11:30 am | [Intro to R Part 2: Working with Data in R](https://cmu.libcal.com/event/10185621)
-| March 13, 2023 | 1:30 pm - 3:30 pm | [Intro to Python Part 2: Making the Most with Jupyter Lab and Notebooks](https://cmu.libcal.com/event/10230549) ([Content](Python_Series_Materials/part_2/part_2.md))
-| March 14, 2023 | 10:00 am - 12:00 pm | [Introduction to Command Line Interface](https://cmu.libcal.com/event/10252549) ([Content](cli/cli_main.md))
-| March 15, 2023 | 11:00 am - 12:00 pm | [Data Visualization Best Practices](https://cmu.libcal.com/event/10231975)
-| March 20, 2023 | 1:30 pm - 3:30 pm | [Intro to Python Part 3: Plotting and Analyzing Tabular Datasets](https://cmu.libcal.com/event/10230737) ([Content](Python_Series_Materials/part_3/part_3.md))
-| March 22, 2023 | 11:00 am - 12:00 pm | [Data Visualization in R](https://cmu.libcal.com/event/10231953)
-| March 22, 2023 | 1:00 pm - 3:00 pm | [Advanced Research Note-Taking with Obsidian](https://cmu.libcal.com/event/10247379)([Content](content/obsidian.md))
-| March 29, 2023 | 11:00 am - 12:00 pm | [Data Visualization in Tableau](https://cmu.libcal.com/event/10231987)
-| April 19, 2023 | 10:00 am - 12:00 pm | [Python for Harvesting Data on the Web](https://cmu.libcal.com/event/10252102)
-| April 20, 2023 | 12:00 pm - 1:30 pm | [Creating Websites and Portfolios with GitPages](https://cmu.libcal.com/event/10185690) ([Content](content/git_github.md))
+| 2023-09-08 | 12:00 PM - 01:30 PM | Building your Programming Tool Box: Command Line Crash Course for Beginners | cli/cli_main.md 
+| 2023-09-13 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data | Python_Series_Materials/part_1/part_1.md 
+| 2023-09-15 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Version Control with Git | https://swcarpentry.github.io/git-novice/ 
+| 2023-09-20 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 2: Plotting and Analyzing Tabular Datasets | Python_Series_Materials/part_3/part_3.md 
+| 2023-09-22 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Collaborating with GitHub | https://swcarpentry.github.io/git-novice/ 
+| 2023-09-27 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 3: Analyzing Data with Logic and Iteration | 
+| 2023-09-28 | 12:00 PM - 01:00 PM | Introduction to Research Data Management and Data Management Plans | 
+| 2023-09-29 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages | content/git_github.md 
+| 2023-10-03 | 01:00 PM - 03:00 PM | Making the Most with Jupyter Lab and Notebooks | Python_Series_Materials/part_2/part_2.md 
+| 2023-10-19 | 01:00 PM - 03:00 PM | Python for Harvesting Data on the Web | 
+| 2023-10-25 | 10:00 AM - 12:00 PM | Advanced Research Note-Taking with Obsidian | content/obsidian.md 
+| 2023-10-26 | 10:00 AM - 11:00 AM | Getting Started with Open Science Framework Workshop | content/osf.md 
+| 2023-10-31 | 12:00 PM - 01:00 PM | Introduction to Academic Publishing Processes and Models | 
+| 2023-11-02 | 01:00 PM - 02:30 PM | Cleaning Untidy Data with OpenRefine | content/openrefine.md 
+| 2023-11-07 | 10:00 AM - 11:30 AM | Introduction to R Part 1: Getting started with R and RStudio | 
+| 2023-11-09 | 10:00 AM - 11:00 AM | Intro to Plotly Open Source Graphing Library | 
+| 2023-11-14 | 10:00 AM - 11:30 AM | Introduction to R Part 2: Working with data in R | 
+| 2023-11-15 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | https://datacarpentry.org/socialsci-workshop/ 
+| 2023-11-16 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | https://datacarpentry.org/socialsci-workshop/ 
+| 2023-11-17 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | https://datacarpentry.org/socialsci-workshop/ 
+| 2023-11-29 | 01:00 PM - 03:00 PM | Encapsulating Reproducible Computational Research with Code Ocean | 
 
 ## Data Office Hours
 
