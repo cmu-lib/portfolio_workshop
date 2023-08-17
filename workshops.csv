@@ -1,22 +1,22 @@
-title,start,end,URL,categories,date
-Building your Programming Tool Box: Command Line Crash Course for Beginners,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11068306,"Open Science, Working With Data",2023-09-08
-Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11101229,"Open Science, Working With Data",2023-09-13
-Building Your Programming Toolbox: Version Control with Git,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11108087,"Open Science, Working With Data",2023-09-15
-Introduction to Python for Data Science Part 2: Plotting and Analyzing Tabular Datasets,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11101249,"Open Science, Working With Data",2023-09-20
-Building Your Programming Toolbox: Collaborating with GitHub,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11108299,"Open Science, Working With Data",2023-09-22
-Introduction to Python for Data Science Part 3: Analyzing Data with Logic and Iteration,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11101275,"Open Science, Working With Data",2023-09-27
-Introduction to Research Data Management and Data Management Plans,12:00 PM,01:00 PM,https://cmu.libcal.com/event/11054938,"Open Science, Working With Data",2023-09-28
-Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11108435,"Open Science, Working With Data",2023-09-29
-Making the Most with Jupyter Lab and Notebooks,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11067479,"Open Science, Working With Data",2023-10-03
-Python for Harvesting Data on the Web,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11067535,"Open Science, Working With Data",2023-10-19
-Advanced Research Note-Taking with Obsidian,10:00 AM,12:00 PM,https://cmu.libcal.com/event/11101345,"Evidence Synthesis, Open Science, Writing and Publishing",2023-10-25
-Getting Started with Open Science Framework Workshop,10:00 AM,11:00 AM,https://cmu.libcal.com/event/11067730,"Open Science, Working With Data",2023-10-26
-Introduction to Academic Publishing Processes and Models,12:00 PM,01:00 PM,https://cmu.libcal.com/event/11055001,"Open Science, Writing and Publishing",2023-10-31
-Cleaning Untidy Data with OpenRefine,01:00 PM,02:30 PM,https://cmu.libcal.com/event/11068024,"Open Science, Working With Data",2023-11-02
-Introduction to R Part 1: Getting started with R and RStudio,10:00 AM,11:30 AM,https://cmu.libcal.com/event/11068042,"Open Science, Working With Data",2023-11-07
-Intro to Plotly Open Source Graphing Library,10:00 AM,11:00 AM,https://cmu.libcal.com/event/11067880,"Open Science, Working With Data",2023-11-09
-Introduction to R Part 2: Working with data in R,10:00 AM,11:30 AM,https://cmu.libcal.com/event/11068056,"Open Science, Working With Data",2023-11-14
-Data Carpentry: Introduction to R,09:00 AM,12:00 PM,https://cmu.libcal.com/event/11098020,"Open Science, Working With Data",2023-11-15
-Data Carpentry: Introduction to R,09:00 AM,12:00 PM,https://cmu.libcal.com/event/11098021,"Open Science, Working With Data",2023-11-16
-Data Carpentry: Introduction to R,09:00 AM,12:00 PM,https://cmu.libcal.com/event/11098022,"Open Science, Working With Data",2023-11-17
-Encapsulating Reproducible Computational Research with Code Ocean,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11110715,"Open Science, Working With Data, Writing and Publishing",2023-11-29
+title,start,end,URL,categories,date,formatted_date
+Building your Programming Tool Box: Command Line Crash Course for Beginners,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11068306,"Open Science, Working With Data",2023-09-08,"September 08, 2023"
+Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11101229,"Open Science, Working With Data",2023-09-13,"September 13, 2023"
+Building Your Programming Toolbox: Version Control with Git,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11108087,"Open Science, Working With Data",2023-09-15,"September 15, 2023"
+Introduction to Python for Data Science Part 2: Plotting and Analyzing Tabular Datasets,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11101249,"Open Science, Working With Data",2023-09-20,"September 20, 2023"
+Building Your Programming Toolbox: Collaborating with GitHub,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11108299,"Open Science, Working With Data",2023-09-22,"September 22, 2023"
+Introduction to Python for Data Science Part 3: Analyzing Data with Logic and Iteration,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11101275,"Open Science, Working With Data",2023-09-27,"September 27, 2023"
+Introduction to Research Data Management and Data Management Plans,12:00 PM,01:00 PM,https://cmu.libcal.com/event/11054938,"Open Science, Working With Data",2023-09-28,"September 28, 2023"
+Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages,12:00 PM,01:30 PM,https://cmu.libcal.com/event/11108435,"Open Science, Working With Data",2023-09-29,"September 29, 2023"
+Making the Most with Jupyter Lab and Notebooks,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11067479,"Open Science, Working With Data",2023-10-03,"October 03, 2023"
+Python for Harvesting Data on the Web,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11067535,"Open Science, Working With Data",2023-10-19,"October 19, 2023"
+Advanced Research Note-Taking with Obsidian,10:00 AM,12:00 PM,https://cmu.libcal.com/event/11101345,"Evidence Synthesis, Open Science, Writing and Publishing",2023-10-25,"October 25, 2023"
+Getting Started with Open Science Framework Workshop,10:00 AM,11:00 AM,https://cmu.libcal.com/event/11067730,"Open Science, Working With Data",2023-10-26,"October 26, 2023"
+Introduction to Academic Publishing Processes and Models,12:00 PM,01:00 PM,https://cmu.libcal.com/event/11055001,"Open Science, Writing and Publishing",2023-10-31,"October 31, 2023"
+Cleaning Untidy Data with OpenRefine,01:00 PM,02:30 PM,https://cmu.libcal.com/event/11068024,"Open Science, Working With Data",2023-11-02,"November 02, 2023"
+Introduction to R Part 1: Getting started with R and RStudio,10:00 AM,11:30 AM,https://cmu.libcal.com/event/11068042,"Open Science, Working With Data",2023-11-07,"November 07, 2023"
+Intro to Plotly Open Source Graphing Library,10:00 AM,11:00 AM,https://cmu.libcal.com/event/11067880,"Open Science, Working With Data",2023-11-09,"November 09, 2023"
+Introduction to R Part 2: Working with data in R,10:00 AM,11:30 AM,https://cmu.libcal.com/event/11068056,"Open Science, Working With Data",2023-11-14,"November 14, 2023"
+Data Carpentry: Introduction to R,09:00 AM,12:00 PM,https://cmu.libcal.com/event/11098020,"Open Science, Working With Data",2023-11-15,"November 15, 2023"
+Data Carpentry: Introduction to R,09:00 AM,12:00 PM,https://cmu.libcal.com/event/11098021,"Open Science, Working With Data",2023-11-16,"November 16, 2023"
+Data Carpentry: Introduction to R,09:00 AM,12:00 PM,https://cmu.libcal.com/event/11098022,"Open Science, Working With Data",2023-11-17,"November 17, 2023"
+Encapsulating Reproducible Computational Research with Code Ocean,01:00 PM,03:00 PM,https://cmu.libcal.com/event/11110715,"Open Science, Working With Data, Writing and Publishing",2023-11-29,"November 29, 2023"
