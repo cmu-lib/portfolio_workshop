@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libcal>
+ <calendar>
+  <id>9148</id>
+  <name>Workshops</name>
+  <status>Public</status>
+  <owner>Shannon Riffe</owner>
+  <URL>https://cmu.libcal.com/calendar/workshops</URL>
+  <timezone>America/New_York</timezone>
+ </calendar>
+ <events>
+  <event>
+   <id>11130822</id>
+   <title>Introduction to CMU Engineering Library Collections and Services</title>
+   <description>&lt;p&gt;This workshop will introduce you to the print and electronic resources available at the&amp;nbsp;Sorrells Library and its related services.&lt;/p&gt;</description>
+   <start>2023-08-22T11:00:00-04:00</start>
+   <end>2023-08-22T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11130822</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <audiences>
+    <audience>New to the Libraries</audience>
+   </audiences>
+   <registration>
+    <seats>100</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11130935</id>
+   <title>Introduction to CMU Libraries for International Students and Scholars</title>
+   <description>&lt;p&gt;This workshop will provide an introduction to university libraries&amp;#39; resources and services and brief definitions of major library terms.&lt;/p&gt;</description>
+   <start>2023-08-23T11:00:00-04:00</start>
+   <end>2023-08-23T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11130935</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <audiences>
+    <audience>New to the Libraries</audience>
+   </audiences>
+   <registration>
+    <seats>100</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068306</id>
+   <title>Building your Programming Tool Box: Command Line Crash Course for Beginners</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;This hands-on introduction to the command line interface is part 1 of a four-part series called Building Your Programming Toolbox.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;The workshop is for those beginning their exploration of command-line programming, including anyone seeking to refresh their skills. Command line interface (CLI) is a quick and efficient way to perform computing tasks. A few topics include navigating the directory structure, commonly used commands, working with files and directories, and more. For this workshop, you&amp;rsquo;ll need access to Bash Shell. If you use MacOS or Linux, you should have Bash already installed. For those on Windows OS, you may need to install a bash shell.&amp;nbsp;&lt;a href=&quot;https://gitforwindows.org/&quot; target=&quot;_blank&quot;&gt;Git Bash&lt;/a&gt;&amp;nbsp;installation is one option for installing Bash Shell.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-08T12:00:00-04:00</start>
+   <end>2023-09-08T13:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11068306</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>25</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11056005</id>
+   <title>Introduction to Technical Standards</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop will help you get familiar with definitions and types of technical standards. You will also get introduced to major standards databases and develop effective standards searching strategies. The basic structure of technical standards will also be covered in the workshop.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-13T11:00:00-04:00</start>
+   <end>2023-09-13T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11056005</URL>
+   <color>#B3C8EF</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Haoyong Lan &amp; Matt Marsteller</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11101229</id>
+   <title>Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;In this first part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we offer an introduction to Python for non-programmers with a focus on data analysis. In this workshop, we will demonstrate how to do basic Python programming in Jupyter Notebooks. Topics will include working with different data types, using built-in functions and libraries to read and manipulate data.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-13T13:00:00-04:00</start>
+   <end>2023-09-13T15:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11101229</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068047</id>
+   <title>Tools, techniques and strategies for efficient and effective literature reviews</title>
+   <description>&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Are you conducting a formal literature review for publication or a grant proposal? Are you looking for ways to stay on top of a rapidly emerging field? Or are you seeking to identify knowledge gaps to explore novel areas of research? Conducting literature reviews and staying on top of the research can feel like a daunting task. This workshop will provide a set of skills and tools to make this process easier and help you feel confident that you have found a thorough and representative body of literature on your topic. We will cover tips and techniques for searching the literature, managing the research papers you find, accessing full text of research quickly, and setting up search alerts for new papers. The workshop is aimed at graduate students, staff and faculty researchers, but anyone is welcome to join.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color:#6aa84f&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This is Part 1 of the &lt;strong&gt;Advanced and systematized literature review methods Workshop Series&lt;/strong&gt;. Join us for one or any of these sessions. Other workshops in this series:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li style=&quot;line-height: 1.38;&quot;&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11068078&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Synthesizing research with a scoping review, O&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;ctober 12, 12-1pm ET&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li style=&quot;line-height: 1.38;&quot;&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11068112&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Analyzing scholarly literature using bibliometrics, November 9, 12-1pm ET&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-09-14T12:00:00-04:00</start>
+   <end>2023-09-14T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11068047</URL>
+   <color>#9276C9</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Melanie Gainey, Ryan Splenda &amp; Sarah Young</presenter>
+   <categories>
+    <category>Evidence Synthesis</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>4</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11108087</id>
+   <title>Building Your Programming Toolbox: Version Control with Git</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop is for those beginning&amp;nbsp;to explore the concept of version control, as well as anyone seeking to refine their skills. Git is a version control system that lets you manage and track changes to files on your computer through the command line interface. Topics covered will include configuring a local repository on your computer, modifying files and committing changes, and exploring version histories.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This hands-on introduction to version control and Git is part 2 of a four-part series called &amp;quot;Building Your Programming Toolbox.&amp;quot;&amp;nbsp;We highly encourage attending the first part of the workshop series, &amp;quot;Command Line Crash Course for Beginners&amp;quot; before this workshop, especially for learners who are new to a command line interface.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-15T12:00:00-04:00</start>
+   <end>2023-09-15T13:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11108087</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11054959</id>
+   <title>Auto-magic citations and bibliographies: Introduction to Citation Management with Zotero</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;This workshop will introduce the benefits of citation management software for easy in-text citations and automatic bibliographies. Participants are encouraged to bring a laptop so they are able to practice using Zotero.&lt;/p&gt;</description>
+   <start>2023-09-19T12:00:00-04:00</start>
+   <end>2023-09-19T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11054959</URL>
+   <color>#25B891</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>15</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11056120</id>
+   <title>Introduction to Research Metrics</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop provides guidance on enhancing research impact statements, strengthening RPT cases, evaluating publishing effectiveness, and benchmarking against peers. Gain awareness of and experience with the tools acquired by the University Libraries to assist you with these tasks.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-20T11:00:00-04:00</start>
+   <end>2023-09-20T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11056120</URL>
+   <color>#B3C8EF</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Haoyong Lan &amp; Matt Marsteller</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11120612</id>
+   <title>Intro to Arts x Entrepreneurship</title>
+   <description>&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Are you looking to start selling your art on popular online marketplaces but aren&amp;rsquo;t sure how to start? Whatever kind of art you make, this workshop can help you &amp;ndash; from fanart to fine art! This workshop will include a variety of tips on getting started, including:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;1. Market research and competitor analysis&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;2. Community building to maximize impact&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;3. Familiarizing yourself with online marketplaces&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;4. Making a presence on social media&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;5. Generating hype for store releases&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;6. And more!&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;This is a one of several workshops, contained within the Arts X EShip series.&lt;/p&gt;</description>
+   <start>2023-09-20T12:00:00-04:00</start>
+   <end>2023-09-20T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11120612</URL>
+   <color>#B3C8EF</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Jimmy McKee &amp; Ashley Werlinich</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11101249</id>
+   <title>Introduction to Python for Data Science Part 2: Plotting and Analyzing Tabular Datasets</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;In the second part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we demonstrate beginner Python programming techniques using the Pandas library to read tabular datasets, perform simple analyses, and visualize data. The content covered in this workshop will be a continuation of the content covered in part 1, &amp;quot;Introduction to Basic Programming with Data&amp;quot;. We highly encourage attending the first part of the workshop series before this workshop, especially for learners that are new to the Python programming language.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-20T13:00:00-04:00</start>
+   <end>2023-09-20T15:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11101249</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11108299</id>
+   <title>Building Your Programming Toolbox: Collaborating with GitHub</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;If you are interested in creating and collaborating on remote repositories on GitHub, this workshop is for you if you are a beginner or just seeking to refine your skills. GitHub is a cloud-based platform for open and collaborative software development and version control using Git. Topics covered will include pushing/pulling changes to files in a local repository to GitHub, making copies of public repositories to modify, and collaboratively pushing changes to a common repository shared among workshop participants.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This hands-on introduction to collaborating with GitHub is part 3 of a four-part series called &amp;quot;Building Your Programming Toolbox.&amp;quot;&amp;nbsp;We highly encourage attending the first two parts of the workshop series, &amp;quot;Command Line Crash Course for Beginners&amp;quot; and &amp;quot;Version Control with Git&amp;quot; before this workshop, especially for learners who are new to a command line interface and version control.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-22T12:00:00-04:00</start>
+   <end>2023-09-22T13:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11108299</URL>
+   <color>#FFE30C</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Lencia Beltran &amp; Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11056552</id>
+   <title>Introduction to Engineering Research Competencies</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop will introduce engineering information literacy including engineering academic databases, database searching strategies, and efficient citation management.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-26T11:00:00-04:00</start>
+   <end>2023-09-26T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11056552</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Haoyong Lan</presenter>
+   <registration>
+    <seats>100</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11120634</id>
+   <title>Intro to Product Photography and Videography</title>
+   <description>&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;In today&amp;rsquo;s world of social media and digital marketplaces, a great deal of your success as an artist depends on your product photography and videography. But sometimes, it can be hard to know how to best capture your art through photographs or instagram reels. Join us as we go over the basics of product photography and videography, including:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ol&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:decimal&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;What camera is right for you&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:decimal&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Staging your photographs/ videos&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:decimal&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Creating successful compositions&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:decimal&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Lighting your products&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:decimal&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Documenting your artistic process through photos and videos&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:decimal&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;And more!&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ol&gt;&#13;
+&#13;
+&lt;p style=&quot;list-style-type:decimal&quot;&gt;This is a one of several workshops, contained within the Arts X EShip series.&lt;/p&gt;</description>
+   <start>2023-09-27T12:00:00-04:00</start>
+   <end>2023-09-27T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11120634</URL>
+   <color>#B3C8EF</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Jimmy McKee &amp; Ashley Werlinich</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11101275</id>
+   <title>Introduction to Python for Data Science Part 3: Analyzing Data with Logic and Iteration</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;In the final part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we offer an overview of Python fundamentals for performing iterative tasks with for loops and conditional tasks using logic and if statements. We will then show how to apply these programming techniques to analyze and visualize multiple tabular datasets with Pandas. The content covered in this workshop will be a continuation of the content covered in part 1, &amp;quot;Introduction to Basic Programming with Data&amp;quot; and part 2, &amp;quot;Plotting and Analyzing Tabular Datasets&amp;quot;. We highly encourage attending both part 1 and 2 of the series before this workshop, especially for learners that are new to the Python programming language.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-27T13:00:00-04:00</start>
+   <end>2023-09-27T15:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11101275</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11056138</id>
+   <title>Introduction to the Fundamentals of Engineering Exam</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop will provide an overview of the Fundamentals of Engineering (FE) Exam which is the first step in the process of becoming a professional licensed engineer (P.E.). You will also get introduced to some study guides and learn how to prepare for the exam.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-28T11:00:00-04:00</start>
+   <end>2023-09-28T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11056138</URL>
+   <color>#B3C8EF</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Haoyong Lan</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>7</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11054938</id>
+   <title>Introduction to Research Data Management and Data Management Plans</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;This workshop will introduce the FAIR data principles (Findable, Accessible, Interoperable, and Reusable) and research data management plans.&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-09-28T12:00:00-04:00</start>
+   <end>2023-09-28T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11054938</URL>
+   <color>#2A96DE</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11108435</id>
+   <title>Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitPages&lt;/a&gt;&amp;nbsp;is a free platform for hosting your own simple website and showcasing your work to potential employers and clients. In this workshop, we&amp;#39;ll introduce you to Git and GitHub, and then we&amp;#39;ll provide a hands-on experience with setting up a GitPage website using Jekyll, a versatile website generator that uses markdown or HTML to create static websites with many templates to choose from.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop is the final part of a four-part series called &amp;quot;Building Your Programming Toolbox.&amp;quot;&amp;nbsp;No prior knowledge or experience with Git, GitHub or GitPages is required, but we highly encourage attending parts 1-3 if you if you are interested in building your skills on the command line or learning version control with Git and GitHub.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-09-29T12:00:00-04:00</start>
+   <end>2023-09-29T13:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11108435</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>10971261</id>
+   <title>Responsible Conduct of Research Training: Day 1 (Virtual)</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;This 3-day workshop is created to meet the NIH mandate on Responsible Conduct of Research for trainees receiving NIH training grants. Attendance at both days and in all nine topics are required to satisfy the NIH requirement. These modules can also be extended to meet general university RCR requirements. Note: you must also&amp;nbsp;register for &lt;a href=&quot;https://cmu.libcal.com/calendar/workshops/rcr2023-day2&quot;&gt;Day 2 &lt;/a&gt;and &lt;a href=&quot;https://cmu.libcal.com/calendar/workshops/rcr2023-day3&quot;&gt;Day 3&lt;/a&gt; of this training&amp;nbsp;in order to satisfy NIH mandates.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-10-02T09:00:00-04:00</start>
+   <end>2023-10-02T12:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/10971261</URL>
+   <color>#B3C8EF</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni &amp; Melanie Gainey</presenter>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068002</id>
+   <title>Text Mining with TDM Studio Workbench: An Introduction</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span calibri=&quot;&quot;&gt;In this 1-hour workshop, TDM Studio experts will provide an overview of what TDM Studio is and how to get started with TDM Studio Workbench for your research project. You will have the opportunity to create a dataset related to your research topic and to begin analyzing that dataset within TDM Studio. We will use and run sample Jupyter Notebooks, written in Python, to look at word counts and word co-occurrences in your project dataset. No coding experience is needed for the workshop, and by the end of the workshop you will have: 1) Familiarity with using TDM Studio as well as 2) Starting, baseline results for a text analysis project. Which politicians have the most newspaper presence? Does this vary by specific newspaper titles? Which politicians co-occur together most frequently?&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Related workshops in this series include:&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11068067&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Teaching and Learning Text Mining with Geographic Analysis, November 13, 10-11am ET&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11068087&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Sentiment Analysis Overview and State of the Art, December 4, 10-11&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;am ET&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-10-02T10:00:00-04:00</start>
+   <end>2023-10-02T11:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11068002</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni &amp; Sarah Young</presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>50</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11067479</id>
+   <title>Making the Most with Jupyter Lab and Notebooks</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Are you new to using Jupyter Lab and Notebooks? Or have you used these platforms before but want to learn more about them? Then come check out this workshop! This workshop is designed to be an introduction to Jupyter Lab and Notebooks. Some of the topics that will be covered include: how to access these platforms, an overview of platform features like hotkeys and magic commands, the basics of using markdown, publishing notebooks on the web, and how to use and display interactive figures. This workshop uses Python programming language; familiarity is not required but can be helpful!&lt;/p&gt;</description>
+   <start>2023-10-03T13:00:00-04:00</start>
+   <end>2023-10-03T15:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11067479</URL>
+   <color>#F5E616</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran &amp; Chasz Griego</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>25</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>10971277</id>
+   <title>Responsible Conduct of Research Training: Day 2 (In Person)</title>
+   <description>&lt;p&gt;This 3-day workshop is created to meet the NIH mandate on Responsible Conduct of Research for trainees receiving NIH training grants. Attendance at both days and in all nine topics are required to satisfy the NIH requirement. These modules can also be extended to meet general university RCR requirements. Note: you must also&amp;nbsp;register for &lt;a href=&quot;https://cmu.libcal.com/calendar/workshops/RCR2023-Day1&quot;&gt;Day 1&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://cmu.libcal.com/calendar/workshops/rcr2023-day3&quot;&gt;Day 3&lt;/a&gt; of this training&amp;nbsp;in order to satisfy NIH mandates.&lt;/p&gt;</description>
+   <start>2023-10-04T09:00:00-04:00</start>
+   <end>2023-10-04T12:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/10971277</URL>
+   <color>#B3C8EF</color>
+   <location>Sorrells Library, Den</location>
+   <campus></campus>
+   <presenter>Emily Bongiovanni &amp; Melanie Gainey</presenter>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11120654</id>
+   <title>“What’s Your Rate?”: A workshop on calculating a minimum hourly rate for freelance work, utilizing real-world factors.</title>
+   <description>&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;One of the most important, and variable, elements of securing a contract for creative services is negotiating your rate of pay.&amp;nbsp; But how do you put a dollar amount on your time and experience? Placing a value on your work that fits market norms, client expectations, and&amp;mdash;most importantly&amp;mdash;your financial success, can be a daunting task for any first-time freelancer. Join us for a workshop on how to calculate your minimum hourly rate, incorporating factors from your career goals and estimated cost of living, to empower you in future contract negotiations. No prior business experience is required, but familiarity with spreadsheets is a plus.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This workshop is led by Tom Hughes, who brings more than a decade of experience advising artists, designers, and creative technologists in business development and project growth.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;This is a one of several workshops, contained within the Arts X EShip series.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-10-04T12:00:00-04:00</start>
+   <end>2023-10-04T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11120654</URL>
+   <color>#B3C8EF</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Tom Hughes &amp; Ashley Werlinich</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>10971282</id>
+   <title>Responsible Conduct of Research Training: Day 3 (In Person)</title>
+   <description>&lt;p&gt;This 3-day workshop is created to meet the NIH mandate on Responsible Conduct of Research for trainees receiving NIH training grants. Attendance at both days and in all nine topics are required to satisfy the NIH requirement. These modules can also be extended to meet general university RCR requirements. Note: you must also&amp;nbsp;register for &lt;a href=&quot;https://cmu.libcal.com/calendar/workshops/RCR2023-Day1&quot;&gt;Day 1&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://cmu.libcal.com/calendar/workshops/rcr2023-day2&quot;&gt;Day 2&lt;/a&gt;&amp;nbsp;of this training&amp;nbsp;in order to satisfy NIH mandates.&lt;/p&gt;</description>
+   <start>2023-10-06T09:00:00-04:00</start>
+   <end>2023-10-06T12:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/10971282</URL>
+   <color>#B3C8EF</color>
+   <location>Sorrells Library, Den</location>
+   <campus></campus>
+   <presenter>Emily Bongiovanni &amp; Melanie Gainey</presenter>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068078</id>
+   <title>Synthesizing research with a scoping review</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;How can we find and synthesize all of the existing research on a topic when there is so much information out there? Scoping reviews are a popular research synthesis method for systematically describing the existing literature on a topic. They are more reproducible and comprehensive than a traditional literature review and can help us to understand the scope of research in an area, identify existing gaps, and surface trends and key concepts. If you are considering developing a research synthesis project for your field, or are curious about such methods and how they apply in your discipline, please join us! You&amp;#39;ll be provided with guidance and next steps for starting a scoping review at the end of the sessio&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;n. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This session is aimed at graduate students, staff and faculty researchers, but anyone is welcome to join.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.656; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This is Part 2 of the &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Advanced and systematized literature review methods Workshop Series&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;. Join us for one or any of these sessions. Other workshops in this series:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11068112&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Analyzing scholarly literature using bibliometrics, November 9, 12-1pm ET&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;</description>
+   <start>2023-10-12T12:00:00-04:00</start>
+   <end>2023-10-12T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11068078</URL>
+   <color>#9276C9</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Melanie Gainey, Ryan Splenda &amp; Sarah Young</presenter>
+   <categories>
+    <category>Evidence Synthesis</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11067535</id>
+   <title>Python for Harvesting Data on the Web</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is an intermediate-to-advanced level Python workshop that describes ways to approach common data wrangling from the web for research needs. We will focus on obtaining open data sources through HTTP requests and then demonstrate how to access larger sources of data via APIs. Then we will show how to turn the retrieved data into more useful objects like data frames to do basic manipulations and analysis. This workshop is only recommended for Python users with familiarity in Pandas, Numpy, core Python objects (lists, dictionaries, strings, numbers), file types like JSON and CSV, and comfort using Jupyter Notebooks.&lt;/p&gt;</description>
+   <start>2023-10-19T13:00:00-04:00</start>
+   <end>2023-10-19T15:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11067535</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran &amp; Chasz Griego</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>25</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11054969</id>
+   <title>Introduction to LaTeX and Overleaf</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;This workshop will introduce LaTeX, a typesetting system used to prepare documents and separate text from formatting. This introductory workshop will focus on using Overleaf, an online real-time collaborative LaTeX editor.&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-10-23T12:00:00-04:00</start>
+   <end>2023-10-23T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11054969</URL>
+   <color>#25B891</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11101345</id>
+   <title>Advanced Research Note-Taking with Obsidian</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop will introduce Obsidian, a markdown-based note-taking app that helps you organize your personal knowledge base. We will demonstrate how to create and edit markdown files to easily format your notes. We will then dive in to several of the functions and plug-ins in Obsidian that make it easier for you to organize, link, and search your recorded thoughts. Finally, we will demonstrate how you can link Obsidian to Zotero to help you connect research notes to items in your personal library.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-10-25T10:00:00-04:00</start>
+   <end>2023-10-25T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11101345</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Evidence Synthesis</category>
+    <category>Open Science</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11120657</id>
+   <title>Money Money Money: Reflecting on Your Relationship with Money as an Artist</title>
+   <description>&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This workshop (led by CFA Artist Lecturer Monica Yunus) helps arts entrepreneurs explore their relationship with money, as well as their future goals around money. While money may seem to be a fairly straightforward concept, our different feelings towards money&amp;rsquo;s role in our own communities, our personal histories with money, and our ideals as artists can lead us to want to have very different relationships with the money we make through our art. As such, this workshop will help us reflect on our past experiences with money, as well as prompt us to imagine how we want to handle the money that we make through our art.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;About the guest speaker: A leading voice in the artist as citizen discussion, Soprano Monica Yunus is the Co-Founder of Sing for Hope, a non-profit that brings arts outreach programs to communities in need and presents initiatives that make the arts accessible to all. A graduate of The Juilliard School, Monica is an Artist Lecturer at Carnegie Mellon University and has been a guest lecturer at The Juilliard School, University of South Carolina, University of Denver, and Purchase College at The State University of New York.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is a one of several workshops, contained within the Arts X EShip series.&lt;/p&gt;</description>
+   <start>2023-10-25T12:00:00-04:00</start>
+   <end>2023-10-25T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11120657</URL>
+   <color>#B3C8EF</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Ashley Werlinich</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11067730</id>
+   <title>Getting Started with Open Science Framework Workshop</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;a href=&quot;https://osf.io/&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#1155cc&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:underline&quot;&gt;&lt;span style=&quot;text-decoration-skip-ink:none&quot;&gt;Open Science Framework (OSF)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#1155cc&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;is a research reproducibility and project management platform that is free, open source, and designed to support research across the research lifecycle. OSF allows you to organize all of your research documentation, such as datasets, code, analysis, background literature and more, into a single space shared by your collaborators. OSF also supports the pre-registration of research protocols and preprint publication.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This workshop will cover:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Creating and collaborating on OSF projects&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Uploading files from your desktop&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Connecting external platforms like Google Drive, Mendeley, and GitHub&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Understanding version control in OSF&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Pre-registration of research protocols&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Publishing supplementary materials&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;br /&gt;&#13;
+&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;No previous experience with OSF is required! This workshop does incorporate hands-on pieces, so please register for an &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;https://osf.io/&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#1155cc&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:underline&quot;&gt;&lt;span style=&quot;text-decoration-skip-ink:none&quot;&gt;OSF account&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:10pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt; with your CMU email address beforehand!&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-10-26T10:00:00-04:00</start>
+   <end>2023-10-26T11:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11067730</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>25</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11055001</id>
+   <title>Introduction to Academic Publishing Processes and Models</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;This workshop will introduce academic publishing models, including Open Access models,&amp;nbsp;and the publishing process of a scholarly work, including the peer-review process.&lt;br /&gt;&#13;
+&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-10-31T12:00:00-04:00</start>
+   <end>2023-10-31T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11055001</URL>
+   <color>#25B891</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>15</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11055042</id>
+   <title>Gale Digital Scholar Lab: Hands-On Overview Training for CMU</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;This session provides participants with the ability to familiarize themselves with Gale Digital Scholar Lab&amp;rsquo;s three sections &amp;ndash; Build, Clean, Analyze. The webinar covers performing search queries with Gale primary source content, curating datasets, using the six built-in analysis tools, and reviewing results. Use your CMU access credentials to dive into the Lab and run an analysis together with a Gale Trainer. We&amp;rsquo;ll also show how to import non-Gale text data, and review the Lab&amp;rsquo;s collaboration tools.&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-11-01T12:00:00-04:00</start>
+   <end>2023-11-01T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11055042</URL>
+   <color>#2A96DE</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Working With Data</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068024</id>
+   <title>Cleaning Untidy Data with OpenRefine</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn &lt;a href=&quot;https://openrefine.org/&quot;&gt;OpenRefine&lt;/a&gt;, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;No previous experience is required. This will be a hands-on workshop--please bring a laptop.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-11-02T13:00:00-04:00</start>
+   <end>2023-11-02T14:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11068024</URL>
+   <color>#2A96DE</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068042</id>
+   <title>Introduction to R Part 1: Getting started with R and RStudio</title>
+   <description>&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:11px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This 2-part introductory workshop aims to teach basic concepts, skills, and tools for working with data in R so that you can get more done in less time, and apply concepts of reproducibility to your research. This is an introduction to R designed for participants with no programming experience. &lt;a href=&quot;https://cmu.libcal.com/event/11068042&quot;&gt;Part 1&lt;/a&gt; of the workshop covers basic information about R syntax and the RStudio interface, including installing packages and working with vectors. &lt;a href=&quot;https://cmu.libcal.com/event/11068056&quot;&gt;Part 2&lt;/a&gt; will cover importing CSV files, working with dataframes, how to deal with factors, how to add/remove rows and columns using the popular &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:italic&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;dplyr&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt; package, and how to calculate summary statistics from a data frame. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Taking Part 1 and Part 2 is encouraged, but optional.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;br /&gt;&#13;
+&lt;span style=&quot;font-size:11px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Learners should bring a laptop and should already have installed R and RStudio on their computer. Installation and set-up instructions, as well as a detailed curriculum for the workshop can be downloaded &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#1155cc&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:underline&quot;&gt;&lt;span style=&quot;text-decoration-skip-ink:none&quot;&gt;here&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-11-07T10:00:00-05:00</start>
+   <end>2023-11-07T11:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11068042</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>20</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11067880</id>
+   <title>Intro to Plotly Open Source Graphing Library</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:11pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#0e101a&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Do ordinary and traditional graphical figures have you feeling down? Then you&amp;rsquo;ve come to the right place! In this workshop, I will use examples from &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;http://plotly.com/python/&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot;font-size:11pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#4a6ee0&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:underline&quot;&gt;&lt;span style=&quot;text-decoration-skip-ink:none&quot;&gt;Plotly&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#0e101a&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;, an open-source graphing library, to show you how to make interactive and publication-worthy graphs. The workshop will cover some fundamentals and introduce different types of interactive figures.&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:11pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#0e101a&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:11pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#0e101a&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Please note the workshop will only introduce fragments of the material found on Plotly&amp;#39;s website. Explore and discover documentation and resources by visiting &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;http://plotly.com/python/&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot;font-size:11pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#4a6ee0&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:underline&quot;&gt;&lt;span style=&quot;text-decoration-skip-ink:none&quot;&gt;Plotly&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-size:11pt; font-variant-ligatures:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-numeric:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Arial, sans-serif&quot;&gt;&lt;span style=&quot;color:#0e101a&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&amp;rsquo;s website. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-11-09T10:00:00-05:00</start>
+   <end>2023-11-09T11:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11067880</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>25</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068112</id>
+   <title>Analyzing scholarly literature using bibliometrics</title>
+   <description>&lt;p style=&quot;line-height:1.38&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This workshop will provide an introduction to bibliometric methods. Bibliometrics, or the use of tools and statistical methods to analyze published books and articles, can be a useful approach to understanding a body of knowledge and the way researchers are collaborating or publishing work on a topic. We will cover the basics of gathering a dataset for bibliometric analysis using tools like Web of Science and Scopus; provide an overview of software tools for analyzing bibliographic data; and discuss examples of bibliometric analyses across a range of disciplines. The workshop is aimed at graduate students, staff and faculty researchers, but anyone is welcome to join.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.656; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This is Part 3 of the &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Advanced and systematized literature review methods Workshop Series&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:'Open Sans',sans-serif&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;. You do not need to have attended previous workshops in this series.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-11-09T12:00:00-05:00</start>
+   <end>2023-11-09T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11068112</URL>
+   <color>#9276C9</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Melanie Gainey, Ryan Splenda &amp; Sarah Young</presenter>
+   <categories>
+    <category>Evidence Synthesis</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068067</id>
+   <title>Teaching and Learning Text Mining with Geographic Analysis in TDM Studio</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span calibri=&quot;&quot;&gt;Many places have the same name as other places&amp;mdash;We can think, for example, of placenames like &lt;i&gt;Springfield&lt;/i&gt; or &lt;i&gt;London&lt;/i&gt; or &lt;i&gt;Main Street&lt;/i&gt; which cover dozens (or hundreds?) or different locations. In this 1-hour workshop, we will use TDM Studio to explore the geographic distribution of placenames in different datasets. You will have the opportunity to create a dataset related to your research project. We will then plot the geocoded locations in the dataset on a map and discuss&amp;mdash;&lt;i&gt;Which ones does the geocoding algorithm get right What are the mistakes and what can we learn from these mistakes? &lt;/i&gt;No previous text mining or coding experience is needed for this workshop. We will also look briefly at a Python implementation of the geocoding algorithm&amp;mdash;This will let us discuss other options and the pros and cons of different approaches to the task.&lt;/span&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Related workshops in this series include:&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11068087&quot;&gt;Sentiment Analysis Overview and State of the Art, December 4, 10-11am ET&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-11-13T10:00:00-05:00</start>
+   <end>2023-11-13T11:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11068067</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni &amp; Sarah Young</presenter>
+   <categories>
+    <category>Spatial and GIS</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>50</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068056</id>
+   <title>Introduction to R Part 2: Working with data in R</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This 2-part introductory workshop aims to teach basic concepts, skills, and tools for working with data in R so that you can get more done in less time, and apply concepts of reproducibility to your research. This is an introduction to R designed for participants with no programming experience. &lt;a href=&quot;https://cmu.libcal.com/event/11068042&quot;&gt;Part 1&lt;/a&gt; of the workshop covers basic information about R syntax and the RStudio interface, including installing packages and working with vectors. &lt;a href=&quot;https://cmu.libcal.com/event/11068056&quot;&gt;Part 2&lt;/a&gt; will cover importing CSV files, working with dataframes, how to deal with factors, how to add/remove rows and columns using the popular &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:italic&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;dplyr&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt; package, and how to calculate summary statistics from a data frame. Taking Part 1 and Part 2 is encouraged, but optional.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;br /&gt;&#13;
+&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Learners should bring a laptop and should already have installed R and RStudio on their computer. Installation and set-up instructions, as well as a detailed curriculum for the workshop can be downloaded &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;https://cmu-lib.github.io/os-workshops/reproducible-research/Introduction%20to%20R.pdf&quot; style=&quot;text-decoration:none&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#1155cc&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:underline&quot;&gt;&lt;span style=&quot;text-decoration-skip-ink:none&quot;&gt;here&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;font-family:Arial&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-11-14T10:00:00-05:00</start>
+   <end>2023-11-14T11:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11068056</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11098020</id>
+   <title>Data Carpentry: Introduction to R</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This event is a virtual&amp;nbsp;example-driven three-day workshop on basic computing skills. Short tutorials alternate with hands-on practical exercises, and participants are encouraged both to help one another, and to try applying what they have learned to their own research problems during and between sessions. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;77&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Visit &lt;a data-key=&quot;79&quot; href=&quot;http://www.datacarpentry.org/&quot;&gt;http://www.datacar&lt;/a&gt;&lt;a data-key=&quot;81&quot; href=&quot;http://www.datacarpentry.org/&quot;&gt;entry.org/&lt;/a&gt; to learn more about Data Carpentry.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;84&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyVmlzaXQlMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyZW50cnkub3JnJTJGJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjB0byUyMGxlYXJuJTIwbW9yZSUyMGFib3V0JTIwRGF0YSUyMENhcnBlbnRyeS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUaGlzJTIwZXZlbnQlMjBydW5zJTIwZnJvbSUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIxNS0xNyUyME5vdmVtYmVyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjAlMkMlMjBmcm9tJTIwJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMjklM0EwMCUyMGFtLTEyJTNBMDAlMjBwbSUyMEVhc3Rlcm4lMjBUaW1lJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJlYWNoJTIwZGF5LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This &lt;strong&gt;virtual&lt;/strong&gt; event runs from &lt;strong data-slate-leaf=&quot;true&quot;&gt;15-17 November&lt;/strong&gt;&amp;nbsp;from &lt;strong data-slate-leaf=&quot;true&quot;&gt;9:00 am-12:00 pm Eastern Time &lt;/strong&gt;each day. Please only sign up if you can attend all three days.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;84&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyVmlzaXQlMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyZW50cnkub3JnJTJGJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjB0byUyMGxlYXJuJTIwbW9yZSUyMGFib3V0JTIwRGF0YSUyMENhcnBlbnRyeS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUaGlzJTIwZXZlbnQlMjBydW5zJTIwZnJvbSUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIxNS0xNyUyME5vdmVtYmVyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjAlMkMlMjBmcm9tJTIwJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMjklM0EwMCUyMGFtLTEyJTNBMDAlMjBwbSUyMEVhc3Rlcm4lMjBUaW1lJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJlYWNoJTIwZGF5LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Register for the workshop &lt;a href=&quot;https://www.eventbrite.com/e/data-carpentry-introduction-to-r-tickets-660645256747?aff=oddtdtcreator&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-11-15T09:00:00-05:00</start>
+   <end>2023-11-15T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11098020</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran, Chasz Griego, Emma Slayton &amp; Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+  </event>
+  <event>
+   <id>11098021</id>
+   <title>Data Carpentry: Introduction to R</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This event is a virtual&amp;nbsp;example-driven three-day workshop on basic computing skills. Short tutorials alternate with hands-on practical exercises, and participants are encouraged both to help one another, and to try applying what they have learned to their own research problems during and between sessions. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;77&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Visit &lt;a data-key=&quot;79&quot; href=&quot;http://www.datacarpentry.org/&quot;&gt;http://www.datacar&lt;/a&gt;&lt;a data-key=&quot;81&quot; href=&quot;http://www.datacarpentry.org/&quot;&gt;entry.org/&lt;/a&gt; to learn more about Data Carpentry.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;84&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyVmlzaXQlMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyZW50cnkub3JnJTJGJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjB0byUyMGxlYXJuJTIwbW9yZSUyMGFib3V0JTIwRGF0YSUyMENhcnBlbnRyeS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUaGlzJTIwZXZlbnQlMjBydW5zJTIwZnJvbSUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIxNS0xNyUyME5vdmVtYmVyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjAlMkMlMjBmcm9tJTIwJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMjklM0EwMCUyMGFtLTEyJTNBMDAlMjBwbSUyMEVhc3Rlcm4lMjBUaW1lJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJlYWNoJTIwZGF5LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This &lt;strong&gt;virtual&lt;/strong&gt; event runs from &lt;strong data-slate-leaf=&quot;true&quot;&gt;15-17 November&lt;/strong&gt;&amp;nbsp;from &lt;strong data-slate-leaf=&quot;true&quot;&gt;9:00 am-12:00 pm Eastern Time &lt;/strong&gt;each day. Please only sign up if you can attend all three days.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;84&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyVmlzaXQlMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyZW50cnkub3JnJTJGJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjB0byUyMGxlYXJuJTIwbW9yZSUyMGFib3V0JTIwRGF0YSUyMENhcnBlbnRyeS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUaGlzJTIwZXZlbnQlMjBydW5zJTIwZnJvbSUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIxNS0xNyUyME5vdmVtYmVyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjAlMkMlMjBmcm9tJTIwJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMjklM0EwMCUyMGFtLTEyJTNBMDAlMjBwbSUyMEVhc3Rlcm4lMjBUaW1lJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJlYWNoJTIwZGF5LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Register for the workshop &lt;a href=&quot;https://www.eventbrite.com/e/data-carpentry-introduction-to-r-tickets-660645256747?aff=oddtdtcreator&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-11-16T09:00:00-05:00</start>
+   <end>2023-11-16T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11098021</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran, Chasz Griego, Emma Slayton &amp; Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+  </event>
+  <event>
+   <id>11098022</id>
+   <title>Data Carpentry: Introduction to R</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This event is a virtual&amp;nbsp;example-driven three-day workshop on basic computing skills. Short tutorials alternate with hands-on practical exercises, and participants are encouraged both to help one another, and to try applying what they have learned to their own research problems during and between sessions. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;77&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Visit &lt;a data-key=&quot;79&quot; href=&quot;http://www.datacarpentry.org/&quot;&gt;http://www.datacar&lt;/a&gt;&lt;a data-key=&quot;81&quot; href=&quot;http://www.datacarpentry.org/&quot;&gt;entry.org/&lt;/a&gt; to learn more about Data Carpentry.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;84&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyVmlzaXQlMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyZW50cnkub3JnJTJGJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjB0byUyMGxlYXJuJTIwbW9yZSUyMGFib3V0JTIwRGF0YSUyMENhcnBlbnRyeS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUaGlzJTIwZXZlbnQlMjBydW5zJTIwZnJvbSUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIxNS0xNyUyME5vdmVtYmVyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjAlMkMlMjBmcm9tJTIwJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMjklM0EwMCUyMGFtLTEyJTNBMDAlMjBwbSUyMEVhc3Rlcm4lMjBUaW1lJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJlYWNoJTIwZGF5LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This &lt;strong&gt;virtual&lt;/strong&gt; event runs from &lt;strong data-slate-leaf=&quot;true&quot;&gt;15-17 November&lt;/strong&gt;&amp;nbsp;from &lt;strong data-slate-leaf=&quot;true&quot;&gt;9:00 am-12:00 pm Eastern Time &lt;/strong&gt;each day. Please only sign up if you can attend all three days.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p data-key=&quot;84&quot; data-slate-fragment=&quot;JTdCJTIyb2JqZWN0JTIyJTNBJTIyZG9jdW1lbnQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJibG9jayUyMiUyQyUyMnR5cGUlMjIlM0ElMjJwYXJhZ3JhcGglMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTIyY2xhc3NOYW1lJTIyJTNBbnVsbCU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyVmlzaXQlMjAlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmlubGluZSUyMiUyQyUyMnR5cGUlMjIlM0ElMjJsaW5rJTIyJTJDJTIyZGF0YSUyMiUzQSU3QiUyMmNsYXNzTmFtZSUyMiUzQW51bGwlMkMlMjJocmVmJTIyJTNBJTIyaHR0cCUzQSUyRiUyRnd3dy5kYXRhY2FycGVudHJ5Lm9yZyUyRiUyMiU3RCUyQyUyMm5vZGVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIydGV4dCUyMiUyQyUyMmxlYXZlcyUyMiUzQSU1QiU3QiUyMm9iamVjdCUyMiUzQSUyMmxlYWYlMjIlMkMlMjJ0ZXh0JTIyJTNBJTIyZW50cnkub3JnJTJGJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlNUQlN0QlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjB0byUyMGxlYXJuJTIwbW9yZSUyMGFib3V0JTIwRGF0YSUyMENhcnBlbnRyeS4lMjIlMkMlMjJtYXJrcyUyMiUzQSU1QiU1RCU3RCU1RCU3RCU1RCU3RCUyQyU3QiUyMm9iamVjdCUyMiUzQSUyMmJsb2NrJTIyJTJDJTIydHlwZSUyMiUzQSUyMnBhcmFncmFwaCUyMiUyQyUyMmRhdGElMjIlM0ElN0IlMjJjbGFzc05hbWUlMjIlM0FudWxsJTdEJTJDJTIybm9kZXMlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJ0ZXh0JTIyJTJDJTIybGVhdmVzJTIyJTNBJTVCJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJUaGlzJTIwZXZlbnQlMjBydW5zJTIwZnJvbSUyMCUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIxNS0xNyUyME5vdmVtYmVyJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjIlMjAlMkMlMjBmcm9tJTIwJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlNUQlN0QlMkMlN0IlMjJvYmplY3QlMjIlM0ElMjJsZWFmJTIyJTJDJTIydGV4dCUyMiUzQSUyMjklM0EwMCUyMGFtLTEyJTNBMDAlMjBwbSUyMEVhc3Rlcm4lMjBUaW1lJTIwJTIyJTJDJTIybWFya3MlMjIlM0ElNUIlN0IlMjJvYmplY3QlMjIlM0ElMjJtYXJrJTIyJTJDJTIydHlwZSUyMiUzQSUyMmJvbGQlMjIlMkMlMjJkYXRhJTIyJTNBJTdCJTdEJTdEJTVEJTdEJTJDJTdCJTIyb2JqZWN0JTIyJTNBJTIybGVhZiUyMiUyQyUyMnRleHQlMjIlM0ElMjJlYWNoJTIwZGF5LiUyMiUyQyUyMm1hcmtzJTIyJTNBJTVCJTVEJTdEJTVEJTdEJTVEJTdEJTVEJTdE&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Register for the workshop &lt;a href=&quot;https://www.eventbrite.com/e/data-carpentry-introduction-to-r-tickets-660645256747?aff=oddtdtcreator&quot;&gt;here&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-11-17T09:00:00-05:00</start>
+   <end>2023-11-17T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11098022</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran, Chasz Griego, Emma Slayton &amp; Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+  </event>
+  <event>
+   <id>11110715</id>
+   <title>Encapsulating Reproducible Computational Research with Code Ocean</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;a href=&quot;https://codeocean.com/&quot;&gt;Code Ocean&lt;/a&gt; is a cloud-based platform for creating, organizing, and sharing reproducible computational research environments. In this workshop, we will show you how to create a &amp;quot;Capsule&amp;quot; for a computational research project. We will demonstrate how to organize data, code, and results in a Capsule, create a reproducible snapshot of a software environment for a variety of programming languages and libraries (including Python, R, MATLAB, and Julia), and create metadata to prepare your project for publication and enhanced discoverability. This workshop is open to anyway that is interested in computational reproducibility. No prior experience with a programming language is required, but we encourage participants to attend with a project in mind, so that they are able to immediately utilize this platform. &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2023-11-29T13:00:00-05:00</start>
+   <end>2023-11-29T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11110715</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11068087</id>
+   <title>Sentiment Analysis Overview and State of the Art with TDM Studio</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-family:Arial,Helvetica,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span calibri=&quot;&quot;&gt;Sentiment Analysis or Sentiment Classification is valuable for answering lots of different research question: &lt;i&gt;How does public sentiment react to different tragic events? Do tragic events always elicit the same negative emotional states? What publicly expressed emotions help politicians get elected? Have the most common emotions changed over the last 150 years? &lt;/i&gt;In this 1-hour workshop, we will use TDM Studio to learn about Sentiment Classification and also run two approaches to the task&amp;mdash;One will be a baseline dictionary-based approach and the other a more recent SBERT-based model that performs at the state of the art for newspaper sentiment classification. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2023-12-04T10:00:00-05:00</start>
+   <end>2023-12-04T11:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11068087</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni &amp; Sarah Young</presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>50</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+ </events>
+</libcal>
