@@ -1,8 +1,3 @@
----
-layout: default
-title: Home
-nav_order: 1
----
 # Open Data Science Workshops
 Hosted by the Open Science program within the
 [Carnegie Mellon University (CMU) Libraries](https://www.library.cmu.edu/)
