@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
 # Open Data Science Workshops
 Hosted by the Open Science program within the
 [Carnegie Mellon University (CMU) Libraries](https://www.library.cmu.edu/)
@@ -7,21 +12,34 @@ build computational skills for Open Research and Data Science.
 
 ## Workshop Calendar
 
-| Day | Time | Title
-| --- | --- | ---
-| February 7, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 1: Introduction to Basic Programming with Data](https://cmu.libcal.com/event/10230106) ([Content](Python_Series_Materials/part_1/part_1.md))
-| February 14, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 2: Making the Most with Jupyter Lab and Notebooks](https://cmu.libcal.com/event/10230549) ([Content](Python_Series_Materials/part_2/part_2.md))
-| February 15, 2023 | 3:00 pm - 4:30 pm | [Cleaning Messy Data with OpenRefine](https://cmu.libcal.com/event/10185679) ([Content](content/openrefine.md))
-| February 16, 2023 | 10:00 am - 11:30 am | [Intro to R Part 1: Getting Started with R and RStudio](https://cmu.libcal.com/event/10185624)
-| February 21, 2023 | 1:00 pm - 3:00 pm | [Intro to Python Part 3: Plotting and Analyzing Tabular Datasets](https://cmu.libcal.com/event/10230737) ([Content](Python_Series_Materials/part_3/part_3.md))
-| February 23, 2023 | 10:00 am - 11:30 am | [Intro to R Part 2: Working with Data in R](https://cmu.libcal.com/event/10185621)
-| March 8, 2023 | 10:00 am - 12:00 pm | [Advanced Research Note-Taking with Obsidian](https://cmu.libcal.com/event/10247379)
-| March 14, 2023 | 10:00 am - 12:00 pm | [Introduction to Command Line Interface](https://cmu.libcal.com/event/10252549)
-| March 15, 2023 | 11:00 am - 12:00 pm | [Data Visualization Best Practices](https://cmu.libcal.com/event/10231975)
-| March 22, 2023 | 11:00 am - 12:00 pm | [Data Visualization in R](https://cmu.libcal.com/event/10231953)
-| March 29, 2023 | 11:00 am - 12:00 pm | [Data Visualization in Tableau](https://cmu.libcal.com/event/10231987)
-| April 19, 2023 | 10:00 am - 12:00 pm | [Python for Harvesting Data on the Web](https://cmu.libcal.com/event/10252102)
-| April 20, 2023 | 12:00 pm - 1:30 pm | [Creating Websites and Portfolios with GitPages](https://cmu.libcal.com/event/10185690) ([Content](content/git_github.md))
+| September 08, 2023 | 12:00 PM - 01:30 PM | Building your Programming Tool Box: Command Line Crash Course for Beginners | [Register Here](https://cmu.libcal.com/event/11068306) [Content](cli/cli_main.md) 
+| September 13, 2023 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data | [Register Here](https://cmu.libcal.com/event/11101229) [Content](Python_Series_Materials/part_1/part_1.md) 
+| September 15, 2023 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Version Control with Git | [Register Here](https://cmu.libcal.com/event/11108087) [Content](https://swcarpentry.github.io/git-novice/) 
+| September 20, 2023 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 2: Plotting and Analyzing Tabular Datasets | [Register Here](https://cmu.libcal.com/event/11101249) [Content](Python_Series_Materials/part_3/part_3.md) 
+| September 22, 2023 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Collaborating with GitHub | [Register Here](https://cmu.libcal.com/event/11108299) [Content](https://swcarpentry.github.io/git-novice/) 
+| September 27, 2023 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 3: Analyzing Data with Logic and Iteration | [Register Here](https://cmu.libcal.com/event/11101275) 
+| September 28, 2023 | 12:00 PM - 01:00 PM | Introduction to Research Data Management and Data Management Plans | [Register Here](https://cmu.libcal.com/event/11054938) 
+| September 29, 2023 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages | [Register Here](https://cmu.libcal.com/event/11108435) [Content](content/git_github.md) 
+| October 03, 2023 | 01:00 PM - 03:00 PM | Making the Most with Jupyter Lab and Notebooks | [Register Here](https://cmu.libcal.com/event/11067479) [Content](Python_Series_Materials/part_2/part_2.md) 
+| October 19, 2023 | 01:00 PM - 03:00 PM | Python for Harvesting Data on the Web | [Register Here](https://cmu.libcal.com/event/11067535) 
+| October 25, 2023 | 10:00 AM - 12:00 PM | Advanced Research Note-Taking with Obsidian | [Register Here](https://cmu.libcal.com/event/11101345) [Content](content/obsidian.md) 
+| October 26, 2023 | 10:00 AM - 11:00 AM | Getting Started with Open Science Framework Workshop | [Register Here](https://cmu.libcal.com/event/11067730) [Content](content/osf.md) 
+| October 27, 2023 | 12:00 PM - 01:00 PM | Introduction to Successful Collaboration for Community Engagement | [Register Here](https://cmu.libcal.com/event/11174360) 
+| October 31, 2023 | 12:00 PM - 01:00 PM | Introduction to Academic Publishing Processes and Models | [Register Here](https://cmu.libcal.com/event/11055001) 
+| November 02, 2023 | 01:00 PM - 02:30 PM | Cleaning Untidy Data with OpenRefine | [Register Here](https://cmu.libcal.com/event/11068024) [Content](content/openrefine.md) 
+| November 07, 2023 | 10:00 AM - 11:30 AM | Introduction to R Part 1: Getting started with R and RStudio | [Register Here](https://cmu.libcal.com/event/11068042) 
+| November 09, 2023 | 10:00 AM - 11:00 AM | Intro to Plotly Open Source Graphing Library | [Register Here](https://cmu.libcal.com/event/11067880) 
+| November 14, 2023 | 10:00 AM - 11:30 AM | Introduction to R Part 2: Working with data in R | [Register Here](https://cmu.libcal.com/event/11068056) 
+| November 15, 2023 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | [Register Here](https://cmu.libcal.com/event/11098020) [Content](https://datacarpentry.org/socialsci-workshop/) 
+| November 16, 2023 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | [Register Here](https://cmu.libcal.com/event/11098021) [Content](https://datacarpentry.org/socialsci-workshop/) 
+| November 17, 2023 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | [Register Here](https://cmu.libcal.com/event/11098022) [Content](https://datacarpentry.org/socialsci-workshop/) 
+| November 29, 2023 | 01:00 PM - 03:00 PM | Encapsulating Reproducible Computational Research with Code Ocean | [Register Here](https://cmu.libcal.com/event/11110715) 
+
+## Data Office Hours
+
+Schedule a [Data Consultation](https://library.cmu.edu/service/data-office-hours) with our library associates for support with data and research!
+
+![Data Office Hours Flyer](content/img/data-office-hours.png)
 
 ## Coordinators
 
@@ -49,3 +67,8 @@ Sarah Young (she/her/hers)
 Principal Librarian  
 Office: 109G, Hunt Library  
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/sarahy)
+
+Emily Bongiovanni
+Psychology Librarian Liaison
+Office: 109D, Hunt Library
+[ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)

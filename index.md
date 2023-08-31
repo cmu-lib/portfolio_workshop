@@ -24,6 +24,7 @@ build computational skills for Open Research and Data Science.
 | October 19, 2023 | 01:00 PM - 03:00 PM | Python for Harvesting Data on the Web | [Register Here](https://cmu.libcal.com/event/11067535) 
 | October 25, 2023 | 10:00 AM - 12:00 PM | Advanced Research Note-Taking with Obsidian | [Register Here](https://cmu.libcal.com/event/11101345) [Content](content/obsidian.md) 
 | October 26, 2023 | 10:00 AM - 11:00 AM | Getting Started with Open Science Framework Workshop | [Register Here](https://cmu.libcal.com/event/11067730) [Content](content/osf.md) 
+| October 27, 2023 | 12:00 PM - 01:00 PM | Introduction to Successful Collaboration for Community Engagement | [Register Here](https://cmu.libcal.com/event/11174360) 
 | October 31, 2023 | 12:00 PM - 01:00 PM | Introduction to Academic Publishing Processes and Models | [Register Here](https://cmu.libcal.com/event/11055001) 
 | November 02, 2023 | 01:00 PM - 02:30 PM | Cleaning Untidy Data with OpenRefine | [Register Here](https://cmu.libcal.com/event/11068024) [Content](content/openrefine.md) 
 | November 07, 2023 | 10:00 AM - 11:30 AM | Introduction to R Part 1: Getting started with R and RStudio | [Register Here](https://cmu.libcal.com/event/11068042) 
@@ -66,3 +67,8 @@ Sarah Young (she/her/hers)
 Principal Librarian  
 Office: 109G, Hunt Library  
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/sarahy)
+
+Emily Bongiovanni
+Psychology Librarian Liaison
+Office: 109D, Hunt Library
+[ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)
