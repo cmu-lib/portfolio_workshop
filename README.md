@@ -68,7 +68,12 @@ Principal Librarian
 Office: 109G, Hunt Library  
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/sarahy)
 
-Emily Bongiovanni
-Psychology Librarian Liaison
-Office: 109D, Hunt Library
-[ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)
+Emily Bongiovanni  
+Psychology Librarian Liaison  
+Office: 109D, Hunt Library  
+[ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)  
+
+Taiwo Lasisi  
+CLIR Postdoctoral Fellow in Community Data Literacy  
+Office: 4418, Sorrells Library  
+[tlasisi@andrew.cmu.edu](mailto:tlasisi@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/TaiwoLasisi)  
