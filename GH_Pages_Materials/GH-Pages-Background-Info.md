@@ -2,7 +2,7 @@
 layout: default
 title: 1. Background Info
 parent: GitHub and GitHub Pages
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
