@@ -5,8 +5,8 @@ exercises: 0
 layout: default
 grand_parent: GitHub and GitHub Pages
 parent: Version Control with Git
-has_children: "false"
-nav_order: "2"
+has_children: false
+nav_order: 2
 ---
 
 ># Objectives
@@ -117,6 +117,3 @@ the same files concurrently.
 >- Version control is like an unlimited 'undo'.
 >- Version control also allows many people to work in parallel.
 >
-
-
-
