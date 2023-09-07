@@ -3,10 +3,10 @@ layout: default
 parent: Python for Data Science
 has_children: true
 nav_order: 4
-title: Plotting and Analyzing Tabular Datasets
+title: Analyzing Data with Logic and Iteration
 ---
 
-# Part 3: Plotting and Analyzing Tabular Datasets
+# Part 3: Analyzing Data with Logic and Iteration
 
 In the final part of the 3-part workshop series, "Introduction to Python for Data Science," we demonstrate advanced Python programming techniques using the Pandas library to read tabular datasets, perform statistical analyses, and visualize data. The content covered in this workshop will be a continuation of the content covered in part 1, "Introduction to Basic Programming with Data". We highly encourage attending the first part of the series before this workshop, especially to learners that are new to the Python programming language.  
 
