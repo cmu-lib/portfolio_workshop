@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 6
+nav_order: 8
 title: "Looping over Datasets"
 teaching: 5
 exercises: 10
@@ -63,7 +63,7 @@ dtype: float64
     *   `?` meaning "match exactly one character"
 *   Python's standard library contains the [`glob`](https://docs.python.org/3/library/glob.html) module to provide pattern matching functionality
 *   The [`glob`](https://docs.python.org/3/library/glob.html) module contains a function also called `glob` to match file patterns
-*   E.g., `glob.glob('*.txt')` matches all files in the current directory 
+*   E.g., `glob.glob('*.txt')` matches all files in the current directory
     whose names end with `.txt`.
 *   Result is a (possibly empty) list of character strings.
 
@@ -179,9 +179,9 @@ data/gapminder_gdp_oceania.csv 10039.59564
 > >     dataframe = pd.read_csv(filename)
 > >     # extract <region> from the filename, expected to be in the format 'data/gapminder_gdp_<region>.csv'.
 > >     # we will split the string using the split method and `_` as our separator,
-> >     # retrieve the last string in the list that split returns (`<region>.csv`), 
+> >     # retrieve the last string in the list that split returns (`<region>.csv`),
 > >     # and then remove the `.csv` extension from that string.
-> >     region = filename.split('_')[-1][:-4] 
+> >     region = filename.split('_')[-1][:-4]
 > >     dataframe.mean().plot(ax=ax, label=region)
 > > plt.legend()
 > > plt.show()
@@ -194,7 +194,7 @@ data/gapminder_gdp_oceania.csv 10039.59564
 > directories. In the example below, we create a `Path` object and inspect its attributes.
 > ~~~
 > from pathlib import Path
-> 
+>
 > p = Path("data/gapminder_gdp_africa.csv")
 > print(p.parent), print(p.stem), print(p.suffix)
 > ~~~
@@ -205,7 +205,7 @@ data/gapminder_gdp_oceania.csv 10039.59564
 > .csv
 > ~~~
 
-> 
+>
 > __Hint:__ It is possible to check all available attributes and methods on the `Path` object with the `dir()`
 > function!
 

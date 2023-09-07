@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 1
+nav_order: 3
 title: "Pandas DataFrames"
 teaching: 15
 exercises: 15
@@ -139,7 +139,7 @@ Poland          5338.752143     6557.152776     8006.506993
 
 In the above code, we discover that **slicing using `loc` is inclusive at both
 ends**, which differs from **slicing using `iloc`**, where slicing indicates
-everything up to but not including the final index. 
+everything up to but not including the final index.
 
 
 ## Result of slicing can be used in further operations.
@@ -250,10 +250,10 @@ max      13450.401510    16361.876470    18965.055510
 
 ## Group By: split-apply-combine
 
-Pandas vectorizing methods and grouping operations are features that provide users 
+Pandas vectorizing methods and grouping operations are features that provide users
 much flexibility to analyse their data.
 
-For instance, let's say we want to have a clearer view on how the European countries 
+For instance, let's say we want to have a clearer view on how the European countries
 split themselves according to their GDP.
 
 1.  We may have a glance by splitting the countries in two groups during the years surveyed,
@@ -362,13 +362,13 @@ print(data.groupby(wealth_score).sum())
 > 1.  Do the two statements below produce the same output?
 > 2.  Based on this,
 >     what rule governs what is included (or not) in numerical slices and named slices in Pandas?
-> 
+>
 > ~~~
 > print(df.iloc[0:2, 0:2])
 > print(df.loc['Albania':'Belgium', 'gdpPercap_1952':'gdpPercap_1962'])
 > ~~~
 
-> 
+>
 > > ## Solution
 > > No, they do not produce the same output! The output of the first statement is:
 > > ~~~
@@ -413,37 +413,37 @@ print(data.groupby(wealth_score).sum())
 > > first = pd.read_csv('data/gapminder_all.csv', index_col='country')
 > > ~~~
 
-> > This line loads the dataset containing the GDP data from all countries into a dataframe called 
-> > `first`. The `index_col='country'` parameter selects which column to use as the 
+> > This line loads the dataset containing the GDP data from all countries into a dataframe called
+> > `first`. The `index_col='country'` parameter selects which column to use as the
 > > row labels in the dataframe.  
 > > ~~~
 > > second = first[first['continent'] == 'Americas']
 > > ~~~
 
-> > This line makes a selection: only those rows of `first` for which the 'continent' column matches 
-> > 'Americas' are extracted. Notice how the Boolean expression inside the brackets, 
-> > `first['continent'] == 'Americas'`, is used to select only those rows where the expression is true. 
-> > Try printing this expression! Can you print also its individual True/False elements? 
+> > This line makes a selection: only those rows of `first` for which the 'continent' column matches
+> > 'Americas' are extracted. Notice how the Boolean expression inside the brackets,
+> > `first['continent'] == 'Americas'`, is used to select only those rows where the expression is true.
+> > Try printing this expression! Can you print also its individual True/False elements?
 > > (hint: first assign the expression to a variable)
 > > ~~~
 > > third = second.drop('Puerto Rico')
 > > ~~~
 
-> > As the syntax suggests, this line drops the row from `second` where the label is 'Puerto Rico'. The 
+> > As the syntax suggests, this line drops the row from `second` where the label is 'Puerto Rico'. The
 > > resulting dataframe `third` has one row less than the original dataframe `second`.
 > > ~~~
 > > fourth = third.drop('continent', axis = 1)
 > > ~~~
 
-> > Again we apply the drop function, but in this case we are dropping not a row but a whole column. 
-> > To accomplish this, we need to specify also the `axis` parameter (we want to drop the second column 
+> > Again we apply the drop function, but in this case we are dropping not a row but a whole column.
+> > To accomplish this, we need to specify also the `axis` parameter (we want to drop the second column
 > > which has index 1).
 > > ~~~
 > > fourth.to_csv('result.csv')
 > > ~~~
 
-> > The final step is to write the data that we have been working on to a csv file. Pandas makes this easy 
-> > with the `to_csv()` function. The only required argument to the function is the filename. Note that the 
+> > The final step is to write the data that we have been working on to a csv file. Pandas makes this easy
+> > with the `to_csv()` function. The only required argument to the function is the filename. Note that the
 > > file will be written in the directory from which you started the Jupyter or Python session.
 
 
@@ -474,7 +474,7 @@ print(data.groupby(wealth_score).sum())
 > 1.  GDP per capita for all countries in 1982.
 > 2.  GDP per capita for Denmark for all years.
 > 3.  GDP per capita for all countries for years *after* 1985.
-> 4.  GDP per capita for each country in 2007 as a multiple of 
+> 4.  GDP per capita for each country in 2007 as a multiple of
 >     GDP per capita for that country in 1952.
 >
 > > ## Solution
@@ -656,7 +656,7 @@ print(data.groupby(wealth_score).sum())
 > Python includes a `dir()` function that can be used to display all of the available methods (functions) that are built into a data object.  In Episode 4, we used some methods with a string. But we can see many more are available by using `dir()`:
 >
 > ~~~
-> my_string = 'Hello world!'   # creation of a string object 
+> my_string = 'Hello world!'   # creation of a string object
 > dir(my_string)
 > ~~~
 
@@ -678,7 +678,7 @@ print(data.groupby(wealth_score).sum())
 >
 > You can use `help()` or <kbd>Shift</kbd>+<kbd>Tab</kbd> to get more information about what these methods do.
 >
-> Assume Pandas has been imported and the Gapminder GDP data for Europe has been loaded as `data`.  Then, use `dir()` 
+> Assume Pandas has been imported and the Gapminder GDP data for Europe has been loaded as `data`.  Then, use `dir()`
 > to find the function that prints out the median per-capita GDP across all European countries for each year that information is available.
 >
 > > ## Solution

@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 3
+nav_order: 5
 title: "Lists"
 teaching: 10
 exercises: 10
@@ -145,7 +145,7 @@ primes after removing last item: [2, 3, 5, 7]
 *   Use `[]` on its own to represent a list that doesn't contain any values.
     *   "The zero of lists."
 *   Helpful as a starting point for collecting values
-       
+
 
 ## Lists may contain values of different types.
 
@@ -220,13 +220,13 @@ IndexError: string index out of range
 > values = values[____]
 > print('second time:', values)
 > ~~~
-> 
+>
 >
 > ~~~
 > first time: [1, 3, 5]
 > second time: [3, 5]
 > ~~~
-> 
+>
 >
 > > ## Solution
 > > ~~~
@@ -249,7 +249,7 @@ IndexError: string index out of range
 > > ## Solution
 > > The list `values[start:stop]` has up to `stop - start` elements.  For example,
 > > `values[1:4]` has the 3 elements `values[1]`, `values[2]`, and `values[3]`.
-> 
+>
 
 
 > ## From Strings to Lists and Back
@@ -275,7 +275,7 @@ IndexError: string index out of range
 > > 2. [`join`](https://docs.python.org/3/library/stdtypes.html#str.join) returns a string that is the _concatenation_
 > >    of each string element in the list and adds the separator between each element in the list. This results in
 > >    `x-y-z`. The separator between the elements is the string that provides this method.
-> 
+>
 
 
 > ## Working With the End
@@ -286,7 +286,7 @@ IndexError: string index out of range
 > element = 'helium'
 > print(element[-1])
 > ~~~
-> 
+>
 >
 > 1.  How does Python interpret a negative index?
 > 2.  If a list or string has N elements,
@@ -304,7 +304,7 @@ IndexError: string index out of range
 > >    `-N`, which represents the first element.
 > > 3. `del values[-1]` removes the last element from the list.
 > > 4. `values[:-1]`
-> 
+>
 
 
 > ## Stepping Through a List
@@ -316,7 +316,7 @@ IndexError: string index out of range
 > print(element[::2])
 > print(element[::-1])
 > ~~~
-> 
+>
 >
 > 1.  If we write a slice as `low:high:stride`, what does `stride` do?
 > 2.  What expression would select all of the even-numbered items from a collection?
@@ -327,13 +327,13 @@ IndexError: string index out of range
 > > furn
 > > eniroulf
 > > ~~~
-> > 
+> >
 > > 1. `stride` is the step size of the slice.
 > > 2. The slice `1::2` selects all even-numbered items from a collection: it starts
 > >    with element `1` (which is the second element, since indexing starts at `0`),
 > >    goes on until the end (since no `end` is given), and uses a step size of `2`
 > >    (i.e., selects every second element).
-> 
+>
 
 
 > ## Slice Bounds
@@ -345,17 +345,17 @@ IndexError: string index out of range
 > print(element[0:20])
 > print(element[-1:3])
 > ~~~
-> 
+>
 >
 > > ## Solution
 > > ~~~
 > > lithium
-> > 
+> >
 > > ~~~
-> > 
+> >
 > The first statement prints the whole string, since the slice goes beyond the total length of the string.
 > The second statement returns an empty string, because the slice goes "out of bounds" of the string.
-> 
+>
 
 
 > ## Sort and Sorted
@@ -369,7 +369,7 @@ IndexError: string index out of range
 > result = sorted(letters)
 > print('letters is', letters, 'and result is', result)
 > ~~~
-> 
+>
 >
 > ~~~
 > # Program B
@@ -377,7 +377,7 @@ IndexError: string index out of range
 > result = letters.sort()
 > print('letters is', letters, 'and result is', result)
 > ~~~
-> 
+>
 >
 > > ## Solution
 > > Program A prints
@@ -389,11 +389,11 @@ IndexError: string index out of range
 > > ~~~
 > > letters is ['d', 'g', 'l', 'o'] and result is None
 > > ~~~
-> > 
+> >
 > > `sorted(letters)` returns a sorted copy of the list `letters` (the original
 > > list `letters` remains unchanged), while `letters.sort()` sorts the list
 > > `letters` in-place and does not return anything.
-> 
+>
 
 
 > ## Copying (or Not)
@@ -408,7 +408,7 @@ IndexError: string index out of range
 > new[0] = 'D'
 > print('new is', new, 'and old is', old)
 > ~~~
-> 
+>
 >
 > ~~~
 > # Program B
@@ -417,22 +417,22 @@ IndexError: string index out of range
 > new[0] = 'D'
 > print('new is', new, 'and old is', old)
 > ~~~
-> 
+>
 >
 > > ## Solution
 > > Program A prints
 > > ~~~
 > > new is ['D', 'o', 'l', 'd'] and old is ['D', 'o', 'l', 'd']
 > > ~~~
-> > 
+> >
 > > Program B prints
 > > ~~~
 > > new is ['D', 'o', 'l', 'd'] and old is ['g', 'o', 'l', 'd']
 > > ~~~
-> > 
+> >
 > > `new = old` makes `new` a reference to the list `old`; `new` and `old` point
 > > towards the same object.
-> > 
+> >
 > > `new = old[:]` however creates a new list object `new` containing all elements
 > > from the list `old`; `new` and `old` are different objects.
 

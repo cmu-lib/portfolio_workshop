@@ -3,7 +3,7 @@ layout: default
 grand_parent: Python for Data Science
 parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 4
+nav_order: 6
 title: "For Loops"
 teaching: 10
 exercises: 15
@@ -296,7 +296,7 @@ print(total)
 >
 > __Create an acronym:__ Starting from the list `["red", "green", "blue"]`, create the acronym `"RGB"` using
 > a for loop.
-> 
+>
 > __Hint:__ You may need to use a string method to properly format the acronym.
 > > ## Solution
 > > ~~~
@@ -384,12 +384,10 @@ print(total)
 > seasons = ['Spring', 'Summer', 'Fall', 'Winter']
 > print('My favorite season is ', seasons[4])
 > ~~~
-> 
+>
 > > ## Solution
 > > This list has 4 elements and the index to access the last element in the list is `3`.
 > > ~~~
 > > seasons = ['Spring', 'Summer', 'Fall', 'Winter']
 > > print('My favorite season is ', seasons[3])
 > > ~~~
-
-
