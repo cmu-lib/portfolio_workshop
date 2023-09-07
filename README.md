@@ -1,3 +1,8 @@
+---
+layout: default
+title: Home
+nav_order: 1
+---
 # Open Data Science Workshops
 Hosted by the Open Science program within the
 [Carnegie Mellon University (CMU) Libraries](https://www.library.cmu.edu/)
@@ -44,8 +49,8 @@ Office: Library 431, Mellon library
 [mgainey@andrew.cmu.edu](mailto:mgainey@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointment/42420)
 
 Chasz Griego (he/him/his)  
-Open Science Postdoctoral Associate  
-Office: 4416, Sorrells Library  
+Science and Engineering Librarian  
+Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
 Lencia Beltran (she/her/hers)  
@@ -63,12 +68,12 @@ Principal Librarian
 Office: 109G, Hunt Library  
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/sarahy)
 
-Emily Bongiovanni  
+Emily Bongiovanni (she/her/hers)  
 Psychology Librarian Liaison  
 Office: 109D, Hunt Library  
 [ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)  
 
-Taiwo Lasisi  
+Taiwo Lasisi (she/her/hers)  
 CLIR Postdoctoral Fellow in Community Data Literacy  
 Office: 4418, Sorrells Library  
 [tlasisi@andrew.cmu.edu](mailto:tlasisi@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/TaiwoLasisi)  
