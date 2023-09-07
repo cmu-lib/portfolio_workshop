@@ -33,11 +33,9 @@ for the purpose of working with data.
 
 ### Series
 
-| Workshops 
-| --- 
-| [Part 1: Introduction to Basic Programming with Data](../Python_Series_Materials/part_1/part_1)
-| [Part 2: Making the Most with Jupyter Lab and Notebooks](../Python_Series_Materials/part_2/part_2)
-| [Part 3: Plotting and Analyzing Tabular Datasets](../Python_Series_Materials/part_3/part_3)
+- [Part 1: Introduction to Basic Programming with Data](../Python_Series_Materials/part_1/part_1)
+- [Part 2: Making the Most with Jupyter Lab and Notebooks](../Python_Series_Materials/part_2/part_2)
+- [Part 3: Plotting and Analyzing Tabular Datasets](../Python_Series_Materials/part_3/part_3)
 
 ### Acknowledgment
 
