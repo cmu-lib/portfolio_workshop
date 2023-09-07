@@ -26,7 +26,7 @@ to keep track of what one person did and when.
 Even if you aren't collaborating with other people,
 automated version control is much better than this situation:
 
-!["notFinal.doc" by Jorge Cham, <https://www.phdcomics.com>](fig/phd101212s.png){alt='Comic: a PhD student sends "FINAL.doc" to their supervisor, but after several increasingly intense and frustrating rounds of comments and revisions they end up with a file named "FINAL_rev.22.comments49.corrections.10.#@$%WHYDIDCOMETOGRADSCHOOL????.doc"'}
+!["notFinal.doc" by Jorge Cham, <https://www.phdcomics.com>, 'Comic: a PhD student sends "FINAL.doc" to their supervisor, but after several increasingly intense and frustrating rounds of comments and revisions they end up with a file named "FINAL_rev.22.comments49.corrections.10.#@$%WHYDIDCOMETOGRADSCHOOL????.doc"'](fig/phd101212s.png)
 
 We've all been in this situation before: it seems unnecessary to have
 multiple nearly-identical versions of the same document. Some word
@@ -42,19 +42,19 @@ think of it as a recording of your progress: you can rewind to start at the base
 document and play back each change you made, eventually arriving at your
 more recent version.
 
-![](fig/play-changes.svg){alt='Changes Are Saved Sequentially'}
+!['Changes Are Saved Sequentially'](fig/play-changes.svg)
 
 Once you think of changes as separate from the document itself, you
 can then think about "playing back" different sets of changes on the base document, ultimately
 resulting in different versions of that document. For example, two users can make independent
 sets of changes on the same document.
 
-![](fig/versions.svg){alt='Different Versions Can be Saved'}
+!['Different Versions Can be Saved'](fig/versions.svg)
 
 Unless multiple users make changes to the same section of the document - a conflict - you can
 incorporate two sets of changes into the same base document.
 
-![](fig/merge.svg){alt='Multiple Versions Can be Merged'}
+!['Multiple Versions Can be Merged'](fig/merge.svg)
 
 A version control system is a tool that keeps track of these changes for us,
 effectively creating different versions of our files. It allows us to decide
@@ -112,7 +112,7 @@ the same files concurrently.
 >>
 
 
-> ## keypoints
+> ## Keypoints
 >
 >- Version control is like an unlimited 'undo'.
 >- Version control also allows many people to work in parallel.
