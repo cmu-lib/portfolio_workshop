@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 3. Advanced
-parent: GitHub and GitHub Pages
+grand_parent: GitHub and GitHub Pages
+parent: Websites and Portfolios with GitPages
 has_children: false
 nav_order: 3
 ---
