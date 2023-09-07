@@ -1,9 +1,9 @@
 ---
 layout: default
 grand_parent: Python for Data Science
-parent: Introduction to Basic Programming with Data
+parent: Plotting and Analyzing Tabular Datasets
 has_children: false
-nav_order: 6
+nav_order: 1
 title: "Libraries"
 teaching: 10
 exercises: 10
