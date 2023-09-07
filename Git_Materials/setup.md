@@ -1,5 +1,10 @@
 ---
+layout: default
 title: Setup
+grand_parent: GitHub and GitHub Pages
+parent: Version Control with Git
+has_children: false
+nav_order: 1
 ---
 
 ## Installing Git
@@ -22,6 +27,3 @@ $ cd Desktop
 ```
 
 [workshop-setup]: https://carpentries.github.io/workshop-template/install_instructions/#git
-
-
-

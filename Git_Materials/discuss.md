@@ -1,5 +1,10 @@
 ---
+layout: default
 title: Discussion
+grand_parent: GitHub and GitHub Pages
+parent: Version Control with Git
+has_children: false
+nav_order: 11
 ---
 
 ## Frequently Asked Questions
@@ -472,5 +477,3 @@ results/*             # ignore the files in the results directory
 :::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-

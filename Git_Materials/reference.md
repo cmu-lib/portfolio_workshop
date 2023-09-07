@@ -1,5 +1,10 @@
 ---
+layout: default
 title: 'Git Cheatsheets for Quick Reference'
+grand_parent: GitHub and GitHub Pages
+parent: Version Control with Git
+has_children: false
+nav_order: 10
 ---
 
 ## Git Cheatsheets for Quick Reference
@@ -77,5 +82,3 @@ small.
 Each set of changes creates a new [commit](#commit) of the files;
 the version control system allows users to recover old commits reliably,
 and helps manage conflicting changes made by different users.
-
-
