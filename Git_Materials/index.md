@@ -6,6 +6,9 @@ has_children: true
 nav_order: 2
 ---
 
+# Version Control with Git
+Hosted by the [Carnegie Mellon University (CMU) Libraries](https://www.library.cmu.edu/)
+
 Wolfman and Dracula have been hired by Universal Missions (a space
 services spinoff from Euphoric State University) to investigate if it
 is possible to send their next planetary lander to Mars.  They want to
