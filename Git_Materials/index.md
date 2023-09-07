@@ -1,6 +1,9 @@
 ---
-permalink: index.html
-site: sandpaper::sandpaper_site
+layout: default
+title: Version Control with Git
+parent: GitHub and GitHub Pages
+has_children: true
+nav_order: 2
 ---
 
 Wolfman and Dracula have been hired by Universal Missions (a space
@@ -54,5 +57,3 @@ Some previous experience with the shell is expected,
 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
