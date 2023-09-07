@@ -13,7 +13,6 @@ build computational skills for Open Research and Data Science.
 ## Workshop Calendar
 | Day | Time | Title | Content
 | --- | --- | --- | ---  
-
 | September 08, 2023 | 12:00 PM - 01:30 PM | Building your Programming Tool Box: Command Line Crash Course for Beginners | [Register Here](https://cmu.libcal.com/event/11068306) [Content](cli/cli_main.md) 
 | September 13, 2023 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data | [Register Here](https://cmu.libcal.com/event/11101229) [Content](Python_Series_Materials/part_1/part_1.md) 
 | September 15, 2023 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Version Control with Git | [Register Here](https://cmu.libcal.com/event/11108087) [Content](https://swcarpentry.github.io/git-novice/) 
