@@ -55,3 +55,11 @@ to be shared can and should be stored in a version control system.
 >In this lesson we use Git from the Unix Shell.
 >Some previous experience with the shell is expected,
 >*but isn't mandatory*.
+
+### Acknowledgment
+
+*The material for this workshop was created from the 
+[Version Control with Git](https://swcarpentry.github.io/git-novice/) curriculum
+developed by [The Software Carpentry Foundation](https://software-carpentry.org/)
+of [The Carpentries](https://carpentries.org/) licensed under
+[CC-BY 4.0](https://swcarpentry.github.io/git-novice/LICENSE.html)*
