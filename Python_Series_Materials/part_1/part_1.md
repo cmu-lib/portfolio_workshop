@@ -22,17 +22,17 @@ To be best prepared for this workshop, please follow the [setup instructions](..
 prior to attending.
 
 ### Schedule
-15 20 20 25
-| Section  | Time |
-| ------------- | ------------- |
-| [Setup](../setup.md)  |   |
-| [Running and Quitting](01-run-quit.md) | 00:00  |
-| [Variables and Assignment](02-variables.md)  | 00:25  |
+
+| Section  | Time
+| ------------- | -------------
+| [Setup](../setup.md)  |   
+| [Running and Quitting](01-run-quit.md) | 00:00  
+| [Variables and Assignment](02-variables.md)  | 00:25  
 | Break | 00:55
-| [Data Types and Type Conversion](03-types-conversion.md)  |  01:00  |
-| [Built-in Functions and Help](04-built-in.md) | 01:20 |
-| Workshop Survey | 01:50 |
-| Finish  | 02:00  |
+| [Data Types and Type Conversion](03-types-conversion.md)  |  01:00  
+| [Built-in Functions and Help](04-built-in.md) | 01:20
+| Workshop Survey | 01:50
+| Finish  | 02:00  
 
 ### Interactive Curriculum
 
