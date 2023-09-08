@@ -16,6 +16,13 @@ Science and Engineering Librarian
 Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
+### Learning Objectives
+
+1. **Run Python programs in JupyterLab**  
+2. **Create variables that store data**  
+3. **Identify different data types**  
+4. **Call built-in Python functions**  
+
 ### Setup
 
 To be best prepared for this workshop, please follow the [setup instructions](../setup)
