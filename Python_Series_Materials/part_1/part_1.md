@@ -36,18 +36,22 @@ During the workshop, you can ask and answer questions in this
 [Etherpad](https://etherpad.wikimedia.org/p/2023-09-13-python-part1), a notepad
 for live collaboration.
 
+### Pre-Workshop Survey
+
+Before the start of the workshop, please complete this
+[survey](https://forms.gle/ZkQMZJkWQG1pVMwSA). Thank you!!
 
 ### Schedule
 
 | Section  | Time
 | ------------- | -------------
-| [Setup](../setup.md)  |   
+| [Setup](../setup.md) and Pre-Workshop Survey  |   
 | [Running and Quitting](01-run-quit.md) | 00:00  
 | [Variables and Assignment](02-variables.md)  | 00:25  
 | Break | 00:55
 | [Data Types and Type Conversion](03-types-conversion.md)  |  01:00  
 | [Built-in Functions and Help](04-built-in.md) | 01:20
-| Workshop Survey | 01:50
+| Post-Workshop Survey | 01:50
 | Finish  | 02:00  
 
 ### Interactive Curriculum
@@ -58,5 +62,5 @@ Click the Binder badge below to work through the course content in JupyterLab.
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
-after attending the workshop. Thank you in advance!!!
+Please complete this [survey](https://forms.gle/5Z8o8qq1tRuDsouD9)
+after attending the workshop. Thank you!!!
