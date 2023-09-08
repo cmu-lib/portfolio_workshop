@@ -30,6 +30,13 @@ Workshop attendees will be able to:
 To be best prepared for this workshop, please follow the [setup instructions](../setup)
 prior to attending.
 
+### Interactive Notepad
+
+During the workshop, you can ask and answer questions in this
+[Etherpad](https://etherpad.wikimedia.org/p/2023-09-13-python-part1), a notepad
+for live collaboration.
+
+
 ### Schedule
 
 | Section  | Time
