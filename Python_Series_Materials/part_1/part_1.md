@@ -12,16 +12,18 @@ In this first part of the 3-part workshop series, "Introduction to Python for Da
 
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Science and Engineering Librarian
+Science and Engineering Librarian  
 Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
 ### Learning Objectives
 
-1. **Run Python programs in JupyterLab**  
-2. **Create variables that store data**  
-3. **Identify different data types**  
-4. **Call built-in Python functions**  
+Workshop attendees will be able to:
+
+1. Run Python programs in JupyterLab  
+2. Create variables that store data  
+3. Identify different data types  
+4. Call built-in Python functions  
 
 ### Setup
 
