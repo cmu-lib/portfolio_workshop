@@ -9,8 +9,7 @@ nav_order: 1
 
 ## Installing Git
 
-Since several Carpentries lessons rely on Git, please see
-[this section of the workshop template][workshop-setup] for
+Please see [this page][workshop-setup] for
 instructions on installing Git for various operating systems.
 
 - [Git installation on Windows][workshop-setup]
