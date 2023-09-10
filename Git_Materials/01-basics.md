@@ -9,14 +9,16 @@ has_children: false
 nav_order: 2
 ---
 
-># Objectives
+# Automated Version Control
+
+>## Objectives
 >
 >- Understand the benefits of an automated version control system.
 >- Understand the basics of how automated version control systems work.
 >
 
 
-># Questions
+>## Questions
 >
 >- What is version control and why should I use it?
 >
