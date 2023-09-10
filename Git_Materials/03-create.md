@@ -2,6 +2,11 @@
 title: Creating a Repository
 teaching: 10
 exercises: 0
+layout: default
+grand_parent: GitHub and GitHub Pages
+parent: Version Control with Git
+has_children: false
+nav_order: 4
 ---
 
 # Creating a Repository
@@ -204,6 +209,3 @@ Therefore, always check your current directory using the command `pwd`.
 >- `git init` initializes a repository.
 >- Git stores all of its repository data in the `.git` directory.
 >
-
-
-
