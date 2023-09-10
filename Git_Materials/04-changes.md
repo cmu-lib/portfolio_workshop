@@ -2,9 +2,14 @@
 title: Tracking Changes
 teaching: 20
 exercises: 0
+layout: default
+grand_parent: GitHub and GitHub Pages
+parent: Version Control with Git
+has_children: false
+nav_order: 5
 ---
-# Tracking Changes
 
+# Tracking Changes
 
 >## Objectives
 >
@@ -593,21 +598,21 @@ but answer 3 is good: short, descriptive, and imperative.
 Which command(s) below would save the changes of `myfile.txt`
 to my local Git repository?
 >
->1. 
+>1.
 >   ```bash
   $ git commit -m "my recent changes"
 >  ```
->2. 
+>2.
 >   ```bash
   $ git init myfile.txt
   $ git commit -m "my recent changes"
 >  ```
->3. 
+>3.
 >   ```bash
   $ git add myfile.txt
   $ git commit -m "my recent changes"
 >  ```
->4. 
+>4.
 >   ```bash
   $ git commit -m myfile.txt "my recent changes"
 >  ```
@@ -620,7 +625,7 @@ to my local Git repository?
 >>3. Is correct: first add the file to the staging area, then commit.
 >>4. Would try to commit a file "my recent changes" with the message myfile.txt.
 >>
-  
+
 >## Committing Multiple Files
 >
 The staging area can hold changes from any number of files
@@ -722,7 +727,7 @@ Once in place, add and commit it to the repository:
 >>
 >>```bash
 $ git add me.txt
-$ git commit -m "Add biography file" 
+$ git commit -m "Add biography file"
 >>```
 >>
 Modify the file as described (modify one line, add a fourth line).
@@ -746,6 +751,3 @@ $ git diff me.txt
 >- `git commit` saves the staged content as a new commit in the local repository.
 >- Write a commit message that accurately describes your changes.
 >
-
-
-
