@@ -9,7 +9,7 @@ nav_order: 4
 # Creating Websites and Portfolios with GitPages
 Hosted by the [Carnegie Mellon University (CMU) Libraries](https://www.library.cmu.edu/)
 
-# GitHub and GitHub Pages
+# GitHub Pages
 
 Welcome to this Introductory workshop on GitHub Pages. During the workshop, we will walk through the information and tasks detailed on these pages. Use the table of contents to navigate through the workshop.
 
