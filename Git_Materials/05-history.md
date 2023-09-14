@@ -8,6 +8,7 @@ parent: Version Control with Git
 has_children: false
 nav_order: 6
 ---
+
 # Exploring History
 
 >## Objectives
