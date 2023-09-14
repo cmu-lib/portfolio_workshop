@@ -2,6 +2,11 @@
 title: Ignoring Things
 teaching: 5
 exercises: 0
+layout: default
+grand_parent: GitHub and GitHub Pages
+parent: Version Control with Git
+has_children: false
+nav_order: 7
 ---
 
 # Ignoring Things
@@ -317,11 +322,8 @@ You want to keep them but you do not want to track them through `git`.
 >>1. append either `log_*`  or  `log*`  as a new entry in your .gitignore
 >>2. track `log_01` using   `git add -f log_01`
 >>
-  
+
 >## Keypoints
 >
 >- The `.gitignore` file tells Git what files to ignore.
 >
-
-
-
