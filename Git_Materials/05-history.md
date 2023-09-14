@@ -2,6 +2,11 @@
 title: Exploring History
 teaching: 25
 exercises: 0
+layout: default
+grand_parent: GitHub and GitHub Pages
+parent: Version Control with Git
+has_children: false
+nav_order: 6
 ---
 # Exploring History
 
@@ -419,20 +424,20 @@ $ git checkout HEAD venus.txt
 $ cat venus.txt #this will print the contents of venus.txt to the screen
 >```
 >
->1. 
+>1.
 >   ```bash
   Venus is too hot to be suitable as a base
 >  ```
->2. 
+>2.
  >  ```bash
   Venus is beautiful and full of love
 >  ```
->3. 
+>3.
 >   ```bash
   Venus is beautiful and full of love
   Venus is too hot to be suitable as a base
 >  ```
->4. 
+>4.
 >   ```bash
   Error because you have changed venus.txt without committing the changes
 >  ```
@@ -587,6 +592,3 @@ $ git log --patch HEAD~9 *.txt
 >- `git diff` displays differences between commits.
 >- `git checkout` recovers old versions of files.
 >
-
-
-
