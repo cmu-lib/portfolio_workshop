@@ -9,6 +9,64 @@ nav_order: 2
 # Version Control with Git
 Hosted by the [Carnegie Mellon University (CMU) Libraries](https://www.library.cmu.edu/)
 
+## About this workshop
+
+This workshop is for those beginning to explore the concept of version control, as well as anyone seeking to refine their skills.
+Git is a version control system that lets you manage and track changes to files on your computer through the command line interface.
+Topics covered will include configuring a local repository on your computer, modifying files and committing changes, and exploring version histories.
+
+____
+### Presenters
+Sarah Young <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Principal Librarian  
+Office: 109G, Hunt Library  
+[sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu)
+
+Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Science and Engineering Librarian    
+Office: 4416, Sorrells Library  
+[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
+
+### Learning Objectives
+
+Workshop attendees will be able to:
+
+1.
+
+### Setup
+
+To be best prepared for this workshop, please follow the [setup instructions](./setup)
+prior to attending.
+
+### Interactive Notepad
+
+During the workshop, you can ask and answer questions in this
+[Etherpad](), a notepad
+for live collaboration.  
+
+### Pre-Workshop Survey
+
+Before the start of the workshop, please complete this
+[survey](). Thank you!!
+
+### Schedule
+
+| Section  | Time
+| ------------- | -------------
+| [Setup](./setup.md) and Pre-Workshop Survey  |   
+| [Automated Version Control](01-basics.md) | 00:00  
+| [Setting Up Git](02-setup.md)  | 00:05  
+| Break | 00:55  
+| [Creating a Repository](03-create.md)  |  00:10  
+| [Tracking Changes](04-changes.md) | 00:20
+| Break | 00:25   
+| [Exploring History](05-history.md) | 00:45   
+| [Ignoring Things](06-ignore.md) | 01:10   
+| Post-Workshop Survey | 01:20  
+| Finish  | 01:30  
+
+### Spooky Space Explorers
+
 Wolfman and Dracula have been hired by Universal Missions (a space
 services spinoff from Euphoric State University) to investigate if it
 is possible to send their next planetary lander to Mars.  They want to
@@ -56,9 +114,14 @@ to be shared can and should be stored in a version control system.
 >Some previous experience with the shell is expected,
 >*but isn't mandatory*.
 
+### Post-Workshop Survey
+
+Please complete this [survey]()
+after attending the workshop. Thank you!!!
+
 ### Acknowledgment
 
-*The material for this workshop was created from the 
+*The material for this workshop was created from the
 [Version Control with Git](https://swcarpentry.github.io/git-novice/) curriculum
 developed by [The Software Carpentry Foundation](https://software-carpentry.org/)
 of [The Carpentries](https://carpentries.org/) licensed under
