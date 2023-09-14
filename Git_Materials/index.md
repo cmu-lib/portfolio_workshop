@@ -31,7 +31,10 @@ Office: 4416, Sorrells Library
 
 Workshop attendees will be able to:
 
-1.
+1. Understand the benefits of an automated version control system  
+2. Configure settings in Git  
+3. Create a local Git repository  
+4. Track changes to files with commits  
 
 ### Setup
 
@@ -56,7 +59,6 @@ Before the start of the workshop, please complete this
 | [Setup](./setup.md) and Pre-Workshop Survey  |   
 | [Automated Version Control](01-basics.md) | 00:00  
 | [Setting Up Git](02-setup.md)  | 00:05  
-| Break | 00:55  
 | [Creating a Repository](03-create.md)  |  00:10  
 | [Tracking Changes](04-changes.md) | 00:20
 | Break | 00:25   
