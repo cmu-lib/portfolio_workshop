@@ -44,13 +44,13 @@ prior to attending.
 ### Interactive Notepad
 
 During the workshop, you can ask and answer questions in this
-[Etherpad](), a notepad
+[Etherpad](https://etherpad.wikimedia.org/p/2023-09-15-GIT), a notepad
 for live collaboration.  
 
 ### Pre-Workshop Survey
 
 Before the start of the workshop, please complete this
-[survey](). Thank you!!
+[survey](https://forms.gle/NHBUaBKbGq92N4wT8). Thank you!!
 
 ### Schedule
 
@@ -118,7 +118,7 @@ to be shared can and should be stored in a version control system.
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
+Please complete this [survey](https://forms.gle/aJVt7AjGEyqR9URu8)
 after attending the workshop. Thank you!!!
 
 ### Acknowledgment
