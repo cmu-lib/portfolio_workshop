@@ -23,7 +23,7 @@ Workshop attendees will be able to:
 1. Import and use modules from standard Python libraries   
 2. Read a tabular dataset into Python   
 3. Select subsets of data from a DataFrame   
-4. Create plots with data in Python 
+4. Create plots with data in Python
 
 ### Setup
 
@@ -33,7 +33,7 @@ prior to attending.
 ### Interactive Notepad
 
 During the workshop, you can ask and answer questions in this
-[Etherpad](), a notepad
+[Etherpad](https://etherpad.wikimedia.org/p/2023-09-20-python-part2), a notepad
 for live collaboration.
 
 ### Pre-Workshop Survey
