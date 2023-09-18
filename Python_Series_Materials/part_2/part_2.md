@@ -20,10 +20,10 @@ Office: 4416, Sorrells Library
 
 Workshop attendees will be able to:
 
-1. Run Python programs in JupyterLab  
-2. Create variables that store data  
-3. Identify different data types  
-4. Call built-in Python functions
+1. Import and use modules from standard Python libraries   
+2. Read a tabular dataset into Python   
+3. Select subsets of data from a DataFrame   
+4. Create plots with data in Python 
 
 ### Setup
 
@@ -46,14 +46,13 @@ Before the start of the workshop, please complete this
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](../setup) and Pre-Workshop Survey |   |
-| [Pandas Dataframes](05_Pandas_DataFrames.md)  | 01:30 |
-| [Plotting](06_plotting.md)  | 02:00 |
-| [Lists](01_Lists.md)  | 02:20 |
-| Break | 02:30 |
-| [For Loops](02_For_Loops.md)  | 02:35 |
-| [Conditionals](03_Conditionals.md)  | 02:45 |
-| [Looping over Datasets](04_Looping_over_Datasets.md)  | 03:00 |
-| Finish  | 03:30 |
+| [Libraries](05-libraries.md) | 00:00 |
+| [Reading Tabular Data into DataFrames](06-reading-tabular.md) | 00:25 |
+| Break | 00:55 |
+| [Pandas Dataframes](07_Pandas_DataFrames.md)  | 01:00 |
+| [Plotting](08_plotting.md)  | 01:30 |
+| Post-Workshop Survey | 01:55 |
+| Finish  | 02:00 |
 
 ### Interactive Curriculum
 
