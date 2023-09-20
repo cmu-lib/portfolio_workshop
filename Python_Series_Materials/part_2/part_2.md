@@ -12,8 +12,8 @@ In the second part of the 3-part workshop series, "Introduction to Python for Da
 
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Postdoctoral Associate  
-Office: 4416, Sorrells Library  
+Science and Engineering Librarian  
+Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)  
 
 ### Learning Objectives
