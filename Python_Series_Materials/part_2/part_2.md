@@ -39,7 +39,7 @@ for live collaboration.
 ### Pre-Workshop Survey
 
 Before the start of the workshop, please complete this
-[survey](). Thank you!!
+[survey](https://forms.gle/LtBKuBm2oncBrjgE9). Thank you!!
 
 ### Schedule
 
@@ -62,5 +62,5 @@ Click the Binder badge below to work through the course content in JupyterLab.
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
+Please complete this [survey](https://forms.gle/r58EjtEja8iGPt7V9)
 after attending the workshop. Thank you in advance!!!
