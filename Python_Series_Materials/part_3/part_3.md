@@ -36,13 +36,13 @@ prior to attending.
 ### Interactive Notepad
 
 During the workshop, you can ask and answer questions in this
-[Etherpad](), a notepad
+[Etherpad](https://etherpad.wikimedia.org/p/2023-09-27-python-part3), a notepad
 for live collaboration.
 
 ### Pre-Workshop Survey
 
 Before the start of the workshop, please complete this
-[survey](). Thank you!!
+[survey](https://forms.gle/kkBPJ9RaqQNmAKHD8). Thank you!!
 
 ### Schedule
 
@@ -65,5 +65,5 @@ Click the Binder badge below to work through the course content in JupyterLab.
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
+Please complete this [survey](https://forms.gle/8kCQPLoGYMj4weoRA)
 after attending the workshop. Thank you in advance!!!
