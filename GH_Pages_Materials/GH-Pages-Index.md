@@ -31,9 +31,28 @@ Office: 4416, Sorrells Library
 ### Goal of this Workshop
 The goal of this workshop is to get you started on GitHub Pages. This is *not* a workshop on Git. We will discuss Git some, but mainly we will focus on GitHub and getting you comfortable with GitHub Pages so you can set up a great looking, free, easy website for your projects or portfolio.
 
-## Schedule
+### Learning Objectives
 
-### Thursday, April 20, 2023
+Workshop attendees will be able to:
+
+1. Create a website or portfolio with GitPages.  
+2. Define GitHub-related terminology like 'repository', 'fork', and 'version control'.
+3. Describe the types of content that can be added to a GitPage.  
+4. Fork a template from a GitHub repository.  
+5. Edit and commit a file on GitHub.  
+6. Launch a GitPage.
+7. Find resources to customize a GitPage.
+
+### Setup
+
+To be best prepared for this workshop, please create a [GitHub account](https://github.com/) prior to attending.
+
+### Pre-Workshop Survey
+
+Before the start of the workshop, please complete this
+[survey](https://forms.gle/q1nCKGnA5JXUyvXM6). Thank you!!
+
+## Schedule
 
 | Time | Content|
 | --- | ---|
@@ -48,5 +67,5 @@ _Actual schedule may vary depending on group needs; all times refer to Eastern S
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRda_iDkyPInOqL1YLCejV-9djrF9_a_DVQSNM8wUXn6n-qLGVfbDPr1SC0UWFl5RwaL8HSta4a4rUx/embed?start=false&loop=false&delayms=60000" frameborder="0" width="625" height="352" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> *Click on the slides then press CTRL+Shift+F for full screen*
 
 
-### Survey  
-Please complete this [survey](https://forms.gle/P3VN7RLbhB66y8yk7) after attending the workshop. Thank you in advance!!!
+### Post-Workshop Survey   
+Please complete this [survey](https://forms.gle/u6bjhZP1gtr5Wo326) after attending the workshop. Thank you in advance!!!
