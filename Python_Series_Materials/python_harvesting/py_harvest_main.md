@@ -10,14 +10,10 @@ title: Python for Harvesting Data on the Web
 
 This is an intermediate-to-advanced level Python workshop that describes ways to approach common data wrangling from the web for research needs. We will focus on obtaining open data sources through HTTP requests and then demonstrate how to access larger sources of data via APIs. Then we will show how to turn the retrieved data into more useful objects like data frames to do basic manipulations and analysis. This workshop is only recommended for Python users with familiarity in Pandas, Numpy, core Python objects (lists, dictionaries, strings, numbers), file types like JSON and CSV, and comfort using Jupyter Notebooks.
 
-**Date:** Wednesday, April 19, 2023                                           
-**Time:** 10:00am - 12:00pm EST                                        
-**Location:**  Virtual Workshop - This is a virtual event. A URL to participate will be sent via a reminder email 24 hours before the event.
-
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Postdoctoral Associate  
-Office: 4416, Sorrells Library  
+Science and Engineering Librarian  
+Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)  
 
 Lencia Beltran <a href='https://github.com/lenciabeltran' target='_blank'><img src='../../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
@@ -48,12 +44,13 @@ libraries we will be using ahead of time:
 | Section  | Time |
 | ------------- | ------------- |
 | [Setup](../setup)  |   |
-| Scrape and Parse Text from the Web  | 10:00 |
-| Using an HTML Parser  | 10:20 |
-| Interacting with HTML Forms  | 10:40 |
-| Interacting with Websites in Real Time  | 11:00 |
-| Web Requests  | 11:20 |
-| Simple Web API Requests  | 11:40 |
+| Scrape and Parse Text from the Web  | 00:00 |
+| Using an HTML Parser  | 00:20 |
+| Interacting with HTML Forms  | 00:40 |
+| Interacting with Websites in Real Time  | 01:00 |
+| Web Requests  | 01:20 |
+| Simple Web API Requests  | 01:40 |
+| Finish | 02:00 |
 
 ### Accessing the Curriculum
 
