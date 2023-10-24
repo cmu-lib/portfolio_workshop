@@ -22,11 +22,25 @@ Science & Engineering Librarian
 Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
 
+### Learning Objectives
+
+Workshop attendees will be able to:
+
+1. Create and format notes with markdown   
+2. Link and tag Obsidian notes
+3. Install and use community plugins in Obsidian
+4. Sync a Zotero library to Obsidian
+
 ### Setup
 
 To be best prepared for these workshops, please download and install [Obsidian](https://obsidian.md/),
 [Zotero](https://www.zotero.org/download/), and [Better BibTeX for Zotero](https://retorque.re/zotero-better-bibtex/installation/)
 prior to attending.
+
+### Pre-Workshop Survey
+
+Before the start of the workshop, please complete this
+[survey](https://forms.gle/YW4ZoD4hRgtD6hJA8). Thank you!!
 
 ### Goal of this Workshop
 
@@ -51,5 +65,5 @@ in a bibliography.
 
 ### Post-Workshop Survey
 
-Please complete this [survey]()
+Please complete this [survey](https://forms.gle/Ewf57udkq8r7haqYA)
 after attending the workshop. Thank you in advance!!!
