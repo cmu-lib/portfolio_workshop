@@ -15,15 +15,11 @@ to organize, link, and search your recorded thoughts. Finally, we will
 demonstrate how you can link Obsidian to Zotero to help you connect research
 notes to items in your bibliography.  
 
-**Date:** March 22, 2023   
-**Time:** 1:00 pm - 3:00 pm   
-**Location:** The Den, Sorrells Library   
-
 ____
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Postdoctoral Associate  
-Office: 4416, Sorrells Library  
+Science & Engineering Librarian   
+Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
 
 ### Setup
@@ -44,16 +40,16 @@ in a bibliography.
 
 | Section | Time
 | --- | ---
-| [Getting Started with Obsidian](../Obsidian_Materials/00-getting-started) | 01:00
-| [Creating and Formatting Notes](../Obsidian_Materials/01-creating-notes) | 01:15
-| [Linking Notes and Visualizing Connections](../Obsidian_Materials/02-linking-notes) | 01:45
-| Break | 01:55
-| [Enhancing Your Vault with Plugins](../Obsidian_Materials/03-plugins) | 02:00
-| Survey | 02:20
-| [Syncing Your Zotero Collection](../Obsidian_Materials/04-syncing-zotero) | 02:25
-| Finish | 03:00
+| [Getting Started with Obsidian](../Obsidian_Materials/00-getting-started) | 00:00
+| [Creating and Formatting Notes](../Obsidian_Materials/01-creating-notes) | 00:15
+| [Linking Notes and Visualizing Connections](../Obsidian_Materials/02-linking-notes) | 00:45
+| Break | 00:55
+| [Enhancing Your Vault with Plugins](../Obsidian_Materials/03-plugins) | 01:00
+| Survey | 01:20
+| [Syncing Your Zotero Collection](../Obsidian_Materials/04-syncing-zotero) | 01:25
+| Finish | 02:00
 
 ### Post-Workshop Survey
 
-Please complete this [survey](https://forms.gle/s9cSr8npQqCvYjkz5)
+Please complete this [survey]()
 after attending the workshop. Thank you in advance!!!
