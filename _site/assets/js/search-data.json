@@ -2507,498 +2507,510 @@
     "url": "http://localhost:4000/portfolio_workshop/cli/cli_main.html",
     "relUrl": "/cli/cli_main.html"
   },"418": {
+    "doc": "Encapsulating Reproducible Computational Research with Code Ocean",
+    "title": "Encapsulating Reproducible Computational Research with Code Ocean",
+    "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
+    "url": "http://localhost:4000/portfolio_workshop/content/code_ocean.html",
+    "relUrl": "/content/code_ocean.html"
+  },"419": {
+    "doc": "Encapsulating Reproducible Computational Research with Code Ocean",
+    "title": "About this workshop",
+    "content": "Code Ocean is a cloud-based platform for creating, organizing, and sharing reproducible computational research environments. In this workshop, we will show you how to create a “Capsule” for a computational research project. We will demonstrate how to organize data, code, and results in a Capsule, create a reproducible snapshot of a software environment for a variety of programming languages and libraries (including Python, R, MATLAB, and Julia), and create metadata to prepare your project for publication and enhanced discoverability. This workshop is open to anyway that is interested in computational reproducibility. No prior experience with a programming language is required, but we encourage participants to attend with a project in mind, so that they are able to immediately utilize this platform. Presenters . Chasz Griego Science and Engineering Librarian cgriego@andrew.cmu.edu . Slides . Click on the slides then press CTRL+Shift+F for full screen . ",
+    "url": "http://localhost:4000/portfolio_workshop/content/code_ocean.html#about-this-workshop",
+    "relUrl": "/content/code_ocean.html#about-this-workshop"
+  },"420": {
     "doc": "Command Line Crash Course",
     "title": "Command Line Crash Course for Beginners",
     "content": "Presenters . Lencia Beltran Open Science Project Coordinator Office: 4416, Sorrells Library lbeltran@andrew.cmu.edu . Table of Contents: . | Opening the command line | Navigating through files | Creating files and directories | Nano Text Editor | Accessing command history | Examine Content | Copying and moving files | Removing files and directories | . Opening Command Line/Terminal . | Windows: . | Click the Windows icon to bring up your start menu. Type cmd into the search box. | Select the command prompt entry and click open. | Occasionally, you must select the run as administrator option to use higher-level system commands. | . | Mac: . | click command and space bar then type terminal | click spotlight search icon (magnifying glass), then type terminal | . | . Navigating Through Files . | pwd AKA print working directory | ls AKA print a list of items in your working directory (including different options); . | ls -a (show all) | ls -F(add trailing /) / means it’s a directory and * means it’s a program | ls -l | ls -Fa | ls -laF | . | Navigating up files . | cd | . | Navigating down files . | cd.. (move back a directory) . | To view files in higher level directories can also do ls ../ which will go back 2 levels and show your root/home directory (lbeltran) or go back 1 level ls ../../ to see files in your Desktop directory | . | cd ~ takes you straight to your root/home directory . | Question! What is the different between cd.. and cd~ ? | . | . | Relative and absolute paths . | A relative path always starts with / and gives the full address from the home directory (think of this as getting GPS coordinates, no matter where you are it will tell you where something is and how to get there) | An abosolute path will only give the address from the working directory, and does not start with a / (analogous to getting directions from someone on the street in real time) | . | . Creating Files &amp; Directories . | Navigate to their desktop &amp; create 3 new directories. The first directory will be on your desktop. | mkdir name1 | . | Navigate into doing cd name1 and then make 2 directories. We can do this quickly by listing both names as shown below. Note, be careful you dont add a space in a name because that will make two directories!! . | mkdir name2 name3 | . | Navitgate into name2 directory . | and create a nano text file | . | . Nano Editor . | Open up the nano text editor or your favorite text editor. Note, this may be different for . | nano | . | Copy and paste text . | access help in nano by . | (control G) | . | . | Save the text (control C) and name the file practicetext_1 | Exit the editor (control X) | . Accessing Command History . | To repeat the most recent/recently command run, use the up arrow | The down arrow will take you forward in your in the command history . | Ctrl+C will cancel the command you are writing, and give you a fresh prompt. | Ctrl+R will do a reverse-search through your command history. This is very useful. | Ctrl+L or the clear command will clear your screen. | . | To review recent command history . | history | . | To rerun a specific command in your command history . | add a ! in front of the number . | e.g., !22 | . | . | . Examining Files . | To examine content in a file you can use less . | less practicetext1 . | Space to go forward | b to go backward | g to go to the beginning | G to go to the end | q to quit | . | head practicetext_1 | tail practicetext_1 . | use -n option after head/tail to print only the first or last line | . | wc practicetext_1 . | to view the number of lines, words and characters in the file | . | wc -l practicetext_1 . | to view only the number of lines | . | . | . Copying and moving . | Make a copy of the text file . | cp practicetext_1 practicetext_1_copy | check that a copy of our text data was made ls -F | . | Make a backup directory to store the copy of the text data and any copies . | mkdir backup | Note: make sure you are creating directories in the correct working directory (i.e., make sure you are in the right working directory) | . | Move your copy of the text data into the backup directory . | mv practicetext_1_copy backup | . | You can either navigate to backup and type ls OR type ls backup | Rename the copy of the text . | mv also let’s you rename files . | mv practicetext_1_copy practicetext_1_backup | . | . | . Removing Files &amp; Directories . | Remove the backup copy of the text file . | rm practicetext_1_backup | . | Remove all of the directories under name1 . | rm -r name1 . | A recursive flag -r will need to be added to tell rm to remove a directory | . | Note, remove will permanently delete a file but also any content in a directory (i.e., not only the directory name1 but will also remove everything in the directory) | . | . That’s all folks! . ",
     "url": "http://localhost:4000/portfolio_workshop/cli/commandlinecrashcourse.html#command-line-crash-course-for-beginners",
     "relUrl": "/cli/commandlinecrashcourse.html#command-line-crash-course-for-beginners"
-  },"419": {
+  },"421": {
     "doc": "Command Line Crash Course",
     "title": "Command Line Crash Course",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/cli/commandlinecrashcourse.html",
     "relUrl": "/cli/commandlinecrashcourse.html"
-  },"420": {
+  },"422": {
     "doc": "Collaboration for Community Engagement",
     "title": "Introduction to Successful Collaboration for Community Engagement",
     "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/content/community_engagement.html#introduction-to-successful-collaboration-for-community-engagement",
     "relUrl": "/content/community_engagement.html#introduction-to-successful-collaboration-for-community-engagement"
-  },"421": {
+  },"423": {
     "doc": "Collaboration for Community Engagement",
     "title": "About this workshop",
     "content": "This workshop exposes the importance of successful collaboration and the role it plays in community relationships. It explains some critical foundation factors that drives successful collaborations and sheds lights on step by step approaches that can help diverse sectors flourish in their unique ways part of a single or multiple collaborative projects(s). Also see this guide for more information. __ . Presenters . Taiwo Lasisi (she/her/hers) CLIR Postdoctoral Fellow in Community Data Literacy Office: 4418, Sorrells Library tlasisi@andrew.cmu.edu . Workshop Handout . ",
     "url": "http://localhost:4000/portfolio_workshop/content/community_engagement.html#about-this-workshop",
     "relUrl": "/content/community_engagement.html#about-this-workshop"
-  },"422": {
+  },"424": {
     "doc": "Collaboration for Community Engagement",
     "title": "Collaboration for Community Engagement",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/content/community_engagement.html",
     "relUrl": "/content/community_engagement.html"
-  },"423": {
+  },"425": {
     "doc": "Discussion",
     "title": "Frequently Asked Questions",
     "content": "People often have questions about Git beyond the scope of the core material. Students who have completed the rest of the lessons might find value in looking through the following topics. Note that since this material isn’t essential for basic Git usage, it won’t be covered by the instructor. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#frequently-asked-questions",
     "relUrl": "/Git_Materials/discuss.html#frequently-asked-questions"
-  },"424": {
+  },"426": {
     "doc": "Discussion",
     "title": "More Advanced Git Configuration",
     "content": "In Setting Up Git, we used git config --global to set some default options for Git. It turns out that these configuration options get stored in your home directory in a plain text file called .gitconfig. $ cat ~/.gitconfig . [user] name = Vlad Dracula email = vlad@tran.sylvan.ia [color] ui = true [core] editor = nano . This file can be opened in your preferred text editor. (Note that it is recommended to continue using the git config command, as this helps avoid introducing syntax errors.) . Eventually, you will want to start customizing Git’s behaviour. This can be done by adding more entries to your .gitconfig. The available options are described in the manual: . $ git config --help . In particular, you might find it useful to add aliases. These are like shortcuts for longer Git commands. For example, if you get sick of typing git checkout all the time, you could run the command: . $ git config --global alias.co checkout . Now if we return to the example from Exploring History where we ran: . $ git checkout f22b25e mars.txt . we could now instead type: . $ git co f22b25e mars.txt . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#more-advanced-git-configuration",
     "relUrl": "/Git_Materials/discuss.html#more-advanced-git-configuration"
-  },"425": {
+  },"427": {
     "doc": "Discussion",
     "title": "Styling Git’s Log",
     "content": "A good target for customization is output from the log. The default log is quite verbose but gives no graphical hints such as information about which commits were done locally and which were pulled from remotes. You can use git log --help and git config --help to look for different ways to change the log output. Try the following commands and see what effect they have: . $ git config --global alias.lg \"log --graph\" $ git config --global log.abbrevCommit true $ git config --global format.pretty oneline $ git lg . If you don’t like the effects, you can undo them with: . $ git config --global --unset alias.lg $ git config --global --unset log.abbrevCommit $ git config --global --unset format.pretty . ::::::::::::::::::::::::::::::::::::::::: callout . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#styling-gits-log",
     "relUrl": "/Git_Materials/discuss.html#styling-gits-log"
-  },"426": {
+  },"428": {
     "doc": "Discussion",
     "title": "Undoing Git Configuration Changes",
     "content": "You can use the --unset flag to delete unwanted options from .gitconfig. Another way to roll back changes is to store your .gitconfig using Git. For hints on what you might want to configure, go to GitHub and search for “gitconfig”. You will find hundreds of repositories in which people have stored their own Git configuration files. Sort them by the number of stars and have a look at the top few. If you find some you like, please check that they’re covered by an open source license before you clone them. :::::::::::::::::::::::::::::::::::::::::::::::::: . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#undoing-git-configuration-changes",
     "relUrl": "/Git_Materials/discuss.html#undoing-git-configuration-changes"
-  },"427": {
+  },"429": {
     "doc": "Discussion",
     "title": "Non-text Files",
     "content": "Recall when we discussed Conflicts there was a challenge that asked, “What does Git do when there is a conflict in an image or some other non-textual file that is stored in version control?” . We will now revisit this in more detail. Many people want to version control non-text files, such as images, PDFs and Microsoft Office or LibreOffice documents. It is true that Git can handle these filetypes (which fall under the banner of “binary” file types). However, just because it can be done doesn’t mean it should be done. Much of Git’s magic comes from being able to do line-by-line comparisons (“diffs”) between files. This is generally easy for programming source code and marked up text. For non-text files, a diff can usually only detect that the files have changed but can’t say how or where. This has various impacts on Git’s performance and will make it difficult to compare different versions of your project. For a basic example to show the difference it makes, we’re going to go see what would have happened if Dracula had tried using outputs from a word processor instead of plain text. Create a new directory and go into it: . $ mkdir planets-nontext $ cd planets-nontext . Use a program such as Microsoft Word or LibreOffice Writer to create a new document. Enter the same text that we began with before: . Cold and dry, but everything is my favorite color . Save the document into the planets-nontext directory with the name of mars.doc. Back in the terminal, run the usual commands for setting up a new Git repository: . $ git init $ git add mars.doc $ git commit -m \"Starting to think about Mars\" . Then make the same changes to mars.doc that we (or Vlad) previously made to mars.txt. Cold and dry, but everything is my favorite color The two moons may be a problem for Wolfman . Save and close the word processor. Now see what Git thinks of your changes: . $ git diff . diff --git a/mars.doc b/mars.doc index 53a66fd..6e988e9 100644 Binary files a/mars.doc and b/mars.doc differ . Compare this to the earlier git diff obtained when using text files: . diff --git a/mars.txt b/mars.txt index df0654a..315bf3a 100644 --- a/mars.txt +++ b/mars.txt @@ -1 +1,2 @@ Cold and dry, but everything is my favorite color +The two moons may be a problem for Wolfman . Notice how plain text files give a much more informative diff. You can see exactly which lines changed and what the changes were. An uninformative git diff is not the only consequence of using Git on binary files. However, most of the other problems boil down to whether or not a good diff is possible. This isn’t to say you should never use Git on binary files. A rule of thumb is that it’s OK if the binary file won’t change very often, and if it does change, you don’t care about merging in small differences between versions. We’ve already seen how a word processed report will fail this test. An example that passes the test is a logo for your organization or project. Even though a logo will be stored in a binary format such as jpg or png, you can expect it will remain fairly static through the lifetime of your repository. On the rare occasion that branding does change, you will probably just want to replace the logo completely rather than merge little differences in. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#non-text-files",
     "relUrl": "/Git_Materials/discuss.html#non-text-files"
-  },"428": {
+  },"430": {
     "doc": "Discussion",
     "title": "Removing a File",
     "content": "Adding and modifying files are not the only actions one might take when working on a project. It might be required to remove a file from the repository. Create a new file for the planet Nibiru: . $ echo \"This is another name for fake planet X\" &gt; nibiru.txt . Now add to the repository like you have learned earlier: . $ git add nibiru.txt $ git commit -m 'adding info on nibiru' $ git status . On branch main nothing to commit, working tree clean . Nibiru is not a real planet. That was a silly idea. Let us remove it from the disk and let Git know about it: . $ git rm nibiru.txt $ git status . On branch main Changes to be committed: (use \"git reset HEAD &lt;file&gt;...\" to unstage) deleted: nibiru.txt . The change has been staged. Now commit the removal, and remove the file from the repository itself. Note that the file will be removed in the new commit. The previous commit will still have the file, if you were to retrieve that specific commit. $ git commit -m 'Removing info on Nibiru. It is not a real planet!' . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#removing-a-file",
     "relUrl": "/Git_Materials/discuss.html#removing-a-file"
-  },"429": {
+  },"431": {
     "doc": "Discussion",
     "title": "Removing a File with Unix",
     "content": "Sometimes we might forget to remove the file through Git. If you removed the file with Unix rm instead of using git rm, no worries, Git is smart enough to notice the missing file. Let us recreate the file and commit it again. $ echo \"This is another name for fake planet X\" &gt; nibiru.txt $ git add nibiru.txt $ git commit -m 'adding nibiru again' . Now we remove the file with Unix rm: . $ rm nibiru.txt $ git status . On branch main Changes not staged for commit: (use \"git add/rm &lt;file&gt;...\" to update what will be committed) (use \"git checkout -- &lt;file&gt;...\" to discard changes in working directory) deleted: nibiru.txt no changes added to commit (use \"git add\" and/or \"git commit -a\") . See how Git has noticed that the file nibiru.txt has been removed from the disk. The next step is to “stage” the removal of the file from the repository. This is done with the command git rm just as before. $ git rm nibiru.txt $ git status . On branch main Changes to be committed: (use \"git reset HEAD &lt;file&gt;...\" to unstage) deleted: nibiru.txt . The change that was made in Unix has now been staged and needs to be committed. $ git commit -m 'Removing info on Nibiru, again!' . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#removing-a-file-with-unix",
     "relUrl": "/Git_Materials/discuss.html#removing-a-file-with-unix"
-  },"430": {
+  },"432": {
     "doc": "Discussion",
     "title": "Renaming a File",
     "content": "Another common change when working on a project is to rename a file. Create a file for the planet Krypton: . $ echo \"Superman's home planet\" &gt; krypton.txt . Add it to the repository: . $ git add krypton.txt $ git commit -m 'Adding planet Krypton' . We all know that Superman moved to Earth. Not that he had much choice. Now his home planet is Earth. Rename the file krypton.txt to earth.txt with Git: . $ git mv krypton.txt earth.txt $ git status . On branch main Changes to be committed: (use \"git reset HEAD &lt;file&gt;...\" to unstage) renamed: krypton.txt -&gt; earth.txt . The final step is commit our change to the repository: . $ git commit -m 'Superman's home is now Earth' . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#renaming-a-file",
     "relUrl": "/Git_Materials/discuss.html#renaming-a-file"
-  },"431": {
+  },"433": {
     "doc": "Discussion",
     "title": "Renaming a File with Unix",
     "content": "If you forgot to use Git and you used Unix mv instead of git mv, you will have a touch more work to do but Git will be able to deal with it. Let’s try again renaming the file, this time with Unix mv. First, we need to recreate the krypton.txt file: . $ echo \"Superman's home planet\" &gt; krypton.txt $ git add krypton.txt $ git commit -m 'Adding planet Krypton again.' . Let us rename the file and see what Git can figured out by itself: . $ mv krypton.txt earth.txt $ git status . On branch main Changes not staged for commit: (use \"git add/rm &lt;file&gt;...\" to update what will be committed) (use \"git checkout -- &lt;file&gt;...\" to discard changes in working directory) deleted: krypton.txt Untracked files: (use \"git add &lt;file&gt;...\" to include in what will be committed) earth.txt no changes added to commit (use \"git add\" and/or \"git commit -a\") . Git has noticed that the file krypton.txt has disappeared from the file system and a new file earth.txt has showed up. Add those changes to the staging area: . $ git add krypton.txt earth.txt $ git status . On branch main Changes to be committed: (use \"git reset HEAD &lt;file&gt;...\" to unstage) renamed: krypton.txt -&gt; earth.txt . Notice how Git has now figured out that the krypton.txt has not disappeared - it has simply been renamed. The final step, as before, is to commit our change to the repository: . $ git commit -m 'Superman's home is Earth, told you before.' . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#renaming-a-file-with-unix",
     "relUrl": "/Git_Materials/discuss.html#renaming-a-file-with-unix"
-  },"432": {
+  },"434": {
     "doc": "Discussion",
     "title": "Further .gitignore concepts",
     "content": "For additional documentation on .gitignore, please reference the official git documentation. In the ignore exercise, learners were presented with two variations of ignoring nested files. Depending on the organization of your repository, one may suit your needs over another. Keep in mind that the way that Git travels along directory paths can be confusing. Sometimes the ** pattern comes in handy, too, which matches multiple directory levels. E.g. **/results/plots/* would make git ignore the results/plots directory in any root directory. ::::::::::::::::::::::::::::::::::::::: challenge . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#further-gitignore-concepts",
     "relUrl": "/Git_Materials/discuss.html#further-gitignore-concepts"
-  },"433": {
+  },"435": {
     "doc": "Discussion",
     "title": "Ignoring Nested Files: Challenge Problem",
     "content": "Given a directory structure that looks like: . results/data results/plots results/run001.log results/run002.log . And a .gitignore that looks like: . *.dat . How would you track all of the contents of results/data/, including *.dat files, but ignore the rest of results/? . ::::::::::::::: solution . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#ignoring-nested-files-challenge-problem",
     "relUrl": "/Git_Materials/discuss.html#ignoring-nested-files-challenge-problem"
-  },"434": {
+  },"436": {
     "doc": "Discussion",
     "title": "Solution",
     "content": "To do this, your .gitignore would look like this: . *.dat # ignore the .dat files results/* # ignore the files in the results directory !results/data/ # do not ignore the files in results/data !results/data/* # do not ignore the .dat files in reults/data . ::::::::::::::::::::::::: . :::::::::::::::::::::::::::::::::::::::::::::::::: . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html#solution",
     "relUrl": "/Git_Materials/discuss.html#solution"
-  },"435": {
+  },"437": {
     "doc": "Discussion",
     "title": "Discussion",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/discuss.html",
     "relUrl": "/Git_Materials/discuss.html"
-  },"436": {
+  },"438": {
     "doc": "GitHub and GitHub Pages",
     "title": "Building Your Programming Tool Box",
     "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/content/git_github.html#building-your-programming-tool-box",
     "relUrl": "/content/git_github.html#building-your-programming-tool-box"
-  },"437": {
+  },"439": {
     "doc": "GitHub and GitHub Pages",
     "title": "GitHub and GitHub Pages",
     "content": "Welcome to this introductory workshop series! This four part series covers a Command Line Crash Course, Version Control with Git, Collaboration with GitHub, and Websites and Portfolios with GitPages. Presenters . Sarah Young Principal Librarian Office: 109G, Hunt Library sarahy@andrew.cmu.edu . Chasz Griego Science and Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu . Lencia Beltran Open Science Project Coordinator Office: 4416, Sorrells Library lbeltran@andrew.cmu.edu . Goal of this Workshop . The goal of these workshops is to get you started with basic tools for efficient and reproducible open source programming. Series . | Part 1: Command Line Crash Course for Beginners | Part 2: Version Control with Git | Part 3: Collaborating with GitHub | Part 4: Creating Websites and Portfolios with GitPages | . ",
     "url": "http://localhost:4000/portfolio_workshop/content/git_github.html",
     "relUrl": "/content/git_github.html"
-  },"438": {
+  },"440": {
     "doc": "Home",
     "title": "Open Data Science Workshops",
     "content": "Hosted by the Open Science program within the Carnegie Mellon University (CMU) Libraries . This website highlights workshops from CMU libraries that help build computational skills for Open Research and Data Science. ",
     "url": "http://localhost:4000/portfolio_workshop/#open-data-science-workshops",
     "relUrl": "/#open-data-science-workshops"
-  },"439": {
+  },"441": {
     "doc": "Home",
     "title": "Workshop Calendar",
     "content": "| September 08, 2023 | 12:00 PM - 01:30 PM | Building your Programming Tool Box: Command Line Crash Course for Beginners | Register Here Content | . | September 13, 2023 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data | Register Here Content | . | September 15, 2023 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Version Control with Git | Register Here Content | . | September 20, 2023 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 2: Plotting and Analyzing Tabular Datasets | Register Here Content | . | September 22, 2023 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Collaborating with GitHub | Register Here Content | . | September 27, 2023 | 01:00 PM - 03:00 PM | Introduction to Python for Data Science Part 3: Analyzing Data with Logic and Iteration | Register Here Content | . | September 28, 2023 | 12:00 PM - 01:00 PM | Introduction to Research Data Management and Data Management Plans | Register Here Content | . | September 29, 2023 | 12:00 PM - 01:30 PM | Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages | Register Here Content | . | October 03, 2023 | 01:00 PM - 03:00 PM | Making the Most with Jupyter Lab and Notebooks | Register Here Content | . | October 19, 2023 | 01:00 PM - 03:00 PM | Python for Harvesting Data on the Web | Register Here Content | . | October 25, 2023 | 10:00 AM - 12:00 PM | Advanced Research Note-Taking with Obsidian | Register Here Content | . | October 26, 2023 | 10:00 AM - 11:00 AM | Getting Started with Open Science Framework Workshop | Register Here Content | . | October 27, 2023 | 12:00 PM - 01:00 PM | Introduction to Successful Collaboration for Community Engagement | Register Here Content | . | October 31, 2023 | 12:00 PM - 01:00 PM | Introduction to Academic Publishing Processes and Models | Register Here Content | . | November 02, 2023 | 01:00 PM - 02:30 PM | Cleaning Untidy Data with OpenRefine | Register Here Content | . | November 07, 2023 | 10:00 AM - 11:30 AM | Introduction to R Part 1: Getting started with R and RStudio | Register Here | . | November 09, 2023 | 10:00 AM - 11:00 AM | Intro to Plotly Open Source Graphing Library | Register Here | . | November 14, 2023 | 10:00 AM - 11:30 AM | Introduction to R Part 2: Working with data in R | Register Here | . | November 15, 2023 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | Register Here Content | . | November 16, 2023 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | Register Here Content | . | November 17, 2023 | 09:00 AM - 12:00 PM | Data Carpentry: Introduction to R | Register Here Content | . | November 29, 2023 | 01:00 PM - 03:00 PM | Encapsulating Reproducible Computational Research with Code Ocean | Register Here | . ",
     "url": "http://localhost:4000/portfolio_workshop/#workshop-calendar",
     "relUrl": "/#workshop-calendar"
-  },"440": {
+  },"442": {
     "doc": "Home",
     "title": "Data Office Hours",
     "content": "Schedule a Data Consultation with our library associates for support with data and research! . ",
     "url": "http://localhost:4000/portfolio_workshop/#data-office-hours",
     "relUrl": "/#data-office-hours"
-  },"441": {
+  },"443": {
     "doc": "Home",
     "title": "Coordinators",
     "content": "Melanie Gainey (she/her/hers) Open Science Program Director/Librarian Office: Library 431, Mellon library mgainey@andrew.cmu.edu | Schedule a Consultation . Chasz Griego (he/him/his) Science and Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu | Schedule a Consultation . Lencia Beltran (she/her/hers) Open Science Project Coordinator Office: 4416, Sorrells Library lbeltran@andrew.cmu.edu | Schedule a Consultation . Emma Slayton (she/her/hers) Data Curation, Visualization, and GIS Specialist Office: 4408, Sorrells Library eslayton@andrew.cmu.edu | Schedule a Consultation . Sarah Young (she/her/hers) Principal Librarian Office: 109G, Hunt Library sarahy@andrew.cmu.edu | Schedule a Consultation . Emily Bongiovanni (she/her/hers) Psychology Librarian Liaison Office: 109D, Hunt Library ebongiov@andrew.cmu.edu | Schedule a Consultation . Taiwo Lasisi (she/her/hers) CLIR Postdoctoral Fellow in Community Data Literacy Office: 4418, Sorrells Library tlasisi@andrew.cmu.edu | Schedule a Consultation . ",
     "url": "http://localhost:4000/portfolio_workshop/#coordinators",
     "relUrl": "/#coordinators"
-  },"442": {
+  },"444": {
     "doc": "Home",
     "title": "Home",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/",
     "relUrl": "/"
-  },"443": {
+  },"445": {
     "doc": "Collaborating with GitHub",
     "title": "Collaborating with GitHub",
     "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/GH_Materials/",
     "relUrl": "/GH_Materials/"
-  },"444": {
+  },"446": {
     "doc": "Collaborating with GitHub",
     "title": "About this workshop",
     "content": "If you are interested in creating and collaborating on remote repositories on GitHub, this workshop is for you if you are a beginner or just seeking to refine your skills. GitHub is a cloud-based platform for open and collaborative software development and version control using Git. Topics covered will include pushing/pulling changes to files in a local repository to GitHub, making copies of public repositories to modify, and collaboratively pushing changes to a common repository shared among workshop participants. Presenters . Sarah Young Principal Librarian Office: 109G, Hunt Library sarahy@andrew.cmu.edu . Chasz Griego Science and Engineering Librarian Office: 4416, Sorrells Library cgriego@andrew.cmu.edu . Lencia Beltran Open Science Program Coordinator Office: 4416, Sorrells Library lbeltran@andrew.cmu.edu . Learning Objectives . Workshop attendees will be able to: . | Understand the advantages of remote repositories | Create a repository on GitHub | Fork and contribute to a public repository | Add code from a computer to GitHub | . Setup . To be best prepared for this workshop, please create a GitHub account prior to attending. Interactive Notepad . During the workshop, you can ask and answer questions in this Etherpad, a notepad for live collaboration. Pre-Workshop Survey . Before the start of the workshop, please complete this survey. Thank you!! . Schedule . | Section | Time | . | Setup and Pre-Workshop Survey |   | . | Overview of GitHub | 00:00 | . | Creating a Repository and Adding Files | 00:10 | . | Updating a README | 00:30 | . | Forking and Modifying Public Repositories | 00:40 | . | Break | 01:00 | . | Hosting Jupyter Notebooks on GitHub | 01:05 | . | Post-Workshop Survey | 01:25 | . | Finish | 01:30 | . Slides . Click on the slides then press CTRL+Shift+F for full screen . Post-Workshop Survey . Please complete this survey after attending the workshop. Thank you!!! . Acknowledgment . The material for this workshop was inspired from the Version Control with Git curriculum developed by The Software Carpentry Foundation of The Carpentries licensed under CC-BY 4.0 . ",
     "url": "http://localhost:4000/portfolio_workshop/GH_Materials/#about-this-workshop",
     "relUrl": "/GH_Materials/#about-this-workshop"
-  },"445": {
+  },"447": {
     "doc": "Version Control with Git",
     "title": "Version Control with Git",
     "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/",
     "relUrl": "/Git_Materials/"
-  },"446": {
+  },"448": {
     "doc": "Version Control with Git",
     "title": "About this workshop",
     "content": "This workshop is for those beginning to explore the concept of version control, as well as anyone seeking to refine their skills. Git is a version control system that lets you manage and track changes to files on your computer through the command line interface. Topics covered will include configuring a local repository on your computer, modifying files and committing changes, and exploring version histories. Presenters . Sarah Young Principal Librarian Office: 109G, Hunt Library sarahy@andrew.cmu.edu . Chasz Griego Science and Engineering Librarian Office: 4416, Sorrells Library cgriego@andrew.cmu.edu . Learning Objectives . Workshop attendees will be able to: . | Understand the benefits of an automated version control system | Configure settings in Git | Create a local Git repository | Track changes to files with commits | . Setup . To be best prepared for this workshop, please follow the setup instructions prior to attending. Interactive Notepad . During the workshop, you can ask and answer questions in this Etherpad, a notepad for live collaboration. Pre-Workshop Survey . Before the start of the workshop, please complete this survey. Thank you!! . Schedule . | Section | Time | . | Setup and Pre-Workshop Survey |   | . | Automated Version Control | 00:00 | . | Setting Up Git | 00:05 | . | Creating a Repository | 00:10 | . | Tracking Changes | 00:20 | . | Break | 00:25 | . | Exploring History | 00:45 | . | Ignoring Things | 01:10 | . | Post-Workshop Survey | 01:20 | . | Finish | 01:30 | . Spooky Space Explorers . Wolfman and Dracula have been hired by Universal Missions (a space services spinoff from Euphoric State University) to investigate if it is possible to send their next planetary lander to Mars. They want to be able to work on the plans at the same time, but they have run into problems doing this in the past. If they take turns, each one will spend a lot of time waiting for the other to finish, but if they work on their own copies and email changes back and forth things will be lost, overwritten, or duplicated. A colleague suggests using version control to manage their work. Version control is better than mailing files back and forth: . | Nothing that is committed to version control is ever lost, unless you work really, really hard at it. Since all old versions of files are saved, it’s always possible to go back in time to see exactly who wrote what on a particular day, or what version of a program was used to generate a particular set of results. | As we have this record of who made what changes when, we know who to ask if we have questions later on, and, if needed, revert to a previous version, much like the “undo” feature in an editor. | When several people collaborate in the same project, it’s possible to accidentally overlook or overwrite someone’s changes. The version control system automatically notifies users whenever there’s a conflict between one person’s work and another’s. | . Teams are not the only ones to benefit from version control: lone researchers can benefit immensely. Keeping a record of what was changed, when, and why is extremely useful for all researchers if they ever need to come back to the project later on (e.g., a year later, when memory has faded). Version control is the lab notebook of the digital world: it’s what professionals use to keep track of what they’ve done and to collaborate with other people. Every large software development project relies on it, and most programmers use it for their small jobs as well. And it isn’t just for software: books, papers, small data sets, and anything that changes over time or needs to be shared can and should be stored in a version control system. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/#about-this-workshop",
     "relUrl": "/Git_Materials/#about-this-workshop"
-  },"447": {
+  },"449": {
     "doc": "Version Control with Git",
     "title": "Prerequisites",
     "content": "In this lesson we use Git from the Unix Shell. Some previous experience with the shell is expected, but isn’t mandatory. Post-Workshop Survey . Please complete this survey after attending the workshop. Thank you!!! . Acknowledgment . The material for this workshop was created from the Version Control with Git curriculum developed by The Software Carpentry Foundation of The Carpentries licensed under CC-BY 4.0 . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/#prerequisites",
     "relUrl": "/Git_Materials/#prerequisites"
-  },"448": {
+  },"450": {
     "doc": "Making the Most with Jupyter Lab and Notebooks",
     "title": "Making the Most with Jupyter Lab and Notebooks",
     "content": "Are you new to using Jupyter Lab and Notebooks? Or have you used these platforms before but want to learn more about them? Then come check out this workshop! This workshop is designed to be an introduction to Jupyter Lab and Notebooks. Some of the topics that will be covered include: how to access these platforms, an overview of platform features like hotkeys and magic commands, the basics of using markdown, publishing notebooks on the web, and how to use and display interactive figures. Presenters . Chasz Griego Science and Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu . Lencia Beltran Open Science Project Coordinator Office: 4416, Sorrells Library lbeltran@andrew.cmu.edu . Setup . To be best prepared for this workshop, please follow the setup instructions prior to attending. At the end of the workshop, we will provide a demo on how to move Jupyter notebooks to the web. If you are interested in doing this yourself, we recommend that you create a GitHub account using a reliable email address, and download a recent version of Git to your laptop. Schedule . | Section | Time | . | Setup |   | . | Navigating JupyterLab | 01:30 | . | Markdown and Magic Commands | 01:45 | . | Displaying Media | 02:05 | . | Break | 01:55 | . | Interactive Plots | 02:30 | . | Workshop Survey | 02:45 | . | Moving Notebooks to the Web | 03:15 | . | Finish | 03:30 | . Accessing the Curriculum . See the concepts covered in this workshop as a Jupyter Notebook on nbviewer: . Or work through the course content in JupyterLab on Binder: . ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/making_the_most_jupyter.html",
     "relUrl": "/Python_Series_Materials/making_the_most_jupyter.html"
-  },"449": {
+  },"451": {
     "doc": "Advanced Research Note-Taking with Obsidian",
     "title": "Advanced Research Note-Taking with Obsidian",
     "content": "This workshop will introduce Obsidian, a markdown-based note-taking app that helps you organize your personal knowledge base. We will demonstrate how to create and edit markdown files to easily format your notes, then dive in to several of the functions and plug-ins in Obsidian that makes it easier for you to organize, link, and search your recorded thoughts. Finally, we will demonstrate how you can link Obsidian to Zotero to help you connect research notes to items in your bibliography. Presenters . Chasz Griego Science &amp; Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu . Learning Objectives . Workshop attendees will be able to: . | Create and format notes with markdown | Link and tag Obsidian notes | Install and use community plugins in Obsidian | Sync a Zotero library to Obsidian | . Setup . To be best prepared for these workshops, please download and install Obsidian, Zotero, and Better BibTeX for Zotero prior to attending. Pre-Workshop Survey . Before the start of the workshop, please complete this survey. Thank you!! . Goal of this Workshop . The goal of this workshop is to introduce users to a tool that organizes their personal notes or notes related to research. This workshop will show many of the advanced functionalities offered in Obsidian and outline a workflow to sync a Zotero library with Obsidian, so that notes can be directly linked to entries in a bibliography. Schedule . | Section | Time | . | Getting Started with Obsidian | 00:00 | . | Creating and Formatting Notes | 00:15 | . | Linking Notes and Visualizing Connections | 00:45 | . | Break | 00:55 | . | Enhancing Your Vault with Plugins | 01:00 | . | Survey | 01:20 | . | Syncing Your Zotero Collection | 01:25 | . | Finish | 02:00 | . Post-Workshop Survey . Please complete this survey after attending the workshop. Thank you in advance!!! . ",
     "url": "http://localhost:4000/portfolio_workshop/content/obsidian.html",
     "relUrl": "/content/obsidian.html"
-  },"450": {
+  },"452": {
     "doc": "Cleaning Untidy Data with OpenRefine",
     "title": "Cleaning Untidy Data with OpenRefine",
     "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/content/openrefine.html",
     "relUrl": "/content/openrefine.html"
-  },"451": {
+  },"453": {
     "doc": "Cleaning Untidy Data with OpenRefine",
     "title": "About this Workshop",
     "content": "Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn OpenRefine, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets. No previous experience is required. This will be a hands-on workshop–please bring a laptop. Presenters . Sarah Young Principal Librarian Office: 109G, Hunt Library sarahy@andrew.cmu.edu . Goals of this Workshop . | Import data and perform basic cleaning steps | Use sorting, filtering and facets to clean data | Restructure columns and cells | Export JSON script for repeating steps | Save and export files and projects | . ",
     "url": "http://localhost:4000/portfolio_workshop/content/openrefine.html#about-this-workshop",
     "relUrl": "/content/openrefine.html#about-this-workshop"
-  },"452": {
+  },"454": {
     "doc": "Cleaning Untidy Data with OpenRefine",
     "title": "Schedule",
     "content": "Thursday, February 15, 2023 . | Time | Content | . | 15:00 to 15:05 | Welcome and Introduction | . | 15:05 to 15:15 | Importing data and basic cleanup | . | 15:15 to 15:30 | Sorting, filtering and faceting | . | 15:30 to 15:40 | Transposing data and advanced facets | . | 15:40 to 15:50 | Clustering | . | 15:50 to 16:10 | Splitting and concatenating | . | 16:10 to 16:20 | Restructuring data | . | 16:20 to 16:25 | Exporting JSON scripts | . | 16:25 to 16:30 | Wrap-Up | . Actual schedule may vary depending on group needs; all times refer to Eastern Standard Time (EST) . Slides . Click on the slides then press CTRL+Shift+F for full screen . Acknowledgements . The lesson materials and slides for this workshop were largely adapted from an OpenRefine Workshop delivered at IASSIST 2018 in Montreal by: . Leanne Trimble, Data &amp; Statistics Librarian Kelly Schultz, Data Visualization Librarian University of Toronto Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/content/openrefine.html#schedule",
     "relUrl": "/content/openrefine.html#schedule"
-  },"453": {
+  },"455": {
     "doc": "Project Management with Open Science Framework",
     "title": "About this Workshop",
     "content": "Open Science Framework (OSF) is a research reproducibility and project management platform that is free, open source, and designed to support research across the research lifecycle. OSF allows you to organize all of your research documentation, such as datasets, code, analysis, background literature, and more, into a single space shared by your collaborators. OSF also supports the pre-registration of research protocols and preprint publication. In this hands-on workshop, we’ll cover: . | Creating and collaborating on OSF projects | Using project templates | Uploading files from your desktop | Connecting external platforms like Google Drive, Mendeley, and GitHub | Understanding version control in OSF | Pre-registration of research protocols | Publishing supplementary materials | . No previous experience is required. ",
     "url": "http://localhost:4000/portfolio_workshop/content/osf.html#about-this-workshop",
     "relUrl": "/content/osf.html#about-this-workshop"
-  },"454": {
+  },"456": {
     "doc": "Project Management with Open Science Framework",
     "title": "Schedule",
     "content": "Monday, February 13, 2023 . | Time | Content | . | 12:00 to 12:05 | Welcome and Introduction | . | 12:05 to 12:20 | Creating a project and collaborating | . | 12:20 to 12:30 | Working with components | . | 12:30 to 12:50 | Adding files and version control | . | 12:50 to 13:00 | Wikis | . | 13:00 to 13:10 | Add ons | . | 13:10 to 13:20 | Pre-registration | . | 13:20 to 13:25 | Pre-prints and other uses | . | 13:25 to 13:30 | Wrap-Up | . Actual schedule may vary depending on group needs; all times refer to Eastern Standard Time (EST) __ . Presenters . Katie Behrman Institutional Repository Specialist kbehrman@andrew.cmu.edu . Lencia Beltran Open Science Program Coordinator Office: 4416, Sorrells Library lbeltran@andrew.cmu.edu . Melanie Gainey Open Science Program Director and Librarian mgainey@andrew.cmu.edu . Sarah Young Principal Librarian Office: 109G, Hunt Library sarahy@andrew.cmu.edu . ",
     "url": "http://localhost:4000/portfolio_workshop/content/osf.html#schedule",
     "relUrl": "/content/osf.html#schedule"
-  },"455": {
+  },"457": {
     "doc": "Project Management with Open Science Framework",
     "title": "Project Management with Open Science Framework",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/content/osf.html",
     "relUrl": "/content/osf.html"
-  },"456": {
+  },"458": {
     "doc": "Introduction to Basic Programming with Data",
     "title": "Part 1: Introduction to Basic Programming with Data",
     "content": "In this first part of the 3-part workshop series, “Introduction to Python for Data Science,” we offer an introduction to Python for non-programmers with a focus on data analysis. In this workshop, we will demonstrate how to do basic Python programming in Jupyter Notebooks. Topics will include working with different data types and using built-in functions and libraries to read and manipulate data. Presenters . Chasz Griego Science and Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu | Schedule a Consultation . Learning Objectives . Workshop attendees will be able to: . | Run Python programs in JupyterLab | Create variables that store data | Identify different data types | Call built-in Python functions | . Setup . To be best prepared for this workshop, please follow the setup instructions prior to attending. Interactive Notepad . During the workshop, you can ask and answer questions in this Etherpad, a notepad for live collaboration. Pre-Workshop Survey . Before the start of the workshop, please complete this survey. Thank you!! . Schedule . | Section | Time | . | Setup and Pre-Workshop Survey |   | . | Running and Quitting | 00:00 | . | Variables and Assignment | 00:25 | . | Break | 00:55 | . | Data Types and Type Conversion | 01:00 | . | Built-in Functions and Help | 01:20 | . | Post-Workshop Survey | 01:50 | . | Finish | 02:00 | . Interactive Curriculum . Click the Binder badge below to work through the course content in JupyterLab. Post-Workshop Survey . Please complete this survey after attending the workshop. Thank you!!! . ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/part_1/part_1.html#part-1-introduction-to-basic-programming-with-data",
     "relUrl": "/Python_Series_Materials/part_1/part_1.html#part-1-introduction-to-basic-programming-with-data"
-  },"457": {
+  },"459": {
     "doc": "Introduction to Basic Programming with Data",
     "title": "Introduction to Basic Programming with Data",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/part_1/part_1.html",
     "relUrl": "/Python_Series_Materials/part_1/part_1.html"
-  },"458": {
+  },"460": {
     "doc": "Plotting and Analyzing Tabular Datasets",
     "title": "Part 2: Plotting and Analyzing Tabular Datasets",
     "content": "In the second part of the 3-part workshop series, “Introduction to Python for Data Science,” we demonstrate beginner Python programming techniques using the Pandas library to read tabular datasets, perform simple analyses, and visualize data. The content covered in this workshop will be a continuation of the content covered in part 1, “Introduction to Basic Programming with Data”. We highly encourage attending the first part of the workshop series before this workshop, especially for learners that are new to the Python programming language. Presenters . Chasz Griego Science and Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu . Learning Objectives . Workshop attendees will be able to: . | Import and use modules from standard Python libraries | Read a tabular dataset into Python | Select subsets of data from a DataFrame | Create plots with data in Python | . Setup . To be best prepared for this workshop, please follow the setup instructions prior to attending. Interactive Notepad . During the workshop, you can ask and answer questions in this Etherpad, a notepad for live collaboration. Pre-Workshop Survey . Before the start of the workshop, please complete this survey. Thank you!! . Schedule . | Section | Time | . | Setup and Pre-Workshop Survey |   | . | Libraries | 00:00 | . | Reading Tabular Data into DataFrames | 00:25 | . | Break | 00:55 | . | Pandas Dataframes | 01:00 | . | Plotting | 01:30 | . | Post-Workshop Survey | 01:55 | . | Finish | 02:00 | . Interactive Curriculum . Click the Binder badge below to work through the course content in JupyterLab. Post-Workshop Survey . Please complete this survey after attending the workshop. Thank you in advance!!! . ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/part_2/part_2.html#part-2-plotting-and-analyzing-tabular-datasets",
     "relUrl": "/Python_Series_Materials/part_2/part_2.html#part-2-plotting-and-analyzing-tabular-datasets"
-  },"459": {
+  },"461": {
     "doc": "Plotting and Analyzing Tabular Datasets",
     "title": "Plotting and Analyzing Tabular Datasets",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/part_2/part_2.html",
     "relUrl": "/Python_Series_Materials/part_2/part_2.html"
-  },"460": {
+  },"462": {
     "doc": "Analyzing Data with Logic and Iteration",
     "title": "Part 3: Analyzing Data with Logic and Iteration",
     "content": "In the final part of the 3-part workshop series, “Introduction to Python for Data Science,” we offer an overview of Python fundamentals for performing iterative tasks with for loops and conditional tasks using logic and if statements. We will then show how to apply these programming techniques to analyze and visualize multiple tabular datasets with Pandas. The content covered in this workshop will be a continuation of the content covered in part 1, “Introduction to Basic Programming with Data” and part 2, “Plotting and Analyzing Tabular Datasets”. We highly encourage attending both part 1 and 2 of the series before this workshop, especially for learners that are new to the Python programming language. Presenters . Chasz Griego Science and Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu . Learning Objectives . Workshop attendees will be able to: . | Store multiple values in Python with lists | Make Python programs do iterative tasks | Write programs that do tasks conditionally | Process many data sets with a single command | . Setup . To be best prepared for this workshop, please follow the setup instructions prior to attending. Interactive Notepad . During the workshop, you can ask and answer questions in this Etherpad, a notepad for live collaboration. Pre-Workshop Survey . Before the start of the workshop, please complete this survey. Thank you!! . Schedule . | Section | Time | . | Setup and Pre-Workshop Survey |   | . | Lists | 00:00 | . | For Loops | 00:25 | . | Break | 00:55 | . | Conditionals | 01:00 | . | Looping Over Data Sets | 01:30 | . | Post-Workshop Survey | 01:55 | . | Finish | 02:00 | . Interactive Curriculum . Click the Binder badge below to work through the course content in JupyterLab. Post-Workshop Survey . Please complete this survey after attending the workshop. Thank you in advance!!! . ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/part_3/part_3.html#part-3-analyzing-data-with-logic-and-iteration",
     "relUrl": "/Python_Series_Materials/part_3/part_3.html#part-3-analyzing-data-with-logic-and-iteration"
-  },"461": {
+  },"463": {
     "doc": "Analyzing Data with Logic and Iteration",
     "title": "Analyzing Data with Logic and Iteration",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/part_3/part_3.html",
     "relUrl": "/Python_Series_Materials/part_3/part_3.html"
-  },"462": {
+  },"464": {
     "doc": "Academic Publishing Processes and Models",
     "title": "Introduction to Academic Publishing Processes and Models",
     "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/content/publishing.html#introduction-to-academic-publishing-processes-and-models",
     "relUrl": "/content/publishing.html#introduction-to-academic-publishing-processes-and-models"
-  },"463": {
+  },"465": {
     "doc": "Academic Publishing Processes and Models",
     "title": "About this workshop",
     "content": "This workshop will introduce academic publishing models, including Open Access models, and the publishing process of a scholarly work, including the peer-review process. Presenters . Emily Bongiovanni Open Knowledge Librarian ebongiov@andrew.cmu.edu . Slides . Click on the slides then press CTRL+Shift+F for full screen . Also see this guide for more information. ",
     "url": "http://localhost:4000/portfolio_workshop/content/publishing.html#about-this-workshop",
     "relUrl": "/content/publishing.html#about-this-workshop"
-  },"464": {
+  },"466": {
     "doc": "Academic Publishing Processes and Models",
     "title": "Academic Publishing Processes and Models",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/content/publishing.html",
     "relUrl": "/content/publishing.html"
-  },"465": {
+  },"467": {
     "doc": "Python for Harvesting Data on the Web",
     "title": "Python for Harvesting Data on the Web",
     "content": "This is an intermediate-to-advanced level Python workshop that describes ways to approach common data wrangling from the web for research needs. We will focus on obtaining open data sources through HTTP requests and then demonstrate how to access larger sources of data via APIs. Then we will show how to turn the retrieved data into more useful objects like data frames to do basic manipulations and analysis. This workshop is only recommended for Python users with familiarity in Pandas, Numpy, core Python objects (lists, dictionaries, strings, numbers), file types like JSON and CSV, and comfort using Jupyter Notebooks. Presenters . Chasz Griego Science and Engineering Librarian Office: 4410, Sorrells Library cgriego@andrew.cmu.edu . Lencia Beltran Open Science Program Coordinator Office: 4416, Sorrells Library lbeltran@andrew.cmu.edu . Goals of this Workshop . This workshop will provide learners the basic approaches to extract information from the web using Python. The topics covered will give learners enough ground knowledge to harvest information from a several web sources. Setup . To be best prepared for this workshop, please make sure you have Python Installed,preferably with the Anaconda distribution prior to attending. You may also install some of the libraries we will be using ahead of time: . | urllib | beautifulsoup4 | MechanicalSoup | sodapy | . Schedule . | Section | Time | . | Setup |   | . | Scrape and Parse Text from the Web | 00:00 | . | Using an HTML Parser | 00:20 | . | Interacting with HTML Forms | 00:40 | . | Interacting with Websites in Real Time | 01:00 | . | Web Requests | 01:20 | . | Simple Web API Requests | 01:40 | . | Finish | 02:00 | . Accessing the Curriculum . See the concepts covered in this workshop as a Jupyter Notebook on nbviewer: . Or work through the course content in JupyterLab on Binder: . Post-Workshop Survey . Please complete this survey after attending the workshop. Thank you in advance!!! . ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/python_harvesting/py_harvest_main.html",
     "relUrl": "/Python_Series_Materials/python_harvesting/py_harvest_main.html"
-  },"466": {
+  },"468": {
     "doc": "Python for Data Science",
     "title": "Introduction to Python for Data Science",
     "content": "Welcome to this introductory workshop series on Python for data science. This is a three part series that will walk through basic Python programming with data, working in Jupyter Lab, and doing advanced analyses with tabular datasets. See the schedule or table of contents below to navigate through all the workshop material. Presenters . Chasz Griego Open Science Postdoctoral Associate Office: 4416, Sorrells Library cgriego@andrew.cmu.edu . Setup . To be best prepared for these workshops, please follow the setup instructions prior to attending. Goal of this Workshop . The goal of this workshop is to introduce Python to learners who are new to the language or new to programming. Our goal is to get you comfortable using Python for the purpose of working with data. Series . | Part 1: Introduction to Basic Programming with Data | Part 2: Plotting and Analyzing Tabular Datasets | Part 3: Analyzing Data with Logic and Iteration | . Acknowledgment . The material for this workshop series was created from the Plotting and Programming in Python curriculum developed by The Software Carpentry Foundation of The Carpentries licensed under CC-BY 4.0 . ",
     "url": "http://localhost:4000/portfolio_workshop/content/python.html#introduction-to-python-for-data-science",
     "relUrl": "/content/python.html#introduction-to-python-for-data-science"
-  },"467": {
+  },"469": {
     "doc": "Python for Data Science",
     "title": "Python for Data Science",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/content/python.html",
     "relUrl": "/content/python.html"
-  },"468": {
+  },"470": {
     "doc": "Research Data Management",
     "title": "Introduction to Research Data Management and Data Management Plans",
     "content": "Hosted by the Carnegie Mellon University (CMU) Libraries . ",
     "url": "http://localhost:4000/portfolio_workshop/content/rdm.html#introduction-to-research-data-management-and-data-management-plans",
     "relUrl": "/content/rdm.html#introduction-to-research-data-management-and-data-management-plans"
-  },"469": {
+  },"471": {
     "doc": "Research Data Management",
     "title": "About this workshop",
     "content": "This workshop will introduce the FAIR data principles (Findable, Accessible, Interoperable, and Reusable) and research data management plans. Presenters . Emily Bongiovanni Open Knowledge Librarian ebongiov@andrew.cmu.edu . Slides . Click on the slides then press CTRL+Shift+F for full screen . Also see this guide for more information. ",
     "url": "http://localhost:4000/portfolio_workshop/content/rdm.html#about-this-workshop",
     "relUrl": "/content/rdm.html#about-this-workshop"
-  },"470": {
+  },"472": {
     "doc": "Research Data Management",
     "title": "Research Data Management",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/content/rdm.html",
     "relUrl": "/content/rdm.html"
-  },"471": {
+  },"473": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Git Cheatsheets for Quick Reference",
     "content": ". | Printable Git cheatsheets in several languages are available here (English version). More material is available from the GitHub training website. | An interactive one-page visualisation about the relationships between workspace, staging area, local repository, upstream repository, and the commands associated with each (with explanations). | Both resources are also available in other languages (e.g. Spanish, French, and more). | “Happy Git and GitHub for the useR” is an accessible, free online book by Jenny Bryan on how to setup and use Git and GitHub with specific references on the integration of Git with RStudio and working with Git in R. | Open Scientific Code using Git and GitHub - A collection of explanations and short practical exercises to help researchers learn more about version control and open source software. | . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html",
     "relUrl": "/Git_Materials/reference.html"
-  },"472": {
+  },"474": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Glossary",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#glossary",
     "relUrl": "/Git_Materials/reference.html#glossary"
-  },"473": {
+  },"475": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Changeset",
     "content": ": A group of changes to one or more files that are or will be added to a single commit in a version control repository. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#changeset",
     "relUrl": "/Git_Materials/reference.html#changeset"
-  },"474": {
+  },"476": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Commit",
     "content": ": To record the current state of a set of files (a changeset) in a version control repository. As a noun, the result of committing, i.e. a recorded changeset in a repository. If a commit contains changes to multiple files, all of the changes are recorded together. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#commit",
     "relUrl": "/Git_Materials/reference.html#commit"
-  },"475": {
+  },"477": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Conflict",
     "content": ": A change made by one user of a version control system that is incompatible with changes made by other users. Helping users resolve conflicts is one of version control’s major tasks. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#conflict",
     "relUrl": "/Git_Materials/reference.html#conflict"
-  },"476": {
+  },"478": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "http",
     "content": ": The Hypertext Transfer Protocol used for sharing web pages and other data on the World Wide Web. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#http",
     "relUrl": "/Git_Materials/reference.html#http"
-  },"477": {
+  },"479": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Merge",
     "content": ": (a repository): To reconcile two sets of changes to a repository. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#merge",
     "relUrl": "/Git_Materials/reference.html#merge"
-  },"478": {
+  },"480": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Protocol",
     "content": ": A set of rules that define how one computer communicates with another. Common protocols on the Internet include HTTP and SSH. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#protocol",
     "relUrl": "/Git_Materials/reference.html#protocol"
-  },"479": {
+  },"481": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Remote",
     "content": ": (of a repository) A version control repository connected to another, in such way that both can be kept in sync exchanging commits. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#remote",
     "relUrl": "/Git_Materials/reference.html#remote"
-  },"480": {
+  },"482": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Repository",
     "content": ": A storage area where a version control system stores the full history of commits of a project and information about who changed what, when. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#repository",
     "relUrl": "/Git_Materials/reference.html#repository"
-  },"481": {
+  },"483": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Resolve",
     "content": ": To eliminate the conflicts between two or more incompatible changes to a file or set of files being managed by a version control system. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#resolve",
     "relUrl": "/Git_Materials/reference.html#resolve"
-  },"482": {
+  },"484": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Revision",
     "content": ": A synonym for commit. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#revision",
     "relUrl": "/Git_Materials/reference.html#revision"
-  },"483": {
+  },"485": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "SHA-1",
     "content": ": SHA-1 hashes is what Git uses to compute identifiers, including for commits. To compute these, Git uses not only the actual change of a commit, but also its metadata (such as date, author, message), including the identifiers of all commits of preceding changes. This makes Git commit IDs virtually unique. I.e., the likelihood that two commits made independently, even of the same change, receive the same ID is exceedingly small. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#sha-1",
     "relUrl": "/Git_Materials/reference.html#sha-1"
-  },"484": {
+  },"486": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "SSH",
     "content": ": The Secure Shell protocol used for secure communication between computers. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#ssh",
     "relUrl": "/Git_Materials/reference.html#ssh"
-  },"485": {
+  },"487": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Timestamp",
     "content": ": A record of when a particular event occurred. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#timestamp",
     "relUrl": "/Git_Materials/reference.html#timestamp"
-  },"486": {
+  },"488": {
     "doc": "Git Cheatsheets for Quick Reference",
     "title": "Version Control",
     "content": ": A tool for managing changes to a set of files. Each set of changes creates a new commit of the files; the version control system allows users to recover old commits reliably, and helps manage conflicting changes made by different users. ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/reference.html#version-control",
     "relUrl": "/Git_Materials/reference.html#version-control"
-  },"487": {
+  },"489": {
     "doc": "Setup",
     "title": "Pre-workshop set up",
     "content": "Please complete the following activities prior to the workshop. 1. Download the workshop files . Download the workshop files and save them in a folder on your desktop. Make sure to extract the files from the zip file. 2. Set up an OSF account . Go to the Open Science Framework registration page. Click on Institution and choose Carnegie Mellon University from the drop down menu. Enter your CMU email address and password to log in. ",
     "url": "http://localhost:4000/portfolio_workshop/OSF_Materials/setup.html#pre-workshop-set-up",
     "relUrl": "/OSF_Materials/setup.html#pre-workshop-set-up"
-  },"488": {
+  },"490": {
     "doc": "Setup",
     "title": "Workshop Slides",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/OSF_Materials/setup.html#workshop-slides",
     "relUrl": "/OSF_Materials/setup.html#workshop-slides"
-  },"489": {
+  },"491": {
     "doc": "Setup",
     "title": "Setup",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/OSF_Materials/setup.html",
     "relUrl": "/OSF_Materials/setup.html"
-  },"490": {
+  },"492": {
     "doc": "Setup",
     "title": "Installing Git",
     "content": "Please see this page for instructions on installing Git for various operating systems. | Git installation on Windows | Git installation on MacOS | Git installation on Linux | . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/setup.html#installing-git",
     "relUrl": "/Git_Materials/setup.html#installing-git"
-  },"491": {
+  },"493": {
     "doc": "Setup",
     "title": "Preparing Your Working Directory",
     "content": "We’ll do our work in the Desktop folder so make sure you change your working directory to it with: . $ cd $ cd Desktop . ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/setup.html#preparing-your-working-directory",
     "relUrl": "/Git_Materials/setup.html#preparing-your-working-directory"
-  },"492": {
+  },"494": {
     "doc": "Setup",
     "title": "Setup",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/Git_Materials/setup.html",
     "relUrl": "/Git_Materials/setup.html"
-  },"493": {
+  },"495": {
     "doc": "Setup",
     "title": "About this Workshop",
     "content": "Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn OpenRefine, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets. No previous experience is required. This will be a hands-on workshop–please bring a laptop. ",
     "url": "http://localhost:4000/portfolio_workshop/OpenRefine_Materials/setup.html#about-this-workshop",
     "relUrl": "/OpenRefine_Materials/setup.html#about-this-workshop"
-  },"494": {
+  },"496": {
     "doc": "Setup",
     "title": "Pre-workshop set up",
     "content": "Please complete the following activities prior to the workshop. 1. Download the workshop files . Download the workshop files and save them in a folder on your desktop. Make sure to extract the files from the zip file. 2. Download and Install OpenRefine . You can download OpenRefine 3.4.1 from http://openrefine.org/download.html. There are versions for Windows, Mac OS X and Linux. Installing OpenRefine . For Windows and Linux, the address above will provide a zip file. Unzip the downloaded file wherever you want to install the program. For Mac, you will be downloading a ‘dmg’. Open it and then drag the OpenRefine application to an appropriate folder on you computer. You need to have a ‘Java Runtime Environment’ (JRE) installed on your computer to run OpenRefine. If you don’t already have one installed then you can download and install it from http://java.com. Click on “Free Java Download”. Running OpenRefine . On Windows: Navigate to the folder where you’ve installed OpenRefine and either double-click ’openrefine.exe’ or ‘refine.bat’. On Linux: Navigate to the folder where you’ve installed OpenRefine in a terminal window and type ‘./refine’ . On Mac: Navigate to where you installed OpenRefine and click the OpenRefine icon . The interface to OpenRefine is accessed via a web browser. When you run Refine normally this should open a window in your default web browser pointing at the address http://127.0.0.1:3333. If this doesn’t happen automatically you can open a web browser and type in this address. ",
     "url": "http://localhost:4000/portfolio_workshop/OpenRefine_Materials/setup.html#pre-workshop-set-up",
     "relUrl": "/OpenRefine_Materials/setup.html#pre-workshop-set-up"
-  },"495": {
+  },"497": {
     "doc": "Setup",
     "title": "Workshop Slides",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/OpenRefine_Materials/setup.html#workshop-slides",
     "relUrl": "/OpenRefine_Materials/setup.html#workshop-slides"
-  },"496": {
+  },"498": {
     "doc": "Setup",
     "title": "Setup",
     "content": " ",
     "url": "http://localhost:4000/portfolio_workshop/OpenRefine_Materials/setup.html",
     "relUrl": "/OpenRefine_Materials/setup.html"
-  },"497": {
+  },"499": {
     "doc": "Setup",
     "title": "Setup",
     "content": "Getting the Data . The data we will use is taken from the Software Carpentries. To obtain it, download the file here and unzip it. You should have a new folder on your desktop called shell-lesson-data. Install Shell Software . If you do not already have the shell software installed, you will need to download and install it. (See below) . Opening Shell . After installing the software . Open a terminal. If you’re not sure how to open a terminal on your operating system, see the instructions below. In the terminal type cd then press the Enter or Return key. This step will make sure you start with your home folder as your working directory. In the lesson, you will find out how to access the data files in this folder. Installing Bash . If you have a Mac or Linux operating system then you should have access to Bash through your terminal or command prompt. If you use . Microsoft Mac Linux . Microsoft . | Download the Git for Windows installer. | Run the installer and follow the steps below: . | Click on “Next” four times (two times if you’ve previously installed Git). You don’t need to change anything in the Information, location, components, and start menu screens. | From the dropdown menu, “Choosing the default editor used by Git”, select “Use the Nano editor by default” (NOTE: you will need to scroll up to find it) and click on “Next”. | On the page that says “Adjusting the name of the initial branch in new repositories”, ensure that “Let Git decide” is selected. This will ensure the highest level of compatibility for our lessons. | Ensure that “Git from the command line and also from 3rd-party software” is selected and click on “Next”. (If you don’t do this Git Bash will not work properly, requiring you to remove the Git Bash installation, re-run the installer and to select the “Git from the command line and also from 3rd-party software” option.) . | Select “Use bundled OpenSSH”. | Ensure that “Use the native Windows Secure Channel Library” is selected and click on “Next”. | Ensure that “Checkout Windows-style, commit Unix-style line endings” is selected and click on “Next”. | Ensure that “Use Windows’ default console window” is selected and click on “Next”. | Ensure that “Default (fast-forward or merge) is selected and click “Next” . | Ensure that “Git Credential Manager” is selected and click on “Next”. | Ensure that “Enable file system caching” is selected and click on “Next”. | Click on “Install”. | Click on “Finish” or “Next”. | . | If your “HOME” environment variable is not set (or you don’t know what this is): . | Open command prompt (Open Start Menu then type cmd and press Enter) . | Type the following line into the command prompt window exactly as shown: setx HOME \"%USERPROFILE%\" . | Press Enter, you should see SUCCESS: Specified value was saved. | Quit command prompt by typing exit then pressing Enter . | . | . This will provide you with both Git and Bash in the Git Bash program. Video Tutorial . Mac . The default shell in some versions of macOS is Bash, and Bash is available in all versions, so no need to install anything. You access Bash from the Terminal (found in /Applications/Utilities). See the Git installation video tutorial for an example on how to open the Terminal. You may want to keep Terminal in your dock for this workshop. To see if your default shell is Bash type echo $SHELL in Terminal and press the Return key. If the message printed does not end with ‘/bash’ then your default is something else and you can run Bash by typing bash . If you want to change your default shell, see this Apple Support article and follow the instructions on “How to change your default shell”. Video Tutorial . Linux . The default shell is usually Bash and there is usually no need to install anything. To see if your default shell is Bash type echo $SHELL in a terminal and press the Enter key. If the message printed does not end with ‘/bash’ then your default is something else and you can run Bash by typing bash. This course material was created from the The Unix Shell curriculum developed by The Software Carpentry Foundation of The Carpentries licensed under CC-BY 4.0 . ",
     "url": "http://localhost:4000/portfolio_workshop/cli/setup.html",
     "relUrl": "/cli/setup.html"
-  },"498": {
+  },"500": {
     "doc": "Setup",
     "title": "Getting the Data",
     "content": "The data we will be using is taken from the gapminder dataset. To obtain it, download and unzip the file python-novice-gapminder-data.zip. Please save the data to a folder called data on your desktop. ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/setup.html#getting-the-data",
     "relUrl": "/Python_Series_Materials/setup.html#getting-the-data"
-  },"499": {
+  },"501": {
     "doc": "Setup",
     "title": "Installing Python Using Anaconda",
     "content": "Python is a popular language for research computing, and great for general-purpose programming as well. Installing all of its research packages individually can be a bit difficult, so we recommend Anaconda, an all-in-one installer. Regardless of how you choose to install it, please make sure you install Python version 3.x (e.g., 3.6 is fine). We will teach Python using the JupyterLab, a programming environment that runs in a web browser (JupyterLab will be installed by Anaconda). For this to work you will need a reasonably up-to-date browser. The current versions of the Chrome, Safari and Firefox browsers are all supported (some older browsers, including Internet Explorer version 9 and below, are not). | Windows | MacOS | Linux | . | Open https://www.anaconda.com/products/individual#download-section with your web browser. | Download the Anaconda for Windows installer with Python 3. (If you are not sure which version to choose, you probably want the 64-bit Graphical Installer Anaconda3-...-Windows-x86_64.exe) | Install Python 3 by running the Anaconda Installer, using all of the defaults for installation except make sure to check Add Anaconda to my PATH environment variable. | . Video Tutorial . | Open https://www.anaconda.com/products/individual#download-section with your web browser. | Download the Anaconda Installer with Python 3 for macOS (you can either use the Graphical or the Command Line Installer). | Install Python 3 by running the Anaconda Installer using all of the defaults for installation. | . Video Tutorial . | Open https://www.anaconda.com/products/individual#download-section with your web browser. | Download the Anaconda Installer with Python 3 for Linux. (The installation requires using the shell. If you aren't comfortable doing the installation yourself stop here and request help at the workshop.) | Open a terminal window and navigate to the directory where the executable is downloaded (e.g., `cd ~/Downloads`). | Type bash Anaconda3- . and then press Tab to autocomplete the full file name. The name of file you just downloaded should appear. | Press Enter (or Return depending on your keyboard). You will follow the text-only prompts. To move through the text, press Spacebar. Type yes and press enter to approve the license. Press Enter (or Return) to approve the default location for the files. Type yes and press Enter (or Return) to prepend Anaconda to your PATH (this makes the Anaconda distribution the default Python). | Close the terminal window. | . In order to follow the presented material, you should launch the JupyterLab server in the root directory (see Starting JupyterLab). ",
     "url": "http://localhost:4000/portfolio_workshop/Python_Series_Materials/setup.html#installing-python-using-anaconda",
     "relUrl": "/Python_Series_Materials/setup.html#installing-python-using-anaconda"
-  },"500": {
+  },"502": {
     "doc": "Setup",
     "title": "Setup",
     "content": " ",
