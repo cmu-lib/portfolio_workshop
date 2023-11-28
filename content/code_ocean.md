@@ -8,7 +8,7 @@ nav_order: 7
 # Encapsulating Reproducible Computational Research with Code Ocean  
 Hosted by the [Carnegie Mellon University (CMU) Libraries](https://www.library.cmu.edu/)
 
-![Code Ocean Logo](content/img/CodeOcean-Logo.png)
+<img src="img/CodeOcean-Logo.png" width="500" alt="Code Ocean Logo">
 
 ## About this workshop
 
