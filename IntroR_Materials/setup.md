@@ -1,6 +1,6 @@
 ---
 layout: default
-parent: Introduction to R
+parent: Introduction to R Getting started with R and RStudio
 has_children: false
 nav_order: 1
 title: Setup
