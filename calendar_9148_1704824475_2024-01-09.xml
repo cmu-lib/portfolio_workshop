@@ -1,0 +1,1749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libcal>
+ <calendar>
+  <id>9148</id>
+  <name>Workshops</name>
+  <status>Public</status>
+  <owner>Shannon Riffe</owner>
+  <URL>https://cmu.libcal.com/calendar/workshops</URL>
+  <timezone>America/New_York</timezone>
+ </calendar>
+ <events>
+  <event>
+   <id>11620595</id>
+   <title>3MT Slide Design and Presentation Skills Overview In-Person</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;a href=&quot;https://www.cmu.edu/student-success/other-resources/resource-descriptions/three-minute-thesis.html&quot;&gt;Three Minute Thesis&lt;/a&gt;&amp;nbsp;(3MT)&amp;nbsp;is more than just a way to share information on your research, it is also a presentation and design challenge. This workshops will help those entering 3MT learn the basics of presentation skills and styles, so their verbal game is on point, while also showing what visual techniques are the best for showing off their research, getting the best slide for the job.&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;Students are encouraged to bring their example slides to the workshop so they can receive direct feedback prior to their submission deadline, but students at all stages in the process are welcome.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-22T16:00:00-05:00</start>
+   <end>2024-01-22T17:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11620595</URL>
+   <color>#25B891</color>
+   <location>Hunt Library</location>
+   <campus>Hunt Library</campus>
+   <presenter>Emily Bongiovanni, Emma Slayton &amp; Sonia Wellington</presenter>
+   <categories>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>5</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11622573</id>
+   <title>Submitting Your Thesis or Dissertation to CMU Libraries</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This session will walk through the steps for depositing your thesis or dissertation to &lt;a href=&quot;https://kilthub.cmu.edu/&quot;&gt;KiltHub&lt;/a&gt;, the CMU institutional repository and the&amp;nbsp;thesis and dissertation&amp;nbsp;database, ProQuest.&amp;nbsp;We will also cover intellectual property considerations like embargos, licensing, and how to manage published materials that are part of the thesis.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-24T12:00:00-05:00</start>
+   <end>2024-01-24T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11622573</URL>
+   <color>#25B891</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Katie Behrman &amp; Emily Bongiovanni</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>70</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11721905</id>
+   <title>Open Science Framework (OSF) for Beginners</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;a href=&quot;https://osf.io/&quot;&gt;Open Science Framework (OSF) &lt;/a&gt;is a research reproducibility and project management platform that is free, open source, and designed to support research across the research lifecycle. OSF allows you to organize all of your research documentation, such as datasets, code, analysis, background literature and more, into a single space shared by your collaborators. OSF also supports the pre-registration of research protocols and preprint publication.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop will cover:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Creating and collaborating on OSF projects&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Uploading files from your desktop&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Connecting external platforms like Google Drive, Mendeley, and GitHub&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Understanding version control in OSF&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Pre-registration of research protocols&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Publishing supplementary materials&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;br /&gt;&#13;
+No previous experience with OSF is required! Please register for an &lt;a href=&quot;https://osf.io/&quot;&gt;OSF account&lt;/a&gt; with your CMU email address beforehand if you&amp;#39;re a hands on learner!&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-26T13:00:00-05:00</start>
+   <end>2024-01-26T14:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11721905</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus></campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11732479</id>
+   <title>Data Carpentry: Introduction to Python</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This is a three-day workshop (January 29-31, 9:00am-12:00pm) on basic data manipulation and visualization in Python intended for students and researchers in any subject area with little or no coding experience. Short tutorials alternate with hands-on practical exercises, and participants are encouraged both to help one another and to try applying what they have learned to their own research problems during and between sessions. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;Please try to attend all three sessions if you register for the workshop. Registration can be found on this &lt;a href=&quot;https://www.eventbrite.com/e/data-carpentry-intro-to-python-tickets-660653812337&quot;&gt;page&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-29T09:00:00-05:00</start>
+   <end>2024-01-29T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11732479</URL>
+   <color>#F5E616</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran, Chasz Griego &amp; Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+  </event>
+  <event>
+   <id>11622522</id>
+   <title>Introduction to LaTeX and Overleaf</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop will introduce LaTeX, a typesetting system used to prepare documents and separate text from formatting. This introductory workshop will focus on using Overleaf, an online real-time collaborative LaTeX editor.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-01-29T12:00:00-05:00</start>
+   <end>2024-01-29T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11622522</URL>
+   <color>#25B891</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>75</seats>
+    <seats_taken>7</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11732480</id>
+   <title>Data Carpentry: Introduction to Python</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This is a three-day workshop on basic data manipulation and visualization in Python intended for students and researchers in any subject area with little or no coding experience. Short tutorials alternate with hands-on practical exercises, and participants are encouraged both to help one another and to try applying what they have learned to their own research problems during and between sessions. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;Please try to attend all three sessions if you register for the workshop. Registration can be found on this &lt;a href=&quot;https://www.eventbrite.com/e/data-carpentry-intro-to-python-tickets-660653812337&quot;&gt;page&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-30T09:00:00-05:00</start>
+   <end>2024-01-30T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11732480</URL>
+   <color>#F5E616</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran, Chasz Griego &amp; Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+  </event>
+  <event>
+   <id>11627051</id>
+   <title>Introduction to the Fundamentals of Engineering Exam</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop&amp;nbsp;provides an overview of the Fundamentals of Engineering (FE) Exam which is the first step in the process of becoming a professional licensed engineer (P.E.). You will also get introduced to some study guides and learn how to prepare for the exam.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-30T11:00:00-05:00</start>
+   <end>2024-01-30T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11627051</URL>
+   <color>#B3C8EF</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Haoyong Lan</presenter>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11677891</id>
+   <title>Introduction to R Part 1: Getting started with R and RStudio</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This 2-part introductory workshop aims to teach basic concepts, skills, and tools for working with data in R so that you can get more done in less time, and apply concepts of reproducibility to your research. This is an introduction to R designed for participants with no programming experience. Part 1 of the workshop covers basic information about R syntax and the RStudio interface, including installing packages and working with vectors. Part 2 will cover importing CSV files, working with dataframes, how to deal with factors, how to add/remove rows and columns using the popular dplyr package, and how to calculate summary statistics from a data frame. Taking Part 1 and Part 2 is encouraged, but optional.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;br /&gt;&#13;
+Learners should bring a laptop and should already have installed R and RStudio on their computer. Installation and set-up instructions, as well as a detailed curriculum for the workshop &lt;a href=&quot;https://cmu-lib.github.io/portfolio_workshop/content/introR.html&quot;&gt;can be found here&lt;/a&gt;.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Part 1 Learning Outcomes&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Describe the different panes in the RStudio environment and how they are used when coding in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Run lines of R code from a script file to the console.&lt;/li&gt;&#13;
+	&lt;li&gt;Create and store new objects in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Find help information for functions.&lt;/li&gt;&#13;
+	&lt;li&gt;Use functions in R with appropriate syntax and arguments.&lt;/li&gt;&#13;
+	&lt;li&gt;Define, create and manipulate vectors in R.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-30T13:00:00-05:00</start>
+   <end>2024-01-30T14:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11677891</URL>
+   <color>#2A96DE</color>
+   <location>Hunt Library - Room 308</location>
+   <campus>Hunt Library</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>50</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11732481</id>
+   <title>Data Carpentry: Introduction to Python</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This is a three-day workshop on basic data manipulation and visualization in Python intended for students and researchers in any subject area with little or no coding experience. Short tutorials alternate with hands-on practical exercises, and participants are encouraged both to help one another and to try applying what they have learned to their own research problems during and between sessions. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;Please try to attend all three sessions if you register for the workshop. Registration can be found on this &lt;a href=&quot;https://www.eventbrite.com/e/data-carpentry-intro-to-python-tickets-660653812337&quot;&gt;page&lt;/a&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-31T09:00:00-05:00</start>
+   <end>2024-01-31T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11732481</URL>
+   <color>#F5E616</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran, Chasz Griego &amp; Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+  </event>
+  <event>
+   <id>11627052</id>
+   <title>Introduction to Technical Standards</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop helps you get familiar with definitions and types of technical standards. You will be introduced to major standards databases and develop effective standards-searching strategies. The basic structure of technical standards will also be covered in the workshop.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-01-31T11:00:00-05:00</start>
+   <end>2024-01-31T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11627052</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Haoyong Lan &amp; Matt Marsteller</presenter>
+   <registration>
+    <seats>100</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11690015</id>
+   <title>Introduction to Python for Data Science: Introduction to Basic Programming with Data</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;In this first part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we offer an introduction to Python for non-programmers with a focus on data analysis. In this workshop, we will demonstrate how to do basic Python programming in Jupyter Notebooks. Topics will include working with different data types, using built-in functions and libraries to read and manipulate data.&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-01-31T13:00:00-05:00</start>
+   <end>2024-01-31T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11690015</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>9</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11622444</id>
+   <title>Auto-magic citations and bibliographies: Introduction to Citation Management with Zotero</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop will introduce the benefits of citation management software for easy in-text citations and automatic bibliographies. Participants are encouraged to bring a laptop so they are able to practice using Zotero.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-01T12:30:00-05:00</start>
+   <end>2024-02-01T13:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11622444</URL>
+   <color>#25B891</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11627053</id>
+   <title>Introduction to Research Metrics</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop provides guidance on understanding research metrics,&amp;nbsp;enhancing research impact statements, evaluating publishing effectiveness, and benchmarking against peers. You will gain awareness of and experience with the tools acquired by the University Libraries to assist you with these tasks.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-02T11:00:00-05:00</start>
+   <end>2024-02-02T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11627053</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Haoyong Lan &amp; Matt Marsteller</presenter>
+   <registration>
+    <seats>100</seats>
+    <seats_taken>4</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11722733</id>
+   <title>Building your Programming Tool Box: Command Line Crash Course for Beginners</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This hands-on introduction to the command line interface is part 1 of a four-part series called Building Your Programming Toolbox.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is a hands-on introduction to using the command line interface. This workshop is designed for those who are beginning their exploration into command-line programming and anyone seeking to refresh their skills. A command line interface (CLI) is a quick and efficient way to perform computing tasks. A few of the topics that will be introduced include navigating the directory structure, commonly used commands, working with files and directories, and more.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;If you are a hands on learner and want to follow along, you&amp;rsquo;ll want to have&amp;nbsp;access to Bash Shell. If you use macOS or Linux then you should have Bash already installed. For those on Windows OS, you may need to install a bash shell. &lt;a href=&quot;https://gitforwindows.org/&quot;&gt;Git Bash&lt;/a&gt; installation is one option for installing Bash Shell.&amp;nbsp;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-05T13:00:00-05:00</start>
+   <end>2024-02-05T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11722733</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus></campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11627054</id>
+   <title>Introduction to Engineering Research Competencies</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop introduces engineering information literacy including engineering academic databases, database searching strategies, and efficient citation management.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-06T11:00:00-05:00</start>
+   <end>2024-02-06T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11627054</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Haoyong Lan</presenter>
+   <registration>
+    <seats>100</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11677895</id>
+   <title>Introduction to R Part 2: Working with data in R</title>
+   <description>&lt;p&gt;This 2-part introductory workshop aims to teach basic concepts, skills, and tools for working with data in R so that you can get more done in less time, and apply concepts of reproducibility to your research. This is an introduction to R designed for participants with no programming experience. Part 1 of the workshop covers basic information about R syntax and the RStudio interface, including installing packages and working with vectors. Part 2 will cover importing CSV files, working with dataframes, how to deal with factors, how to add/remove rows and columns using the popular dplyr package, and how to calculate summary statistics from a data frame. Taking Part 1 and Part 2 is encouraged, but optional.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Learners should bring a laptop and should already have installed R and RStudio on their computer. Installation and set-up instructions, as well as a detailed curriculum for the workshop &lt;a href=&quot;https://cmu-lib.github.io/portfolio_workshop/content/introR.html&quot;&gt;can be found here&lt;/a&gt;.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Part 2 Learning Outcomes&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Install packages and load libraries in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Import a dataset and use tidyverse functions to explore dataset attributes.&lt;/li&gt;&#13;
+	&lt;li&gt;Create subsets of dataframes.&lt;/li&gt;&#13;
+	&lt;li&gt;Work with categorical variables in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Use the dplyr package to select columns and filter rows.&lt;/li&gt;&#13;
+	&lt;li&gt;Use the dplyr package to perform various operations on a dataframe such as creating new variables, splitting and combining data, and summarizing data.&lt;/li&gt;&#13;
+	&lt;li&gt;Use pipes in R to string together a series of steps.&lt;/li&gt;&#13;
+	&lt;li&gt;Export a data set from R Studio.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-02-06T13:00:00-05:00</start>
+   <end>2024-02-06T14:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11677895</URL>
+   <color>#2A96DE</color>
+   <location>Hunt Library - Room 308</location>
+   <campus>Hunt Library</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>50</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11627055</id>
+   <title>Prompt Engineering for Research</title>
+   <description>&lt;p&gt;This workshop introduces prompt engineering techniques for generative artificial intelligence (AI) chatbots to elicit desired outputs. You will also get familiar with generative AI tools embedded in research databases.&lt;/p&gt;</description>
+   <start>2024-02-07T11:00:00-05:00</start>
+   <end>2024-02-07T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11627055</URL>
+   <color>#B3C8EF</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Haoyong Lan</presenter>
+   <registration>
+    <seats>100</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720589</id>
+   <title>Introduction to Python for Data Science: Plotting and Analyzing Tabular Datasets</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;In the second part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we demonstrate beginner Python programming techniques using the Pandas library to read tabular datasets, perform simple analyses, and visualize data. The content covered in this workshop will be a continuation of the content covered in part 1, &amp;quot;Introduction to Basic Programming with Data&amp;quot;. We highly encourage attending the first part of the workshop series before this workshop, especially for learners that are new to the Python programming language.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-07T13:00:00-05:00</start>
+   <end>2024-02-07T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11720589</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11676891</id>
+   <title>Tools, techniques and strategies for efficient and effective literature reviews</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Are you conducting a formal literature review for publication or a grant proposal? Are you looking for ways to stay on top of a rapidly emerging field? Or are you seeking to identify knowledge gaps to explore novel areas of research? Conducting literature reviews and staying on top of the research can feel like a daunting task. This workshop will provide a set of skills and tools to make this process easier and help you feel confident that you have found a thorough and representative body of literature on your topic. We will cover tips and techniques for searching the literature, managing the research papers you find, accessing full text of research quickly, and setting up search alerts for new papers. The workshop is aimed at graduate students, staff and faculty researchers, but anyone is welcome to join. &amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is Part 1 of the Advanced and systematized literature review methods Workshop Series. Join us for one or any of these sessions. Other workshops in this series:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11677021&quot;&gt;Synthesizing research with a scoping review&lt;/a&gt;, Thursday, March 14, 12-1pm ET&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11677025&quot;&gt;Analyzing scholarly literature using bibliometrics&lt;/a&gt;, Thursday, April 11, 12-1pm ET&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-02-08T12:00:00-05:00</start>
+   <end>2024-02-08T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11676891</URL>
+   <color>#9276C9</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Melanie Gainey, Haoyong Lan, Ryan Splenda &amp; Sarah Young</presenter>
+   <categories>
+    <category>Evidence Synthesis</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720611</id>
+   <title>Building Your Programming Toolbox: Version Control with Git</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;This workshop is for those beginning to explore the concept of version control, as well as anyone seeking to refine their skills. Git is a version control system that lets you manage and track changes to files on your computer through the command line interface. Topics covered will include configuring a local repository on your computer, modifying files and committing changes, and exploring version histories.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This hands-on introduction to version control and Git is part 2 of a four-part series called &amp;quot;Building Your Programming Toolbox.&amp;quot;&amp;nbsp;We highly encourage attending the first part of the workshop series, &amp;quot;Command Line Crash Course for Beginners&amp;quot; before this workshop, especially for learners who are new to a command line interface.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-12T13:00:00-05:00</start>
+   <end>2024-02-12T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11720611</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11677591</id>
+   <title>Text Mining with TDM Studio Workbench: An Introduction</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;In this 1-hour workshop, TDM Studio experts will provide an overview of what TDM Studio is and how to get started with TDM Studio Workbench for your research project. You will have the opportunity to create a dataset related to your research topic and to begin analyzing that dataset within TDM Studio. We will use and run sample Jupyter Notebooks, written in Python, to look at word counts and word co-occurrences in your project dataset. No coding experience is needed for the workshop, and by the end of the workshop you will have: 1) Familiarity with using TDM Studio as well as 2) Starting, baseline results for a text analysis project. Which politicians have the most newspaper presence? Does this vary by specific newspaper titles? Which politicians co-occur together most frequently?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Join us for other workshop in this series:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11677593&quot;&gt;Sentiment Analysis Overview and State of the Art&lt;/a&gt;, March 11, 3:30-4:30pm ET&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-02-12T15:30:00-05:00</start>
+   <end>2024-02-12T16:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11677591</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni &amp; Sarah Young</presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11851398</id>
+   <title>Data Storytelling</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;When working with data, the ways in which we communicate about or discuss analysis is as important as the act of research itself. A large part of being able to effectively use data is to understand what stories are contained within data sets, and what information may play a key role in analysis. In this&amp;nbsp;workshop, we will go over strategies to develop research questions tied to specific data sets, identify core elements of data that may lead to successful and fruitful analysis, as well as how to use both data and results from analysis to communicate ideas to academic and public audiences.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is a part of CMU Libraries&amp;rsquo;&amp;nbsp;&lt;em&gt;&lt;strong&gt;Communicating Data and Research Storytelling&lt;/strong&gt;&lt;/em&gt; . For other workshops in the series, please see the links below at CMU Libraries website:&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Storytelling | &lt;a href=&quot;https://cmu.libcal.com/event/11851398&quot;&gt;February 13th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization Best Practices | &lt;a href=&quot;https://cmu.libcal.com/event/11851456&quot;&gt;February 20th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in Tableau | &lt;a href=&quot;https://cmu.libcal.com/event/11851521&quot;&gt;February 27th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Data Visualization and Tableau Dashboards | &lt;a href=&quot;https://cmu.libcal.com/event/11851565&quot;&gt;March 12th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in R | &lt;a href=&quot;https://cmu.libcal.com/event/11851585&quot;&gt;March 19th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Introduction to Data Visualization in R Shiny | &lt;a href=&quot;https://cmu.libcal.com/event/11851602&quot;&gt;March 26th&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data for Citizen Science on Community Data | &lt;a href=&quot;https://cmu.libcal.com/event/11851621&quot;&gt;April 2nd&lt;/a&gt;&lt;/p&gt;</description>
+   <start>2024-02-13T09:00:00-05:00</start>
+   <end>2024-02-13T10:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11851398</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11622353</id>
+   <title>Introduction to Electronic Lab Notebooks</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;Join us for a demonstration on LabArchives ELN. LabArchives is a cloud-based platform that you can use to securely store, search, share and publish your research and data. As a Carnegie Mellon affiliate, you have free access to the platform. We&amp;rsquo;ll go over notebook creation and access, adding and managing data, and other features to help integrate LabArchives into your team&amp;#39;s workflow.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-13T10:00:00-05:00</start>
+   <end>2024-02-13T11:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11622353</URL>
+   <color>#F5E616</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Chasz Griego</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11622486</id>
+   <title>Introduction to Academic Publishing Processes and Models</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This workshop will introduce academic publishing models, including Open Access models,&amp;nbsp;and the publishing process of a scholarly work, including the peer-review process.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-13T11:00:00-05:00</start>
+   <end>2024-02-13T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11622486</URL>
+   <color>#B3C8EF</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11738974</id>
+   <title>Qualitative Research Design</title>
+   <description>&lt;p&gt;This workshop is part of the Qualitative Research series. This workshop discusses the fundamentals of Qualitative Research Design and gives an introduction to how to conduct a qualitative research data collection and analysis.&lt;/p&gt;</description>
+   <start>2024-02-13T12:00:00-05:00</start>
+   <end>2024-02-13T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11738974</URL>
+   <color>#C3C3C3</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Taiwo Lasisi</presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>50</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11676663</id>
+   <title>Introduction to R Part 1: Getting started with R and RStudio</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This 2-part introductory workshop aims to teach basic concepts, skills, and tools for working with data in R so that you can get more done in less time, and apply concepts of reproducibility to your research. This is an introduction to R designed for participants with no programming experience. Part 1 of the workshop covers basic information about R syntax and the RStudio interface, including installing packages and working with vectors. &lt;a href=&quot;https://cmu.libcal.com/event/11676685&quot;&gt;Part 2&lt;/a&gt; will cover importing CSV files, working with dataframes, how to deal with factors, how to add/remove rows and columns using the popular dplyr package, and how to calculate summary statistics from a data frame. Taking Part 1 and Part 2 is encouraged, but optional.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;br /&gt;&#13;
+Learners should bring a laptop and should already have installed R and RStudio on their computer. Installation and set-up instructions, as well as a detailed curriculum for the workshop &lt;a href=&quot;https://cmu-lib.github.io/portfolio_workshop/content/introR.html&quot;&gt;can be found here&lt;/a&gt;.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Part 1 Learning Outcomes&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Describe the different panes in the RStudio environment and how they are used when coding in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Run lines of R code from a script file to the console.&lt;/li&gt;&#13;
+	&lt;li&gt;Create and store new objects in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Find help information for functions.&lt;/li&gt;&#13;
+	&lt;li&gt;Use functions in R with appropriate syntax and arguments.&lt;/li&gt;&#13;
+	&lt;li&gt;Define, create and manipulate vectors in R.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-14T09:00:00-05:00</start>
+   <end>2024-02-14T10:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11676663</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11702384</id>
+   <title>ARTS x ESHIP: Financial Statements and Bookkeeping for Entrepreneurs</title>
+   <description>&lt;p&gt;Thinking of starting (or expanding) your art business, but aren&amp;rsquo;t really sure how to keep track of all the financial information? Join us at this virtual workshop for an introductory lesson on financial statements and bookkeeping for entrepreneurs. This workshop will include advice on keeping your data organized, financial statement templates for arts entrepreneurs, bookkeeping tips, and more!&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is one of several workshops, contained within the Arts X EShip Spring 2024 series.&lt;/p&gt;</description>
+   <start>2024-02-14T12:00:00-05:00</start>
+   <end>2024-02-14T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11702384</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Jimmy McKee &amp; Ashley Werlinich</presenter>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720619</id>
+   <title>Introduction to Python for Data Science: Analyzing Data with Logic and Iteration</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;In the final part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we offer an overview of Python fundamentals for performing iterative tasks with for loops and conditional tasks using logic and if statements. We will then show how to apply these programming techniques to analyze and visualize multiple tabular datasets with Pandas. The content covered in this workshop will be a continuation of the content covered in part 1, &amp;quot;Introduction to Basic Programming with Data&amp;quot; and part 2, &amp;quot;Plotting and Analyzing Tabular Datasets&amp;quot;. We highly encourage attending both part 1 and 2 of the series before this workshop, especially for learners that are new to the Python programming language.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-14T13:00:00-05:00</start>
+   <end>2024-02-14T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11720619</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11676509</id>
+   <title>Cleaning Untidy Data with OpenRefine</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Tired of spending hours and hours cleaning messy data in Excel spreadsheets? Come learn &lt;a href=&quot;https://openrefine.org/&quot;&gt;OpenRefine&lt;/a&gt;, an easy-to-use, open source tool for data cleaning. OpenRefine (formerly Google Refine) helps you prepare your data for analysis. Quickly and easily transform data, split and merge columns, remove whitespace, and perform many more common data cleaning tasks. With OpenRefine, you can also easily create JSON scripts for repeating series of tasks across multiple datasets.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;No previous experience is required. This will be a hands-on workshop--please bring a laptop.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-02-15T12:00:00-05:00</start>
+   <end>2024-02-15T13:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11676509</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720634</id>
+   <title>Building Your Programming Toolbox: Collaborating with GitHub</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;If you are interested in creating and collaborating on remote repositories on GitHub, this workshop is for you if you are a beginner or just seeking to refine your skills. GitHub is a cloud-based platform for open and collaborative software development and version control using Git. Topics covered will include pushing/pulling changes to files in a local repository to GitHub, making copies of public repositories to modify, and collaboratively pushing changes to a common repository shared among workshop participants.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This hands-on introduction to collaborating with GitHub is part 3 of a four-part series called &amp;quot;Building Your Programming Toolbox.&amp;quot;&amp;nbsp;We highly encourage attending the first two parts of the workshop series, &amp;quot;Command Line Crash Course for Beginners&amp;quot; and &amp;quot;Version Control with Git&amp;quot; before this workshop, especially for learners who are new to a command line interface and version control.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-19T13:00:00-05:00</start>
+   <end>2024-02-19T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11720634</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11851456</id>
+   <title>Data Visualization BestPractices</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;Data visualization, or the techniques used to visually display or communicate data, is an obvious output of our research or data analysis. Being able to effectively communicate your data to an audience is a necessary part of any project. How to harness visualization tools to tell a story will be presented in this short workshop. We will discuss how different types of graphs and charts are perceived and how they can be used to answer different questions, as well as what aspects of graphs make for effective storytelling.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is a part of CMU Libraries&amp;rsquo;&amp;nbsp;&lt;em&gt;&lt;strong&gt;Communicating Data and Research Storytelling&lt;/strong&gt;&lt;/em&gt; . For other workshops in the series, please see the links below at CMU Libraries website:&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Storytelling | &lt;a href=&quot;https://cmu.libcal.com/event/11851398&quot;&gt;February 13th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization Best Practices | &lt;a href=&quot;https://cmu.libcal.com/event/11851456&quot;&gt;February 20th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in Tableau | &lt;a href=&quot;https://cmu.libcal.com/event/11851521&quot;&gt;February 27th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Data Visualization and Tableau Dashboards | &lt;a href=&quot;https://cmu.libcal.com/event/11851565&quot;&gt;March 12th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in R | &lt;a href=&quot;https://cmu.libcal.com/event/11851585&quot;&gt;March 19th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Introduction to Data Visualization in R Shiny | &lt;a href=&quot;https://cmu.libcal.com/event/11851602&quot;&gt;March 26th&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data for Citizen Science on Community Data | &lt;a href=&quot;https://cmu.libcal.com/event/11851621&quot;&gt;April 2nd&lt;/a&gt;&lt;/p&gt;</description>
+   <start>2024-02-20T09:00:00-05:00</start>
+   <end>2024-02-20T10:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11851456</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11676685</id>
+   <title>Introduction to R Part 2: Working with data in R</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This 2-part introductory workshop aims to teach basic concepts, skills, and tools for working with data in R so that you can get more done in less time, and apply concepts of reproducibility to your research. This is an introduction to R designed for participants with no programming experience. Part 1 of the workshop covers basic information about R syntax and the RStudio interface, including installing packages and working with vectors. Part 2 will cover importing CSV files, working with dataframes, how to deal with factors, how to add/remove rows and columns using the popular dplyr package, and how to calculate summary statistics from a data frame. Taking Part 1 and Part 2 is encouraged, but optional.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;br /&gt;&#13;
+Learners should bring a laptop and should already have installed R and RStudio on their computer. Installation and set-up instructions, as well as a detailed curriculum for the workshop &lt;a href=&quot;https://cmu-lib.github.io/portfolio_workshop/content/introR.html&quot;&gt;can be found here&lt;/a&gt;.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Part 2&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Install packages and load libraries in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Import a dataset and use tidyverse functions to explore dataset attributes.&lt;/li&gt;&#13;
+	&lt;li&gt;Create subsets of dataframes.&lt;/li&gt;&#13;
+	&lt;li&gt;Work with categorical variables in R.&lt;/li&gt;&#13;
+	&lt;li&gt;Use the dplyr package to select columns and filter rows.&lt;/li&gt;&#13;
+	&lt;li&gt;Use the dplyr package to perform various operations on a dataframe such as creating new variables, splitting and combining data, and summarizing data.&lt;/li&gt;&#13;
+	&lt;li&gt;Use pipes in R to string together a series of steps.&lt;/li&gt;&#13;
+	&lt;li&gt;Export a data set from R Studio.&lt;/li&gt;&#13;
+&lt;/ul&gt;</description>
+   <start>2024-02-21T09:00:00-05:00</start>
+   <end>2024-02-21T10:30:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11676685</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Sarah Young</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11702839</id>
+   <title>ARTS x ESHIP: How to Work In-Person Events</title>
+   <description>&lt;p&gt;Join guest speaker Peter DePasquale (Career Consultant for the College of Fine Arts and co-owner of wearables brand &lt;a href=&quot;https://www.minima-maxima.com/&quot;&gt;MINIMA-MAXIMA&lt;/a&gt;) as he discusses best practices for working in person events as an arts entrepreneur!&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is one of several workshops, contained within the Arts X EShip Spring 2024 series.&lt;/p&gt;</description>
+   <start>2024-02-21T12:00:00-05:00</start>
+   <end>2024-02-21T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11702839</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Jimmy McKee &amp; Ashley Werlinich</presenter>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11620640</id>
+   <title>Introduction to Research Data Management and Data Management Plans</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:700&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop will introduce the FAIR data principles (Findable, Accessible, Interoperable, and Reusable) and research data management plans.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size:9pt; font-variant-ligatures:normal; font-variant-numeric:normal; font-variant-caps:normal; font-variant-alternates:normal; font-variant-east-asian:normal; font-variant-position:normal; white-space:pre-wrap&quot;&gt;&lt;span style=&quot;font-family:Verdana&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-22T12:00:00-05:00</start>
+   <end>2024-02-22T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11620640</URL>
+   <color>#2A96DE</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Emily Bongiovanni</presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>35</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720699</id>
+   <title>Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;a href=&quot;https://pages.github.com/&quot;&gt;GitPages&lt;/a&gt;&amp;nbsp;is a free platform for hosting your own simple website and showcasing your work to potential employers and clients. In this workshop, we&amp;#39;ll introduce you to Git and GitHub, and then we&amp;#39;ll provide a hands-on experience with setting up a GitPage website using Jekyll, a versatile website generator that uses markdown or HTML to create static websites with many templates to choose from.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is the final part of a four-part series called &amp;quot;Building Your Programming Toolbox.&amp;quot;&amp;nbsp;No prior knowledge or experience with Git, GitHub or GitPages is required, but we highly encourage attending parts 1-3 if you if you are interested in building your skills on the command line or learning version control with Git and GitHub.&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-26T13:00:00-05:00</start>
+   <end>2024-02-26T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11720699</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11851521</id>
+   <title>Introduction to Tableau</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Are you currently involved in work that could be augmented by visualizing your data for analysis or to communicate your findings to the public? Would you like to further your skills or learn new ways to make charts, graphs, maps using the Tableau?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Being able to effectively communicate your data to an audience is a necessary part of any project, and is made easier through the use of visualization tool like Tableau. In this workshop, we will discuss the basic capabilities of Tableau as well as take a hands-on approach to using the tool.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Please have downloaded Tableau with a student (https://www.tableau.com/academic/students) or teacher (https://www.tableau.com/academic/teaching) license prior to the workshop.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is a part of CMU Libraries&amp;rsquo;&amp;nbsp;&lt;em&gt;&lt;strong&gt;Communicating Data and Research Storytelling&lt;/strong&gt;&lt;/em&gt; . For other workshops in the series, please see the links below at CMU Libraries website:&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Storytelling | &lt;a href=&quot;https://cmu.libcal.com/event/11851398&quot;&gt;February 13th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization Best Practices | &lt;a href=&quot;https://cmu.libcal.com/event/11851456&quot;&gt;February 20th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in Tableau | &lt;a href=&quot;https://cmu.libcal.com/event/11851521&quot;&gt;February 27th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Data Visualization and Tableau Dashboards | &lt;a href=&quot;https://cmu.libcal.com/event/11851565&quot;&gt;March 12th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in R | &lt;a href=&quot;https://cmu.libcal.com/event/11851585&quot;&gt;March 19th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Introduction to Data Visualization in R Shiny | &lt;a href=&quot;https://cmu.libcal.com/event/11851602&quot;&gt;March 26th&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data for Citizen Science on Community Data | &lt;a href=&quot;https://cmu.libcal.com/event/11851621&quot;&gt;April 2nd&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-02-27T09:00:00-05:00</start>
+   <end>2024-02-27T10:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11851521</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11732026</id>
+   <title>Easing the transition from MATLAB to Python with AI</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Are you reliant on MATLAB for your coding needs, but interested in embracing the freedom of a non-proprietary platform? Python is a versatile and readable open-source programming language that is widely used across diverse domains, including: web development, data science, and artificial intelligence. This workshop is for individuals seeking to liberate their coding experience from proprietary constraints and explore the expansive world of non-proprietary alternatives. We&amp;rsquo;ll use AI chatbots, such as ChatGPT and Bard, to ease the MATLAB-to-Python transition. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&#13;
+&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&#13;
+&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;While not required, attendees are encouraged to bring MATLAB code they would like converted to Python.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-27T13:00:00-05:00</start>
+   <end>2024-02-27T15:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11732026</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter>Kristen Scotti</presenter>
+   <categories>
+    <category>Open Science</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720891</id>
+   <title>Encapsulating Reproducible Computational Research with Code Ocean</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Code Ocean is a cloud-based platform for creating, organizing, and sharing reproducible computational research environments. In this workshop, we will show you how to create a &amp;quot;Capsule&amp;quot; for a computational research project. We will demonstrate how to organize data, code, and results in a Capsule, create a reproducible snapshot of a software environment for a variety of programming languages and libraries (including Python, R, MATLAB, and Julia), and create metadata to prepare your project for publication and enhanced discoverability. This workshop is open to anyway that is interested in computational reproducibility. No prior experience with a programming language is required, but we encourage participants to attend with a project in mind, so that they are able to immediately utilize this platform. &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-02-28T10:00:00-05:00</start>
+   <end>2024-02-28T12:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11720891</URL>
+   <color>#F5E616</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11702677</id>
+   <title>ARTS x ESHIP: Writing for Your Brand</title>
+   <description>&lt;p&gt;Do you have a good idea for your arts business but struggle to find your brand voice as an arts entrepreneur? Come to this virtual workshop to learn the ins and outs of writing for your arts business. We&amp;rsquo;ll discuss writing for various media, work through some models of effective and ineffective writing for brands, and learn how to leverage these writing skills to build a successful voice for your brand!&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;(Note: people interested in copy-writing both in the arts and outside can attend! These tips will be transferable to people interested in brand writing within any field!)&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is one of several workshops, contained within the Arts X EShip Spring 2024 series.&lt;/p&gt;</description>
+   <start>2024-02-28T12:00:00-05:00</start>
+   <end>2024-02-28T13:00:00-05:00</end>
+   <URL>https://cmu.libcal.com/event/11702677</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Jimmy McKee &amp; Ashley Werlinich</presenter>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11722048</id>
+   <title>Command Line Crash Course for Beginners</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is a hands-on introduction to using the command line interface. This workshop is designed for those who are beginning their exploration into command-line programming and anyone seeking to refresh their skills. A command line interface (CLI) is a quick and efficient way to perform computing tasks. A few of the topics that will be introduced include navigating the directory structure, commonly used commands, working with files and directories, and more.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;If you are a hands on learner and want to follow along, you&amp;rsquo;ll want to have&amp;nbsp;access to Bash Shell. If you use macOS or Linux then you should have Bash already installed. For those on Windows OS, you may need to install a bash shell. &lt;a href=&quot;https://gitforwindows.org/&quot;&gt;Git Bash&lt;/a&gt; installation is one option for installing Bash Shell.&amp;nbsp;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-03-11T13:00:00-04:00</start>
+   <end>2024-03-11T15:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11722048</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11677593</id>
+   <title>Sentiment Analysis Overview and State of the Art with TDM Studio</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;Sentiment Analysis or Sentiment Classification is valuable for answering lots of different research question: How does public sentiment react to different tragic events? Do tragic events always elicit the same negative emotional states? What publicly expressed emotions help politicians get elected? Have the most common emotions changed over the last 150 years? In this 1-hour workshop, we will use TDM Studio to learn about Sentiment Classification and also run two approaches to the task&amp;mdash;One will be a baseline dictionary-based approach and the other a more recent SBERT-based model that performs at the state of the art for newspaper sentiment classification. &lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-03-11T15:30:00-04:00</start>
+   <end>2024-03-11T16:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11677593</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Emily Bongiovanni &amp; Sarah Young</presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11851565</id>
+   <title>Data Visualization and Tableau Dashboards</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;Those familiar with Tableau know it is a valuable tool for exploring and visualizing data. This workshop seeks to build on initial Tableau skills to discuss how to develop effective dashboards. Participants will be shown how to use calculated fields, non-standard data visualization graph types, and best practices for designing effective dashboards that can communicate a research story to both academic and public audiences.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;Please have downloaded Tableau with a student (https://www.tableau.com/academic/students) or teacher (https://www.tableau.com/academic/teaching) license prior to the workshop.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is a part of CMU Libraries&amp;rsquo;&amp;nbsp;&lt;em&gt;&lt;strong&gt;Communicating Data and Research Storytelling&lt;/strong&gt;&lt;/em&gt; . For other workshops in the series, please see the links below at CMU Libraries website:&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Storytelling | &lt;a href=&quot;https://cmu.libcal.com/event/11851398&quot;&gt;February 13th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization Best Practices | &lt;a href=&quot;https://cmu.libcal.com/event/11851456&quot;&gt;February 20th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in Tableau | &lt;a href=&quot;https://cmu.libcal.com/event/11851521&quot;&gt;February 27th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Data Visualization and Tableau Dashboards | &lt;a href=&quot;https://cmu.libcal.com/event/11851565&quot;&gt;March 12th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in R | &lt;a href=&quot;https://cmu.libcal.com/event/11851585&quot;&gt;March 19th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Introduction to Data Visualization in R Shiny | &lt;a href=&quot;https://cmu.libcal.com/event/11851602&quot;&gt;March 26th&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data for Citizen Science on Community Data | &lt;a href=&quot;https://cmu.libcal.com/event/11851621&quot;&gt;April 2nd&lt;/a&gt;&lt;/p&gt;</description>
+   <start>2024-03-12T09:00:00-04:00</start>
+   <end>2024-03-12T10:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11851565</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11739025</id>
+   <title>Qualitative Coding</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This workshop focuses on coding qualitative data using qualitative statistical pakages like NVivo and MAXQDA. The workshop will start by briefly introducing what&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;qualitative research method entails. It will also outline methods of qualitative data analysis, including when such methods can be adapted and how and they can be used&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;effectively. After this, the workshop will introduce how to use NVivo and MAXQDA statistocal packages to analyse texts and other forms of qualitative data.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-03-12T12:00:00-04:00</start>
+   <end>2024-03-12T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11739025</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <audiences>
+    <audience>New to the Libraries</audience>
+   </audiences>
+   <registration>
+    <seats>75</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11740185</id>
+   <title>Data Exploration with Python and SQL in Redivis, Part 1</title>
+   <description>&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Redivis, a powerful platform for collaborative data science, facilitates seamless data sharing and collaboration. In this two-part, hands-on session, you&amp;#39;ll learn how to leverage Redivis to access, manipulate, and analyze datasets with the flexibility of Python and the power of SQL.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This is part 1 of a&amp;nbsp;two-part workshop; please try to attend both sessions.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Part 1&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Explore the unique features of Redivis and understand how it streamlines the data collaboration process. Learn how to create and navigate datasets and projects.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Learn the fundamentals of SQL, including how to craft SQL queries to filter, aggregate, and analyze data efficiently.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Part 2&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Learn how to utilize Python within Redivis to visualize data and streamline your workflow.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;Learn how to collaborate within Redivis, sharing your analyses and insights with team members. Explore the platform&amp;#39;s collaborative features that enhance teamwork in data-driven projects.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-03-13T11:00:00-04:00</start>
+   <end>2024-03-13T12:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11740185</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11677021</id>
+   <title>Synthesizing research with a scoping review</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;How can we find and synthesize all of the existing research on a topic when there is so much information out there? Scoping reviews are a popular research synthesis method for systematically describing the existing literature on a topic. They are more reproducible and comprehensive than a traditional literature review and can help us to understand the scope of research in an area, identify existing gaps, and surface trends and key concepts. If you are considering developing a research synthesis project for your field, or are curious about such methods and how they apply in your discipline, please join us! You&amp;#39;ll be provided with guidance and next steps for starting a scoping review at the end of the session. This session is aimed at graduate students, staff and faculty researchers, but anyone is welcome to join.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is Part 2 of the Advanced and systematized literature review methods Workshop Series. Join us for one or any of these sessions. Other workshops in this series:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;&lt;a href=&quot;https://cmu.libcal.com/event/11677025&quot;&gt;Analyzing scholarly literature using bibliometrics&lt;/a&gt;, Thursday, April 11, 12-1pm ET&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&lt;br /&gt;&#13;
+Learning Objectives:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Describe the types of evidence synthesis methodologies and select the appropriate one for your research purposes.&lt;/li&gt;&#13;
+	&lt;li&gt;Utilize a question framework (PICO, CIMO, etc.) to develop a well-defined research question.&lt;/li&gt;&#13;
+	&lt;li&gt;Use advanced search features like phrase searching, database syntax and stemming to improve your bibliographic database searching skills&lt;/li&gt;&#13;
+	&lt;li&gt;Develop a priori criteria to make more objective decisions about which studies to include in or exclude from my review.&lt;/li&gt;&#13;
+&lt;/ul&gt;</description>
+   <start>2024-03-14T12:00:00-04:00</start>
+   <end>2024-03-14T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11677021</URL>
+   <color>#9276C9</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Melanie Gainey, Haoyong Lan, Ryan Splenda &amp; Sarah Young</presenter>
+   <categories>
+    <category>Evidence Synthesis</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720901</id>
+   <title>Advanced Research Note-Taking with Obsidian</title>
+   <description>&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;This workshop will introduce Obsidian, a markdown-based note-taking app that helps you organize your personal knowledge base. We will demonstrate how to create and edit markdown files to easily format your notes. We will then dive in to several of the functions and plug-ins in Obsidian that make it easier for you to organize, link, and search your recorded thoughts. Finally, we will demonstrate how you can link Obsidian to Zotero to help you connect research notes to items in your personal library.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-03-15T10:00:00-04:00</start>
+   <end>2024-03-15T12:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11720901</URL>
+   <color>#25B891</color>
+   <location>Sorrells Library, Den</location>
+   <campus>Sorrells Library</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>30</seats>
+    <seats_taken>3</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11851585</id>
+   <title>Data Visualization in R</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Are you currently involved in work that could be augmented by visualizing your data for analysis or to communicate your findings to the public? Would you like to further your skills or learn new ways to make charts, graphs, maps using the R?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Being able to effectively communicate your data to an audience is a necessary part of any project, and is made easier through the use of visualization tool like R. In this workshop, we will discuss the basic capabilities of R as well as take a hands-on approach to using the tool.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Please have downloaded R prior to the event :&amp;nbsp;&lt;a href=&quot;https://www.r-project.org/&quot;&gt;https://www.r-project.org&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is a part of CMU Libraries&amp;rsquo;&amp;nbsp;&lt;em&gt;&lt;strong&gt;Communicating Data and Research Storytelling&lt;/strong&gt;&lt;/em&gt; . For other workshops in the series, please see the links below at CMU Libraries website:&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Storytelling | &lt;a href=&quot;https://cmu.libcal.com/event/11851398&quot;&gt;February 13th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization Best Practices | &lt;a href=&quot;https://cmu.libcal.com/event/11851456&quot;&gt;February 20th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in Tableau | &lt;a href=&quot;https://cmu.libcal.com/event/11851521&quot;&gt;February 27th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Data Visualization and Tableau Dashboards | &lt;a href=&quot;https://cmu.libcal.com/event/11851565&quot;&gt;March 12th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in R | &lt;a href=&quot;https://cmu.libcal.com/event/11851585&quot;&gt;March 19th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Introduction to Data Visualization in R Shiny | &lt;a href=&quot;https://cmu.libcal.com/event/11851602&quot;&gt;March 26th&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data for Citizen Science on Community Data | &lt;a href=&quot;https://cmu.libcal.com/event/11851621&quot;&gt;April 2nd&lt;/a&gt;&lt;/p&gt;</description>
+   <start>2024-03-19T09:00:00-04:00</start>
+   <end>2024-03-19T10:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11851585</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11740329</id>
+   <title>Data Exploration with Python and SQL in Redivis, Part 2</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Redivis, a powerful platform for collaborative data science, facilitates seamless data sharing and collaboration. In this two-part, hands-on session, you&amp;#39;ll learn how to leverage Redivis to access, manipulate, and analyze datasets with the flexibility of Python and the power of SQL.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;This is part 1 of a two-part workshop; please try to attend both sessions.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Part 1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Explore the unique features of Redivis and understand how it streamlines the data collaboration process. Learn how to create and navigate datasets and projects.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Learn the fundamentals of SQL, including how to craft SQL queries to filter, aggregate, and analyze data efficiently.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p style=&quot;line-height:1.38; margin-top:16px; margin-bottom:16px&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Part 2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Learn how to utilize Python within Redivis to visualize data and streamline your workflow.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot; style=&quot;list-style-type:disc&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Learn how to collaborate within Redivis, sharing your analyses and insights with team members. Explore the platform&amp;#39;s collaborative features that enhance teamwork in data-driven projects.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-03-20T11:00:00-04:00</start>
+   <end>2024-03-20T12:30:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11740329</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11622574</id>
+   <title>Submitting Your Thesis or Dissertation to CMU Libraries</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;This session will walk through the steps for depositing your thesis or dissertation to &lt;a href=&quot;https://kilthub.cmu.edu/&quot;&gt;KiltHub&lt;/a&gt;, the CMU institutional repository and the&amp;nbsp;thesis and dissertation&amp;nbsp;database, ProQuest.&amp;nbsp;We will also cover intellectual property considerations like embargos, licensing, and how to manage published materials that are part of the thesis.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-03-20T12:00:00-04:00</start>
+   <end>2024-03-20T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11622574</URL>
+   <color>#25B891</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Katie Behrman &amp; Emily Bongiovanni</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Writing and Publishing</category>
+   </categories>
+   <registration>
+    <seats>70</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11722088</id>
+   <title>Open Science Framework (OSF) for Beginners</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;a href=&quot;https://osf.io/&quot;&gt;Open Science Framework (OSF) &lt;/a&gt;is a research reproducibility and project management platform that is free, open source, and designed to support research across the research lifecycle. OSF allows you to organize all of your research documentation, such as datasets, code, analysis, background literature and more, into a single space shared by your collaborators. OSF also supports the pre-registration of research protocols and preprint publication.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop will cover:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Creating and collaborating on OSF projects&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Uploading files from your desktop&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Connecting external platforms like Google Drive, Mendeley, and GitHub&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Understanding version control in OSF&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Pre-registration of research protocols&lt;/li&gt;&#13;
+	&lt;li aria-level=&quot;1&quot;&gt;Publishing supplementary materials&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p dir=&quot;ltr&quot;&gt;&lt;br /&gt;&#13;
+No previous experience with OSF is required! Please register for an &lt;a href=&quot;https://osf.io/&quot;&gt;OSF account&lt;/a&gt; with your CMU email address beforehand if you&amp;#39;re a hands on learner!&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-03-25T13:00:00-04:00</start>
+   <end>2024-03-25T14:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11722088</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11851602</id>
+   <title>Data Visualization in R Shiny</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Are you currently involved in work that could (or should) be&amp;nbsp;communicated&amp;nbsp;to the public via online platforms? Would you like to further your skills or learn new ways to make charts, graphs, maps using the R?&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Being able to effectively communicate your data to an audience is a necessary part of any project, and is made easier through the use of visualization tool like R Siny. In this workshop, we will discuss the basic capabilities of R Shiny as well as take a hands-on approach to using the tool.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;It is recomended that you attend the &amp;#39;Data Visualization in R&amp;#39; workshop prior to this event.&amp;nbsp;Please have downloaded R prior to the event :&amp;nbsp;&lt;a href=&quot;https://www.r-project.org/&quot;&gt;https://www.r-project.org&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is a part of CMU Libraries&amp;rsquo;&amp;nbsp;&lt;em&gt;&lt;strong&gt;Communicating Data and Research Storytelling&lt;/strong&gt;&lt;/em&gt; . For other workshops in the series, please see the links below at CMU Libraries website:&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Storytelling | &lt;a href=&quot;https://cmu.libcal.com/event/11851398&quot;&gt;February 13th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization Best Practices | &lt;a href=&quot;https://cmu.libcal.com/event/11851456&quot;&gt;February 20th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in Tableau | &lt;a href=&quot;https://cmu.libcal.com/event/11851521&quot;&gt;February 27th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Data Visualization and Tableau Dashboards | &lt;a href=&quot;https://cmu.libcal.com/event/11851565&quot;&gt;March 12th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in R | &lt;a href=&quot;https://cmu.libcal.com/event/11851585&quot;&gt;March 19th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Introduction to Data Visualization in R Shiny | &lt;a href=&quot;https://cmu.libcal.com/event/11851602&quot;&gt;March 26th&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data for Citizen Science on Community Data | &lt;a href=&quot;https://cmu.libcal.com/event/11851621&quot;&gt;April 2nd&lt;/a&gt;&lt;/p&gt;</description>
+   <start>2024-03-26T09:00:00-04:00</start>
+   <end>2024-03-26T10:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11851602</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11722604</id>
+   <title>Regex 101: Fundamentals for Beginners</title>
+   <description>&lt;p&gt;This hands-on session introduces beginners to the fundamentals&amp;nbsp;of regular expressions aka regex. In this workshop, we&amp;#39;ll&amp;nbsp;learn about regular expressions and their uses, explore syntax, pattern matching and metacharacters in Python.&amp;nbsp;No prior experience required!&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;If you are a hands on learner and want to follow along please install&amp;nbsp;&lt;a href=&quot;https://www.anaconda.com/download&quot;&gt;Anaconda&lt;/a&gt;. We&amp;#39;ll be using Python &amp;amp; Jupyter Lab for the workshop. If you wish to join and only be an observer that&amp;#39;s perfectly fine as well!&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-01T13:00:00-04:00</start>
+   <end>2024-04-01T14:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11722604</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11851621</id>
+   <title>Data for Citizen Science and Developing Community Data</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;There is so much data out there, but how do we know what data we need to impact our communities for the better? As more individuals work to apply their data skills developed through the acedemic programs, it is becoming clear that knowing where and how to use data is just as&amp;nbsp;vital within a research project&amp;nbsp;as it is to support&amp;nbsp;community advocacy.&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop will identify how to best collect, ethically use, and manage community based data projects for citizen science use. If you are interested in learning how to best connect data skills to community advocacy, please join us for a hands on session using local data!&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop is a part of CMU Libraries&amp;rsquo;&amp;nbsp;&lt;em&gt;&lt;strong&gt;Communicating Data and Research Storytelling&lt;/strong&gt;&lt;/em&gt; . For other workshops in the series, please see the links below at CMU Libraries website:&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Storytelling | &lt;a href=&quot;https://cmu.libcal.com/event/11851398&quot;&gt;February 13th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization Best Practices | &lt;a href=&quot;https://cmu.libcal.com/event/11851456&quot;&gt;February 20th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in Tableau | &lt;a href=&quot;https://cmu.libcal.com/event/11851521&quot;&gt;February 27th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Data Visualization and Tableau Dashboards | &lt;a href=&quot;https://cmu.libcal.com/event/11851565&quot;&gt;March 12th&lt;/a&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data Visualization in R | &lt;a href=&quot;https://cmu.libcal.com/event/11851585&quot;&gt;March 19th&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&#13;
+&lt;style type=&quot;text/css&quot;&gt;&lt;!--td {border: 1px solid #cccccc;}br {mso-data-placement:same-cell;}--&gt;&#13;
+&lt;/style&gt;&#13;
+Introduction to Data Visualization in R Shiny | &lt;a href=&quot;https://cmu.libcal.com/event/11851602&quot;&gt;March 26th&amp;nbsp;&lt;/a&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Data for Citizen Science on Community Data | &lt;a href=&quot;https://cmu.libcal.com/event/11851621&quot;&gt;April 2nd&lt;/a&gt;&lt;/p&gt;</description>
+   <start>2024-04-02T09:00:00-04:00</start>
+   <end>2024-04-02T10:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11851621</URL>
+   <color>#2A96DE</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>40</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720957</id>
+   <title>Introduction to Python for Data Science: Introduction to Basic Programming with Data</title>
+   <description>&lt;p dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;In this first part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we offer an introduction to Python for non-programmers with a focus on data analysis. In this workshop, we will demonstrate how to do basic Python programming in Jupyter Notebooks. Topics will include working with different data types, using built-in functions and libraries to read and manipulate data.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;</description>
+   <start>2024-04-09T09:00:00-04:00</start>
+   <end>2024-04-09T11:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11720957</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11722137</id>
+   <title>Making the Most with Jupyter Lab and Notebooks</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;Are you new to using Jupyter Lab and Notebooks? Or have you used these platforms before but want to learn more about them? Then come check out this workshop! This workshop is designed to be an introduction to Jupyter Lab and Notebooks. Some of the topics that will be covered include: how to access these platforms, an overview of platform features like hotkeys and magic commands, the basics of using markdown, publishing notebooks on the web, and how to use and display interactive figures. This workshop uses Python programming language; familiarity is not required but can be helpful!&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;If you are a hands on learner and want to follow along please install&amp;nbsp;&lt;a href=&quot;https://www.anaconda.com/download&quot;&gt;Anaconda&lt;/a&gt;. If you wish to join and only be an observer that&amp;#39;s perfectly fine as well!&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-10T11:00:00-04:00</start>
+   <end>2024-04-10T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11722137</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran &amp; Chasz Griego</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>0</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11677025</id>
+   <title>Analyzing scholarly literature using bibliometrics</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This workshop will provide an introduction to bibliometric methods. Bibliometrics, or the use of tools and statistical methods to analyze published books and articles, can be a useful approach to understanding a body of knowledge and the way researchers are collaborating or publishing work on a topic. We will cover the basics of gathering a dataset for bibliometric analysis using tools like Web of Science and Scopus; provide an overview of software tools for analyzing bibliographic data; and discuss examples of bibliometric analyses across a range of disciplines. The workshop is aimed at graduate students, staff and faculty researchers, but anyone is welcome to join.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;This is Part 3 of the Advanced and systematized literature review methods Workshop Series. You do not need to have attended previous workshops in this series.&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;Learning Objectives:&lt;/p&gt;&#13;
+&#13;
+&lt;ul&gt;&#13;
+	&lt;li&gt;Define bibliometrics.&lt;/li&gt;&#13;
+	&lt;li&gt;Describe the value of bibliometrics analysis in the context of your research.&lt;/li&gt;&#13;
+	&lt;li&gt;Use databases and other tools to gather a dataset for analysis that includes bibliographic metadata and citation data.&lt;/li&gt;&#13;
+	&lt;li&gt;Describe various tools that are used in bibliometrics analysis.&lt;/li&gt;&#13;
+&lt;/ul&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-11T12:00:00-04:00</start>
+   <end>2024-04-11T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11677025</URL>
+   <color>#9276C9</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Melanie Gainey, Haoyong Lan, Ryan Splenda &amp; Sarah Young</presenter>
+   <categories>
+    <category>Evidence Synthesis</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11720984</id>
+   <title>Introduction to Python for Data Science: Plotting and Analyzing Tabular Datasets</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;In the second part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we demonstrate beginner Python programming techniques using the Pandas library to read tabular datasets, perform simple analyses, and visualize data. The content covered in this workshop will be a continuation of the content covered in part 1, &amp;quot;Introduction to Basic Programming with Data&amp;quot;. We highly encourage attending the first part of the workshop series before this workshop, especially for learners that are new to the Python programming language.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-16T09:00:00-04:00</start>
+   <end>2024-04-16T11:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11720984</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>1</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11739029</id>
+   <title>Using Community Data to Improve Outcomes (Grant Writing)</title>
+   <description>&lt;p&gt;This workshop is part of the Qualitative Research series. This workshop focuses on the importance of community data and the role it can play in facilitating organization&amp;#39;s success and improving their outcomes. It focuses on using community data for action through activities such as grant wringing and response to community needs.&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;caret-color:#000000; color:#000000; font-style:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-tap-highlight-color:rgba(26, 26, 26, 0.3); -webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; text-decoration:none; line-height:1.38&quot;&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;br style=&quot;caret-color:#000000; color:#000000; font-style:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-tap-highlight-color:rgba(26, 26, 26, 0.3); -webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; text-decoration:none&quot; /&gt;&#13;
+&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-17T12:00:00-04:00</start>
+   <end>2024-04-17T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11739029</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Taiwo Lasisi</presenter>
+   <registration>
+    <seats>60</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11732235</id>
+   <title>Easing the transition from MATLAB to Python with AI</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;Are you reliant on MATLAB for your coding needs, but interested in embracing the freedom of a non-proprietary platform? Python is a versatile and readable open-source programming language that is widely used across diverse domains, including: web development, data science, and artificial intelligence. This workshop is for individuals seeking to liberate their coding experience from proprietary constraints and explore the expansive world of non-proprietary alternatives. We&amp;rsquo;ll use AI chatbots, such as ChatGPT and Bard, to ease the MATLAB-to-Python transition.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; white-space: pre-wrap;&quot;&gt;&lt;span style=&quot;color:#000000&quot;&gt;&lt;span style=&quot;font-weight:400&quot;&gt;&lt;span style=&quot;font-style:normal&quot;&gt;&lt;span style=&quot;text-decoration:none&quot;&gt;While not required, attendees are encouraged to bring MATLAB code they would like converted to Python.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-17T13:00:00-04:00</start>
+   <end>2024-04-17T15:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11732235</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Kristen Scotti</presenter>
+   <categories>
+    <category>Open Science</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>true</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11722162</id>
+   <title>Python for Harvesting Data on the Web (Intermediate-Advanced)</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;/span&gt;&lt;/span&gt;This is an intermediate-to-advanced level Python workshop that describes ways to approach common data wrangling from the web for research needs. We will focus on obtaining open data sources through HTTP requests and then demonstrate how to access larger sources of data via APIs. Then we will show how to turn the retrieved data into more useful objects like data frames to do basic manipulations and analysis. This workshop is only recommended for Python users with familiarity in Pandas, Numpy, core Python objects (lists, dictionaries, strings, numbers), file types like JSON and CSV, and comfort using Jupyter Notebooks.&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;If you are a hands on learner and want to follow along please install&amp;nbsp;&lt;a href=&quot;https://www.anaconda.com/download&quot;&gt;Anaconda&lt;/a&gt;. We&amp;#39;ll be using Python and Jupyter Lab in this workshop.If you wish to join and only be an observer that&amp;#39;s perfectly fine as well!&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-19T11:00:00-04:00</start>
+   <end>2024-04-19T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11722162</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Lencia Beltran &amp; Chasz Griego</presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11721033</id>
+   <title>Introduction to Python for Data Science: Analyzing Data with Logic and Iteration</title>
+   <description>&lt;p&gt;&lt;meta charset=&quot;utf-8&quot;&gt;&lt;span style=&quot;font-family:Verdana,Geneva,sans-serif;&quot;&gt;&lt;span style=&quot;font-size:12px;&quot;&gt;In the final part of the 3-part workshop series, &amp;quot;Introduction to Python for Data Science,&amp;quot; we offer an overview of Python fundamentals for performing iterative tasks with for loops and conditional tasks using logic and if statements. We will then show how to apply these programming techniques to analyze and visualize multiple tabular datasets with Pandas. The content covered in this workshop will be a continuation of the content covered in part 1, &amp;quot;Introduction to Basic Programming with Data&amp;quot; and part 2, &amp;quot;Plotting and Analyzing Tabular Datasets&amp;quot;. We highly encourage attending both part 1 and 2 of the series before this workshop, especially for learners that are new to the Python programming language.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-23T09:00:00-04:00</start>
+   <end>2024-04-23T11:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11721033</URL>
+   <color>#F5E616</color>
+   <location></location>
+   <campus>Virtual Workshop</campus>
+   <presenter></presenter>
+   <categories>
+    <category>Open Science</category>
+    <category>Working With Data</category>
+   </categories>
+   <registration>
+    <seats>300</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+  <event>
+   <id>11739050</id>
+   <title>Survey Design</title>
+   <description>&lt;p&gt;This workshop is part of the Qualitative Research series. This workshop focuses on the theoretical underpinnings of Survey design. It shed light on the importance of designing surveys that serve your audience effectively.&lt;/p&gt;&#13;
+&#13;
+&lt;p style=&quot;caret-color:#000000; color:#000000; font-style:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-tap-highlight-color:rgba(26, 26, 26, 0.3); -webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; text-decoration:none; line-height:1.38&quot;&gt;&amp;nbsp;&lt;/p&gt;&#13;
+&#13;
+&lt;p&gt;&lt;br style=&quot;caret-color:#000000; color:#000000; font-style:normal; font-variant-caps:normal; font-weight:400; letter-spacing:normal; orphans:auto; text-align:start; text-indent:0px; text-transform:none; white-space:normal; widows:auto; word-spacing:0px; -webkit-tap-highlight-color:rgba(26, 26, 26, 0.3); -webkit-text-size-adjust:auto; -webkit-text-stroke-width:0px; text-decoration:none&quot; /&gt;&#13;
+&amp;nbsp;&lt;/p&gt;</description>
+   <start>2024-04-23T12:00:00-04:00</start>
+   <end>2024-04-23T13:00:00-04:00</end>
+   <URL>https://cmu.libcal.com/event/11739050</URL>
+   <color>#B3C8EF</color>
+   <location>Online</location>
+   <campus>Virtual Workshop</campus>
+   <presenter>Taiwo Lasisi</presenter>
+   <registration>
+    <seats>60</seats>
+    <seats_taken>2</seats_taken>
+    <wait_list>false</wait_list>
+   </registration>
+  </event>
+ </events>
+</libcal>
