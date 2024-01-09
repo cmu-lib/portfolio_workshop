@@ -23,7 +23,7 @@ After this workshop, you'll be able to:
 * Use pipes in R to string together a series of steps.
 * Export a data set from R Studio.
 
-## Slides
+### Slides
 
 [Here](https://docs.google.com/presentation/d/1TO7pGCKwtjwFAqGLpxIAb-GBRs0dEnlnJhoAFTRkdaY/edit?usp=sharing) are the slides for both part 1 and part 2.
 
