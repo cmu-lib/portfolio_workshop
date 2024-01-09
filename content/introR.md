@@ -2,7 +2,7 @@
 layout: default
 title: Introduction to R Getting started with R and RStudio
 has_children: true
-nav_order: 2
+nav_order: 8
 ---
 
 # Introduction to R: Getting started with R and RStudio
