@@ -21,6 +21,8 @@ After this workshop, you'll be able to:
 * Use functions in R with appropriate syntax and arguments.
 * Define, create and manipulate vectors in R.
 
+## Slides
+
 [Here](https://docs.google.com/presentation/d/1TO7pGCKwtjwFAqGLpxIAb-GBRs0dEnlnJhoAFTRkdaY/edit?usp=sharing) are the slides for both part 1 and part 2.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtce_WhgJuaF3PX5Zo3YrR7rUS25rpbBIWW0cZjo39Zn5Bk7qmMpOultF2EXTxcrT4JcFqiDtKdNdG/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
