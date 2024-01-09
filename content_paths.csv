@@ -1,14 +1,25 @@
 title,path,URL
-Building your Programming Tool Box: Command Line Crash Course for Beginners,cli/cli_main.md,https://cmu.libcal.com/event/11068306
-Introduction to Python for Data Science Part 1: Introduction to Basic Programming with Data,Python_Series_Materials/part_1/part_1.md,https://cmu.libcal.com/event/11101229
-Building Your Programming Toolbox: Version Control with Git,https://swcarpentry.github.io/git-novice/,https://cmu.libcal.com/event/11108087
-Introduction to Python for Data Science Part 2: Plotting and Analyzing Tabular Datasets,Python_Series_Materials/part_3/part_3.md,https://cmu.libcal.com/event/11101249
-Building Your Programming Toolbox: Collaborating with GitHub,https://swcarpentry.github.io/git-novice/,https://cmu.libcal.com/event/11108299
-Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages,content/git_github.md,https://cmu.libcal.com/event/11108435
-Making the Most with Jupyter Lab and Notebooks,Python_Series_Materials/part_2/part_2.md,https://cmu.libcal.com/event/11067479
-Advanced Research Note-Taking with Obsidian,content/obsidian.md,https://cmu.libcal.com/event/11101345
-Getting Started with Open Science Framework Workshop,content/osf.md,https://cmu.libcal.com/event/11067730
-Cleaning Untidy Data with OpenRefine,content/openrefine.md,https://cmu.libcal.com/event/11068024
-Data Carpentry: Introduction to R,https://datacarpentry.org/socialsci-workshop/,https://cmu.libcal.com/event/11098020
-Data Carpentry: Introduction to R,https://datacarpentry.org/socialsci-workshop/,https://cmu.libcal.com/event/11098021
-Data Carpentry: Introduction to R,https://datacarpentry.org/socialsci-workshop/,https://cmu.libcal.com/event/11098022
+Open Science Framework (OSF) for Beginners,content/osf.md,https://cmu.libcal.com/event/11721905
+Data Carpentry: Introduction to Python,https://datacarpentry.org/python-ecology-lesson/,https://cmu.libcal.com/event/11732479
+Data Carpentry: Introduction to Python,https://datacarpentry.org/python-ecology-lesson/,https://cmu.libcal.com/event/11732480
+Introduction to R Part 1: Getting started with R and RStudio,IntroR_Materials/introR_pt1/00_introR_part1.md,https://cmu.libcal.com/event/11677891
+Data Carpentry: Introduction to Python,https://datacarpentry.org/python-ecology-lesson/,https://cmu.libcal.com/event/11732481
+Introduction to Python for Data Science: Introduction to Basic Programming with Data,Python_Series_Materials/part_1/part_1.md,https://cmu.libcal.com/event/11690015
+Building your Programming Tool Box: Command Line Crash Course for Beginners,cli/cli_main.md,https://cmu.libcal.com/event/11722733
+Introduction to R Part 2: Working with data in R,IntroR_Materials/introR_pt2/00_introR_part2.md,https://cmu.libcal.com/event/11677895
+Introduction to Python for Data Science: Plotting and Analyzing Tabular Datasets,Python_Series_Materials/part_3/part_3.md,https://cmu.libcal.com/event/11720589
+Building Your Programming Toolbox: Version Control with Git,Git_Materials/index.md,https://cmu.libcal.com/event/11720611
+Introduction to R Part 1: Getting started with R and RStudio,IntroR_Materials/introR_pt1/00_introR_part1.md,https://cmu.libcal.com/event/11676663
+Introduction to Python for Data Science: Analyzing Data with Logic and Iteration,Python_Series_Materials/part_3/part_3.md,https://cmu.libcal.com/event/11720619
+Cleaning Untidy Data with OpenRefine,content/openrefine.md,https://cmu.libcal.com/event/11676509
+Building Your Programming Toolbox: Collaborating with GitHub,GH_Materials/index.md,https://cmu.libcal.com/event/11720634
+Introduction to R Part 2: Working with data in R,IntroR_Materials/introR_pt2/00_introR_part2.md,https://cmu.libcal.com/event/11676685
+Building Your Programming Toolbox: Creating Websites and Portfolios with GitPages,content/git_github.md,https://cmu.libcal.com/event/11720699
+Encapsulating Reproducible Computational Research with Code Ocean,content/code_ocean.md,https://cmu.libcal.com/event/11720891
+Command Line Crash Course for Beginners,cli/cli_main.md,https://cmu.libcal.com/event/11722048
+Open Science Framework (OSF) for Beginners,content/osf.md,https://cmu.libcal.com/event/11722088
+Introduction to Python for Data Science: Introduction to Basic Programming with Data,Python_Series_Materials/part_1/part_1.md,https://cmu.libcal.com/event/11720957
+Making the Most with Jupyter Lab and Notebooks,Python_Series_Materials/making_the_most_jupyter.md,https://cmu.libcal.com/event/11722137
+Introduction to Python for Data Science: Plotting and Analyzing Tabular Datasets,Python_Series_Materials/part_2/part_2.md,https://cmu.libcal.com/event/11720984
+Python for Harvesting Data on the Web (Intermediate-Advanced),Python_Series_Materials/python_harvesting/py_harvest_main.md,https://cmu.libcal.com/event/11722162
+Introduction to Python for Data Science: Analyzing Data with Logic and Iteration,Python_Series_Materials/part_3/part_3.md,https://cmu.libcal.com/event/11721033
