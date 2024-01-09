@@ -1,6 +1,6 @@
 ---
 layout: default
-grand_parent: Introduction to R: Getting started with R and RStudio
+grand_parent: Introduction to R Getting started with R and RStudio
 parent: Introduction to R Part 1 
 has_children: false
 nav_order: 7
