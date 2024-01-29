@@ -46,6 +46,7 @@ Office: 109G, Hunt Library
 
 ### Slides  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTtce_WhgJuaF3PX5Zo3YrR7rUS25rpbBIWW0cZjo39Zn5Bk7qmMpOultF2EXTxcrT4JcFqiDtKdNdG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="625" height="352" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+_Click on the slides then press CTRL+Shift+F for full screen._
 
 ### Acknowledgements
 
