@@ -49,8 +49,8 @@ Office: 109G, Hunt Library
 _Click on the slides then press CTRL+Shift+F for full screen._
 
 ### Workshop assessments
-[Pre-workshop survey](https://forms.gle/TH42JGsgCGoqbCyE8)  
-[Post-workshop survey](https://forms.gle/KC1R4sahdcYwsZPQA)
+[Pre-workshop survey](https://forms.gle/E5BRZ62ZZoLxjMVG9)  
+[Post-workshop survey](https://forms.gle/t818FppxtSxinHuCA)
 
 ### Acknowledgements
 
