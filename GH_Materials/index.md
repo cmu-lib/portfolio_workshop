@@ -48,13 +48,13 @@ To be best prepared for this workshop, please create a [GitHub account](https://
 ### Interactive Notepad
 
 During the workshop, you can ask and answer questions in this
-[Etherpad](https://etherpad.wikimedia.org/p/2023-09-22-GitHub), a notepad
+[Etherpad](https://etherpad.wikimedia.org/p/cmu-lib-github), a notepad
 for live collaboration.  
 
 ### Pre-Workshop Survey
 
 Before the start of the workshop, please complete this
-[survey](https://forms.gle/GGXUSihS4DG1qgz98). Thank you!!
+[survey](https://forms.gle/bNT4MAJ5tU9ReHWF6). Thank you!!
 
 ### Schedule
 
@@ -75,7 +75,7 @@ Before the start of the workshop, please complete this
 
 ### Post-Workshop Survey
 
-Please complete this [survey](https://forms.gle/tk5ZPkEPPm6hL5GbA)
+Please complete this [survey](https://forms.gle/8LRy3694wSe4u5Dw8)
 after attending the workshop. Thank you!!!
 
 ### Acknowledgment
