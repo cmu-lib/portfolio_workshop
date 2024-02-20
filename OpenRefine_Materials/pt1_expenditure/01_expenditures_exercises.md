@@ -19,7 +19,7 @@ In this activity set, we will be:
 If you haven't already, download [the workshop files](https://github.com/cmu-lib/portfolio_workshop/blob/main/OpenRefine_Materials/files/20201001_OpenRefine_Workshop_files.zip?raw=true) and save them in a folder on your desktop. Make sure to extract the files from the zip file.
 
 
-[Let's get started!](https://cmu_lib.github.io/portfolio_workshop/OpenRefine_Materials/pt1_expenditure/02_import.html)
+[Let's get started!](https://cmu-lib.github.io/portfolio_workshop/OpenRefine_Materials/pt1_expenditure/02_import.html)
 
 
  
