@@ -50,7 +50,7 @@ To be best prepared for this workshop, please create a [GitHub account](https://
 ### Pre-Workshop Survey
 
 Before the start of the workshop, please complete this
-[survey](https://forms.gle/q1nCKGnA5JXUyvXM6). Thank you!!
+[survey](https://forms.gle/nL1nsiEDaAxCdY426). Thank you!!
 
 ## Schedule
 
@@ -68,4 +68,4 @@ _Actual schedule may vary depending on group needs; all times refer to Eastern S
 
 
 ### Post-Workshop Survey   
-Please complete this [survey](https://forms.gle/u6bjhZP1gtr5Wo326) after attending the workshop. Thank you in advance!!!
+Please complete this [survey](https://forms.gle/2P5FRi6HqS8HGchA7) after attending the workshop. Thank you in advance!!!
