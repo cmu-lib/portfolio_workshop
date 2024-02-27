@@ -32,12 +32,12 @@ Workshop attendees will be able to:
 ### Pre-Workshop Survey
 
 Before the start of the workshop, please complete this
-[survey](https://forms.gle/hwQ8PfyrtQ3Kziei6). Thank you!!
+[survey](https://forms.gle/ivN1weAp3a2R2Zak9). Thank you!!
 
 ### Slides  
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vT7fY5-tVi1jXeYgwCRcVxVHmZ5NujY7kskOjLv3MzmpkVp7qi-9PH6Zg35AFw3pw/embed?start=false&loop=false&delayms=3000" frameborder="0" width="625" height="352" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> *Click on the slides then press CTRL+Shift+F for full screen*
 
 ### Post-Workshop Survey
 
-Please complete this [survey](https://forms.gle/QviGS4Tbr3vXWLLf7)
+Please complete this [survey](https://forms.gle/3Mug4F5qwNqRb2Bg8)
 after attending the workshop. Thank you in advance!!!
