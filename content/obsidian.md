@@ -40,7 +40,7 @@ prior to attending.
 ### Pre-Workshop Survey
 
 Before the start of the workshop, please complete this
-[survey](https://forms.gle/YW4ZoD4hRgtD6hJA8). Thank you!!
+[survey](https://forms.gle/R6m8tMqaJHEDaDza7). Thank you!!
 
 ### Goal of this Workshop
 
@@ -65,5 +65,5 @@ in a bibliography.
 
 ### Post-Workshop Survey
 
-Please complete this [survey](https://forms.gle/Ewf57udkq8r7haqYA)
+Please complete this [survey](https://forms.gle/heiQ5AHH2MjiQtq99)
 after attending the workshop. Thank you in advance!!!
