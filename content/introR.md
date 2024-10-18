@@ -15,8 +15,13 @@ This 2-part introductory workshop aims to teach basic concepts, skills, and tool
 Learners should bring a laptop and should already have installed R and RStudio on their computer. 
 ____
 ### Presenters
-Sarah Young <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Principal Librarian  
+Di Yoong (they/them) 
+Social Sciences Librarian
+Office: 109F, Hunt Library
+[dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu)
+
+Sarah Young (she/her) <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
+Social Sciences Librarian  
 Office: 109G, Hunt Library  
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu)
 
@@ -49,8 +54,13 @@ Office: 109G, Hunt Library
 _Click on the slides then press CTRL+Shift+F for full screen._
 
 ### Workshop assessments
-[Pre-workshop survey](https://forms.gle/hJ1EYHs8ezZfaxhc6)   
-[Post-workshop survey](https://forms.gle/rYTxjxvQcFLKK9es9)
+#### Part 1
+[Pre-workshop survey](https://forms.gle/GJXXXJNVqp4QPnbp8)   
+[Post-workshop survey](https://forms.gle/KTT1cMZcJzUfhjqV8)
+
+#### Part 2
+[Pre-workshop survey](https://forms.gle/bzzjxLbKPh4iTWfW9)   
+[Post-workshop survey](https://forms.gle/CvC7oSaFsab1rd2UA)
 
 ### Acknowledgements
 
