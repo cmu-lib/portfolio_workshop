@@ -15,10 +15,10 @@ This 2-part introductory workshop aims to teach basic concepts, skills, and tool
 Learners should bring a laptop and should already have installed R and RStudio on their computer. 
 ____
 ### Presenters
-Di Yoong (they/them) 
-Social Sciences Librarian
-Office: 109F, Hunt Library
-[dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu)
+Di Yoong (they/them)      
+Social Sciences Librarian.   
+Office: 109F, Hunt Library    
+[dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu)    
 
 Sarah Young (she/her) <a href='https://github.com/rootsandberries' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Social Sciences Librarian  
