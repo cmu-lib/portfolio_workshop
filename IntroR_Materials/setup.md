@@ -10,7 +10,7 @@ title: Setup
 
 ## Setup instructions 
 
-**R** and **RStudio** are separate downloads and installations. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio.After installing both programs, you will need to install the tidyverse package from within RStudio. Follow the instructions below for your operating system, and then follow the instructions to install **tidyverse**. 
+**R** and **RStudio** are separate downloads and installations. R is the underlying statistical computing environment, but using R alone is no fun. RStudio is a graphical integrated development environment (IDE) that makes using R much easier and more interactive. You need to install R before you install RStudio. 
 
 ### Windows 
 #### If you already have R and RStudio installed 
@@ -23,8 +23,8 @@ title: Setup
  
 * Download R from the [CRAN website](https://cran.r-project.org/bin/windows/base/release.htm). 
 * Run the .exe file that was just downloaded 
-* Go to the [RStudio download page](https://posit.co/download/rstudio-desktop/#download)  
-* Under *Installers* select **RStudio x.yy.zzz -Windows Vista/7/8/10** (where x, y, and z represent version numbers)  
+* Go to the [RStudio Desktop download page](https://posit.co/download/rstudio-desktop/#download)  
+* Under *Installers* select **RStudio x.yy.zzz -Windows 10/11** (where x, y, and z represent version numbers)  
 * Double click the file to install it  
 * Once it's installed, open RStudio to make sure it works and you don't get any error messages. 
 
@@ -40,17 +40,17 @@ title: Setup
 * Download R from the CRAN website. 
 * Select the .pkg file for the latest R version. 
 * Double click on the downloaded file to install R. 
-* It is also a good idea to install XQuartz (needed by some packages).  
-* Go to the RStudio download page. 
-* Under *Installers* select **RStudio x.yy.zzz -Mac OS X 10.6+ (64-bit)** (where x, y, and z represent version numbers) 
+* It is also a good idea to install [XQuartz](https://www.xquartz.org/) (needed by some packages).
+* Go to the [RStudion Desktop download page](https://posit.co/download/rstudio-desktop/#download). 
+* Under *Installers* select **RStudio x.yy.zzz -Mac OS X 12+ (64-bit)** (where x, y, and z represent version numbers)
+     * The current installer works for Mac OS Monterey and later. Please [follow the instructions](https://cloud.rstudio.com/products/rstudio/older-versions/) for older Mac OS.
 * Double click the file to install RStudio 
-* Once it's installed, open RStudio to make sure it works and you don't get any error messages. 
-
+* Once it's installed, open RStudio to make sure it works and you don't get any error messages.
 
 
 ### Linux 
 * Follow the instructions for your distribution from [CRAN](https://cloud.r-project.org/bin/linux/), they provide information to get the most recent version of R for common distributions. For most distributions, you could use your package manager (e.g., for Debian/Ubuntu run sudo apt-get install r-base, and for Fedora sudo yum install R), but we don't recommend this approach as the versions provided by this are usually out of date. In any case, make sure you have at least R 3.3.1. 
-* Go to the [RStudio download page](https://posit.co/download/rstudio-desktop/#download) 
+* Go to the [RStudio Desktop download page](https://posit.co/download/rstudio-desktop/#download) 
 * Under *Installers* select the version that matches your distribution, and install it with your preferred method (e.g., with Debian/Ubuntu sudo dpkg -i rstudio-x.yy.zzz-amd64.deb at the terminal). 
 * Once it's installed, open RStudio to make sure it works and you don't get any error messages. 
 
