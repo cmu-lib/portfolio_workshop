@@ -25,12 +25,7 @@ Office: 109G, Hunt Library
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
 Science and Engineering Librarian    
 Office: 4416, Sorrells Library  
-[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
-
-Lencia Beltran <a href='https://github.com/lenciabeltran' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Program Coordinator  
-Office: 4416, Sorrells Library  
-[lbeltran@andrew.cmu.edu](mailto:lbeltran@andrew.cmu.edu)
+[cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)  
 
 ### Learning Objectives
 
