@@ -23,11 +23,6 @@ Science and Engineering Librarian
 Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
-Lencia Beltran (she/her/hers)  
-Open Science Project Coordinator  
-Office: 4416, Sorrells Library  
-[lbeltran@andrew.cmu.edu](mailto:lbeltran@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/lencia)
-
 Emma Slayton (she/her/hers)  
 Data Curation, Visualization, and GIS Specialist  
 Office: 4408, Sorrells Library  
@@ -43,7 +38,7 @@ Psychology Librarian Liaison
 Office: 109D, Hunt Library  
 [ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)  
 
-Taiwo Lasisi (she/her/hers)  
-CLIR Postdoctoral Fellow in Community Data Literacy  
-Office: 4418, Sorrells Library  
-[tlasisi@andrew.cmu.edu](mailto:tlasisi@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/TaiwoLasisi)  
+Di Yoong (they/them/theirs)
+Social Sciences Librarian
+Office: 109F, Hunt Library
+[dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/dyoong)
