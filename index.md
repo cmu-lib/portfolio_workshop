@@ -22,27 +22,27 @@ Schedule a [Data Consultation](https://library.cmu.edu/service/data-office-hours
 ## Coordinators
 
 Melanie Gainey (she/her/hers)  
-Open Science Program Director/Librarian  
+Open Science Program Director/STEM Librarian  
 Office: Library 431, Mellon library  
 [mgainey@andrew.cmu.edu](mailto:mgainey@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointment/42420)
 
 Chasz Griego (he/him/his)  
-Science and Engineering Librarian  
+STEM Librarian  
 Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
 Emma Slayton (she/her/hers)  
-Data Curation, Visualization, and GIS Specialist  
+Data Education Librarian  
 Office: 4408, Sorrells Library  
 [eslayton@andrew.cmu.edu](mailto:eslayton@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointment/41060)
 
 Sarah Young (she/her/hers)  
-Principal Librarian  
+Evidence Synthesis Program Director/Social Sciences Librarian  
 Office: 109G, Hunt Library  
 [sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/sarahy)
 
 Emily Bongiovanni (she/her/hers)  
-Psychology Librarian Liaison  
+Open Knowledge Librarian  
 Office: 109D, Hunt Library  
 [ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)  
 
