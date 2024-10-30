@@ -38,7 +38,7 @@ Psychology Librarian Liaison
 Office: 109D, Hunt Library  
 [ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)  
 
-Di Yoong (they/them/theirs)
-Social Sciences Librarian
-Office: 109F, Hunt Library
-[dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/dyoong)
+Di Yoong (they/them/theirs)  
+Social Sciences Librarian  
+Office: 109F, Hunt Library  
+[dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/dyoong)  
