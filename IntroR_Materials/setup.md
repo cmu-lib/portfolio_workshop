@@ -16,7 +16,7 @@ title: Setup
 #### If you already have R and RStudio installed 
 
 * Open RStudio, and click on Help > Check for updates. If a new version is available, quit RStudio, and download the latest version for RStudio. 
-* To check which version of R you are using, start RStudio and the first thing that appears in the console indicates the version of R you are running.Alternatively, you can type `sessionInfo()`, which will also display which version of R you are running. Go to the [CRAN website](https://cran.r-project.org/bin/windows/base/) and check whether a more recent version is available. If so, please download and install it. You can [check here](https://cran.r-project.org/bin/windows/base/rw-FAQ.html#How-do-I-UNinstall-R_003f) for more information on how to remove old versions from your system if you wish to do so. 
+* To check which version of R you are using, start RStudio and the first thing that appears in the console indicates the version of R you are running. Alternatively, you can type `sessionInfo()`, which will also display which version of R you are running. Go to the [CRAN website](https://cran.r-project.org/bin/windows/base/) and check whether a more recent version is available. If so, please download and install it. You can [check here](https://cran.r-project.org/bin/windows/base/rw-FAQ.html#How-do-I-UNinstall-R_003f) for more information on how to remove old versions from your system if you wish to do so. 
 
 
 #### If you don't have R and RStudio installed 
@@ -41,7 +41,7 @@ title: Setup
 * Select the .pkg file for the latest R version. 
 * Double click on the downloaded file to install R. 
 * It is also a good idea to install [XQuartz](https://www.xquartz.org/) (needed by some packages).
-* Go to the [RStudion Desktop download page](https://posit.co/download/rstudio-desktop/#download). 
+* Go to the [RStudio Desktop download page](https://posit.co/download/rstudio-desktop/#download). 
 * Under *Installers* select **RStudio x.yy.zzz -Mac OS X 12+ (64-bit)** (where x, y, and z represent version numbers)
      * The current installer works for Mac OS Monterey and later. Please [follow the instructions](https://cloud.rstudio.com/products/rstudio/older-versions/) for older Mac OS.
 * Double click the file to install RStudio 
