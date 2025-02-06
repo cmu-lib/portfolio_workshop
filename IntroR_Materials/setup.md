@@ -23,8 +23,9 @@ title: Setup
  
 * Download R from the [CRAN website](https://cran.r-project.org/bin/windows/base/release.htm). 
 * Run the .exe file that was just downloaded 
-* Go to the [RStudio Desktop download page](https://posit.co/download/rstudio-desktop/#download)  
-* Under *Installers* select **RStudio x.yy.zzz -Windows 10/11** (where x, y, and z represent version numbers)  
+* Go to the [RStudio Desktop download page](https://posit.co/download/rstudio-desktop/#download)
+* Under *2. Install R Studio*, click on the button **Download Rstudio Desktop for Windows+**. 
+* **OR** Under *All Installers and Tarballs* select **RStudio x.yy.zzz -Windows 10/11** (where x, y, and z represent version numbers)  
 * Double click the file to install it  
 * Once it's installed, open RStudio to make sure it works and you don't get any error messages. 
 
@@ -41,9 +42,10 @@ title: Setup
 * Select the .pkg file for the latest R version. 
 * Double click on the downloaded file to install R. 
 * It is also a good idea to install [XQuartz](https://www.xquartz.org/) (needed by some packages).
-* Go to the [RStudio Desktop download page](https://posit.co/download/rstudio-desktop/#download). 
-* Under *Installers* select **RStudio x.yy.zzz -Mac OS X 12+ (64-bit)** (where x, y, and z represent version numbers)
-     * The current installer works for Mac OS Monterey and later. Please [follow the instructions](https://cloud.rstudio.com/products/rstudio/older-versions/) for older Mac OS.
+* Go to the [RStudio Desktop download page](https://posit.co/download/rstudio-desktop/#download).
+* Under *2. Install R Studio*, click on the button **Download Rstudio Desktop for MACOS 13+**. 
+* **OR** Under *All Installers and Tarballs* select **RStudio x.yy.zzz -Mac OS X 13+ (64-bit)** (where x, y, and z represent version numbers)
+     * The current installer works for Mac OS Monterey and later. Please [follow the instructions](https://forum.posit.co/t/rstudio-desktop-releases-on-unsupported-versions-of-macos/176074) for older Mac OS.
 * Double click the file to install RStudio 
 * Once it's installed, open RStudio to make sure it works and you don't get any error messages.
 
