@@ -24,7 +24,7 @@ Download [the workshop files](https://github.com/cmu-lib/portfolio_workshop/blob
 
 #### 2. Download and Install OpenRefine
 
-You can download OpenRefine 3.4.1 from [http://openrefine.org/download.html](http://openrefine.org/download.html). There are versions for Windows, Mac OS X and Linux.
+Download OpenRefine 3.8.7 from [the OpenRefine website](https://openrefine.org/). There are versions for Windows, Mac OS X and Linux.
 
 ##### Installing OpenRefine
 
