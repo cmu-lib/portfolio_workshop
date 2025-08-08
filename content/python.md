@@ -16,8 +16,8 @@ the workshop material.
 ____
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Postdoctoral Associate  
-Office: 4416, Sorrells Library  
+STEM Librarian  
+Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
 
 ### Setup
