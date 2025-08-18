@@ -1,7 +1,7 @@
 ---
 layout: default
 grand_parent: Python for Data Science
-parent: Introduction to Basic Programming with Data
+parent: Series - Plotting and Programming with Python
 has_children: false
 nav_order: 5
 title: "Built-in Functions and Help"

@@ -1,9 +1,9 @@
 ---
 layout: default
 grand_parent: Python for Data Science
-parent: Analyzing Data with Logic and Iteration
+parent: Series - Plotting and Programming with Python
 has_children: false
-nav_order: 2
+nav_order: 11
 title: "For Loops"
 teaching: 10
 exercises: 15

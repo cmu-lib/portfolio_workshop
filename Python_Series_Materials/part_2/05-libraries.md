@@ -1,9 +1,9 @@
 ---
 layout: default
 grand_parent: Python for Data Science
-parent: Plotting and Analyzing Tabular Datasets
+parent: Series - Plotting and Programming with Python
 has_children: false
-nav_order: 1
+nav_order: 6
 title: "Libraries"
 teaching: 10
 exercises: 10
