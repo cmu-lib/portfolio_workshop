@@ -1,6 +1,7 @@
 ---
 layout: default
-parent: Python for Data Science
+grand_parent: Python for Data Science
+parent: Series - Plotting and Programming with Python
 has_children: false
 nav_order: 1
 title: "Setup"
