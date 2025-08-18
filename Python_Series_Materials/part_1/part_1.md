@@ -1,11 +1,3 @@
----
-layout: default
-parent: Python for Data Science
-has_children: true
-nav_order: 2
-title: Introduction to Basic Programming with Data
----
-
 # Part 1: Introduction to Basic Programming with Data
 
 In this first part of the 3-part workshop series, "Introduction to Python for Data Science," we offer an introduction to Python for non-programmers with a focus on data analysis. In this workshop, we will demonstrate how to do basic Python programming in Jupyter Notebooks. Topics will include working with different data types and using built-in functions and libraries to read and manipulate data.  

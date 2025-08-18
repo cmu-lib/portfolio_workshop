@@ -1,9 +1,9 @@
 ---
 layout: default
 grand_parent: Python for Data Science
-parent: Analyzing Data with Logic and Iteration
+parent: Series - Plotting and Programming with Python
 has_children: false
-nav_order: 3
+nav_order: 12
 title: "Conditionals"
 teaching: 10
 exercises: 15

@@ -1,9 +1,9 @@
 ---
 layout: default
 grand_parent: Python for Data Science
-parent: Analyzing Data with Logic and Iteration
+parent: Series - Plotting and Programming with Python
 has_children: false
-nav_order: 4
+nav_order: 13
 title: "Looping over Datasets"
 teaching: 5
 exercises: 10
