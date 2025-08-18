@@ -20,4 +20,4 @@ Office: 4410, Sorrells Library
 
 ### Acknowledgment
 
-*The material for this workshop series was created from the [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/) curriculum developed by [The Software Carpentry Foundation](https://software-carpentry.org/) of [The Carpentries](https://carpentries.org/) licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
+*The material for these workshops was created from curriculum developed by [The Carpentries](https://carpentries.org/) licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)*

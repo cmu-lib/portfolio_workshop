@@ -63,3 +63,7 @@ prior to attending.
 Click the Binder badge below to work through the course content in JupyterLab.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cmu-lib/portfolio_workshop/HEAD?labpath=Python_Series_Materials%2F__jupyter-notebooks%2F)
+
+### Acknowledgment
+
+*The material for this workshop series was created from the [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/) curriculum developed by [The Software Carpentry Foundation](https://software-carpentry.org/) of [The Carpentries](https://carpentries.org/) licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
