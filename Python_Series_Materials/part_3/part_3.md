@@ -1,11 +1,3 @@
----
-layout: default
-parent: Python for Data Science
-has_children: true
-nav_order: 4
-title: Analyzing Data with Logic and Iteration
----
-
 # Part 3: Analyzing Data with Logic and Iteration
 
 In the final part of the 3-part workshop series, "Introduction to Python for Data Science," we offer an overview of Python fundamentals for performing iterative tasks with for loops and conditional tasks using logic and if statements.
