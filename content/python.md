@@ -7,35 +7,16 @@ nav_order: 3
 
 # Introduction to Python for Data Science
 
-Welcome to this introductory workshop series on Python for data science. This is
-a three part series that will walk through basic Python programming with data,
-working in Jupyter Lab, and doing advanced analyses with tabular
-datasets. See the schedule or table of contents below to navigate through all
-the workshop material.
+This section includes material for several workshops related to Python programming for data science 
+and research. 
 
 ____
 ### Presenters
 Chasz Griego <a href='https://github.com/chaszg' target='_blank'><img src='../content/img/GitHub-Mark-custom.svg' style='width:15px; padding:0; border:none !important;'></a>  
-Open Science Postdoctoral Associate  
-Office: 4416, Sorrells Library  
+STEM Librarian  
+Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu)
 
-### Setup
-
-To be best prepared for these workshops, please follow the [setup instructions](../Python_Series_Materials/setup)
-prior to attending.
-
-### Goal of this Workshop
-
-The goal of this workshop is to introduce Python to learners who are new to the
-language or new to programming. Our goal is to get you comfortable using Python
-for the purpose of working with data.
-
-### Series
-
-- [Part 1: Introduction to Basic Programming with Data](../Python_Series_Materials/part_1/part_1)
-- [Part 2: Plotting and Analyzing Tabular Datasets](../Python_Series_Materials/part_2/part_2)
-- [Part 3: Analyzing Data with Logic and Iteration](../Python_Series_Materials/part_3/part_3)
 
 ### Acknowledgment
 
