@@ -6,18 +6,25 @@ nav_order: 2
 title: Series - Plotting and Programming with Python
 ---
 
-# Part 1: Introduction to Basic Programming with Data
+# Series - Plotting and Programming with Python
+
+Welcome to this introductory workshop series on Python for data science. This is a three part 
+series that will walk through basic Python programming with data, working in Jupyter Lab, and doing 
+advanced analyses with tabular datasets. See the schedule or table of contents below to navigate 
+through all the workshop material.
+
+## Part 1: Introduction to Basic Programming with Data
 
 In this workshop series, we offer an introduction to Python for non-programmers with a focus on data analysis. In this workshop, 
 we will demonstrate how to do basic Python programming in Jupyter Notebooks. Topics will include working with different data types 
 and using built-in functions and libraries to read and manipulate data.  
 
-# Part 2: Plotting and Analyzing Tabular Datasets
+## Part 2: Plotting and Analyzing Tabular Datasets
 
 In the second part of the workshop series, we demonstrate beginner Python programming techniques using the Pandas library to read 
 tabular datasets, perform simple analyses, and visualize data. 
 
-# Part 3: Analyzing Data with Logic and Iteration
+## Part 3: Analyzing Data with Logic and Iteration
 
 In the final part of the workshop series, we offer an overview of Python fundamentals for performing iterative tasks with for 
 loops and conditional tasks using logic and if statements. We will then show how to apply these programming techniques to analyze 
