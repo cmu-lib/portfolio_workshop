@@ -55,7 +55,7 @@ Workshop attendees will be able to:
 
 ### Setup
 
-To be best prepared for this workshop, please follow the [setup instructions](../setup)
+To be best prepared for this workshop, please follow the [setup instructions](./setup)
 prior to attending.
 
 ### Interactive Curriculum
