@@ -150,7 +150,7 @@ After typing the command `jupyter notebook`, the following happens:
 - The Jupyter Notebook server opens the Jupyter notebook client, also known
   as the notebook user interface, in your default web browser.
   
-  ![](../fig/00_1_jupyter_file_browser.png){alt='Jupyter notebook file browser'}
+  ![Jupyter notebook file browser](../fig/00_1_jupyter_file_browser.png)
   *The Jupyter notebook file browser*
 
 - To create a new Python notebook select "Python 3" from the "New" dropdown on the upper
