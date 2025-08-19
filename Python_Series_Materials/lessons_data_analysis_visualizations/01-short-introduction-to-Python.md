@@ -1,3 +1,11 @@
+---
+layout: default
+grand_parent: Python for Data Science
+parent: Series - Data Analysis and Visualization with Python
+has_children: false
+nav_order: 3
+title: Short Introduction to Programming in Python
+---
 # Short Introduction to Programming in Python
 ## Objectives
 
