@@ -608,7 +608,7 @@ We can plot our summary stats using Pandas, too.
 species_counts.plot(kind='bar');
 ```
 
-![](fig/countPerSpecies.png){alt='Weight by Species Site'}
+![Weight by Species Site](../fig/countPerSpecies.png)
 Count per species site
 
 We can also look at how many animals were captured in each site:
@@ -628,11 +628,11 @@ total_count.plot(kind='bar');
 
 1. `surveys_df.groupby('plot_id').mean()["weight"].plot(kind='bar')`
 
-![](fig/01_chall_bar_meanweight.png){alt='average weight across all species for each plot'}
+![average weight across all species for each plot](../fig/01_chall_bar_meanweight.png)
 
 2. `surveys_df.groupby('sex').count()["record_id"].plot(kind='bar')`
 
-![](fig/01_chall_bar_totalsex.png){alt='total males versus total females for the entire dataset'}
+![total males versus total females for the entire dataset](../fig/01_chall_bar_totalsex.png)
 
 ### Take Home Plotting Challenge
 
@@ -668,7 +668,7 @@ my_df = pd.DataFrame(d)
 my_df.plot(kind='bar', stacked=True, title="The title of my graph")
 ```
 
-![](fig/stackedBar1.png){alt='Stacked Bar Plot'}
+![Stacked Bar Plot](../fig/stackedBar1.png)
 
 - You can use the `.unstack()` method to transform grouped data into columns
   for each plotting.  Try running `.unstack()` on some DataFrames above and see
@@ -735,7 +735,7 @@ s_plot.set_ylabel("Weight")
 s_plot.set_xlabel("Plot")
 ```
 
-![](fig/stackedBar.png){alt='Stacked Bar Plot'}
+![Stacked Bar Plot](../fig/stackedBar.png)
 
 [ernst]: https://www.esapubs.org/archive/ecol/E090/118/default.htm
 [pptd]: https://figshare.com/articles/Portal_Project_Teaching_Database/1314459
