@@ -1,3 +1,11 @@
+---
+layout: default
+grand_parent: Python for Data Science
+parent: Series - Data Analysis and Visualization with Python
+has_children: false
+nav_order: 4
+title: Starting With Data
+---
 # Starting With Data
 
 ## Objectives
