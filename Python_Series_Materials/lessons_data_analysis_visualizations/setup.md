@@ -156,20 +156,20 @@ After typing the command `jupyter notebook`, the following happens:
 - To create a new Python notebook select "Python 3" from the "New" dropdown on the upper
   right of the screen.
   
-  ![](fig/00_2_jupyter_new_notebook.png){alt='Jupyter notebook file browser'}
+  ![](../fig/00_2_jupyter_new_notebook.png){alt='Jupyter notebook file browser'}
   *The Jupyter notebook file browser*
 
 - When you can create a new notebook and type code into the browser, the web
   browser and the Jupyter notebook server communicate with each other.
   
-  ![](fig/00_3_jupyter_blank_notebook.png){alt='new Jupyter notebook'}
+  ![](../fig/00_3_jupyter_blank_notebook.png){alt='new Jupyter notebook'}
   *A new, blank Jupyter notebook*
 
 - Under the "help" menu, take a quick interactive tour of how to
   use the notebook. Help on Jupyter and key workshop packages is
   available here too.
   
-  ![](fig/00_4_jupyter_tour_help.png){alt='Jupyter tour and help'}
+  ![](../fig/00_4_jupyter_tour_help.png){alt='Jupyter tour and help'}
   *User interface tour and Help*
 
 - The Jupyter Notebook server does the work and calculations, and the web
@@ -179,13 +179,13 @@ After typing the command `jupyter notebook`, the following happens:
 
 - For example, click in the first cell and type some Python code.
   
-  ![](fig/00_5_jupyter_code_before.png){alt='Code cell'}
+  ![](../fig/00_5_jupyter_code_before.png){alt='Code cell'}
   *A Code cell*
 
 - This is a **Code** cell (see the cell type dropdown with the word **Code**).
   To run the cell, type <kbd>Shift</kbd>\+<kbd>Return</kbd>.
   
-  ![](fig/00_6_jupyter_code_after.png){alt='Code cell and its output'}
+  ![](../fig/00_6_jupyter_code_after.png){alt='Code cell and its output'}
   *A Code cell and its output*
 
 - Let's look at a **Markdown** cell. Markdown is a text manipulation
@@ -193,12 +193,12 @@ After typing the command `jupyter notebook`, the following happens:
   to select **Markdown** from the cell type dropdown. Click in the cell and
   enter the markdown text.
   
-  ![](fig/00_7_jupyter_markdown_before.png){alt='markdown input cell'}
+  ![](../fig/00_7_jupyter_markdown_before.png){alt='markdown input cell'}
   *A markdown input cell*
 
 - To run the cell, type <kbd>Shift</kbd>\+<kbd>Return</kbd>.
   
-  ![](fig/00_8_jupyter_markdown_after.png){alt='rendered markdown cell'}
+  ![](../fig/00_8_jupyter_markdown_after.png){alt='rendered markdown cell'}
   *A rendered markdown cell*
 
 This workflow has several advantages:
