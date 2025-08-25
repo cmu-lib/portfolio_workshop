@@ -1,3 +1,11 @@
+---
+layout: default
+grand_parent: Python for Data Science
+parent: Series - Data Analysis and Visualization with Python
+has_children: false
+nav_order: 5
+title: Indexing, Slicing and Subsetting DataFrames in Python
+---
 # Indexing, Slicing and Subsetting DataFrames in Python
 
 ## Objectives
