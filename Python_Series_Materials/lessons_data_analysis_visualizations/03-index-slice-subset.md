@@ -117,8 +117,8 @@ within objects starting at 1.
 a = [1, 2, 3, 4, 5]
 ```
 
-![](fig/slicing-indexing.png){alt='indexing diagram'}
-![](fig/slicing-slicing.png){alt='slicing diagram'}
+![indexing diagram](../fig/slicing-indexing.png)
+![slicing diagram](../fig/slicing-slicing.png)
 
 ### Slicing Subsets of Rows in Python
 
