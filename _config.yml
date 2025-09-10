@@ -32,7 +32,7 @@ url: "https://cmu-lib.github.io" # the base hostname & protocol for your site, e
 # Build settings
 remote_theme: pmarsceill/just-the-docs
 # theme: "just-the-docs"
-color_scheme: light
+color_scheme: custom
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
