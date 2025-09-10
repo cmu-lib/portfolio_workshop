@@ -1,3 +1,11 @@
+---
+layout: default
+grand_parent: Python for Data Science
+parent: Series - Data Analysis and Visualization with Python
+has_children: false
+nav_order: 8
+title: Data Workflows and Automation
+---
 # Data Workflows and Automation
 
 ## Objectives
