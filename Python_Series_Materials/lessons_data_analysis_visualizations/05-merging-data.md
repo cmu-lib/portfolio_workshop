@@ -1,3 +1,11 @@
+---
+layout: default
+grand_parent: Python for Data Science
+parent: Series - Data Analysis and Visualization with Python
+has_children: false
+nav_order: 7
+title: Combining DataFrames with Pandas
+---
 # Combining DataFrames with Pandas
 
 ## Objectives
