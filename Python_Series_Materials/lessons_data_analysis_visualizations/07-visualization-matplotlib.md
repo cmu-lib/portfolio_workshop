@@ -113,7 +113,7 @@ my_plot = surveys.plot("hindfoot_length", "weight", kind="scatter")
 plt.show() # not necessary in Jupyter Notebooks
 ```
 
-![](fig/08_scatter_surveys.png){alt='Scatter plot of survey data set'}
+![Scatter plot of survey data set](../fig/08_scatter_surveys.png)
 
 ### Tip
 
@@ -157,7 +157,7 @@ To plot a histogram of our draws from the normal distribution, we can use the `h
 plt.hist(sample_data)
 ```
 
-![](fig/08-normal-distribution.png){alt='Histogram of 1000 samples from normal distribution'}
+![Histogram of 1000 samples from normal distribution](../fig/08-normal-distribution.png)
 
 ### Tip: Cross-Platform Visualization of Figures
 
@@ -199,7 +199,7 @@ ax2 = fig.add_axes([0.125, 0.575, 0.3, 0.3])  # number coordinates correspond to
 ax2.hist(beta_draws)
 ```
 
-![](fig/08-dualdistribution.png){alt='Plot with additional axes'}
+![Plot with additional axes](../fig/08-dualdistribution.png)
 
 ### Challenge - Drawing from distributions
 
@@ -242,7 +242,7 @@ ax2.plot("datetime", "flow_rate", data=discharge)
 plt.xticks(rotation=90)
 ```
 
-![](fig/08_flood_event.png){alt='Flood event plot'}
+![Flood event plot](../fig/08_flood_event.png)
 
 #### Saving matplotlib figures
 
