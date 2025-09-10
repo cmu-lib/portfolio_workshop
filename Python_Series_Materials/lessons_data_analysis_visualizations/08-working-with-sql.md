@@ -1,3 +1,11 @@
+---
+layout: default
+grand_parent: Python for Data Science
+parent: Series - Data Analysis and Visualization with Python
+has_children: false
+nav_order: 10
+title: Accessing SQLite Databases Using Python and Pandas
+---
 # Accessing SQLite Databases Using Python and Pandas
 
 ## Objectives
