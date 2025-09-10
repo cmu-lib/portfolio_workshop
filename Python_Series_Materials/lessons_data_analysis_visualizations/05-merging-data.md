@@ -173,7 +173,7 @@ plt.tight_layout()  # tip: use this to improve the plot layout.
 # what difference applying plt.tight_layout() makes.
 ```
 
-![](fig/04_chall_weight_year.png){alt='average weight for each year, grouped by sex'}
+![average weight for each year, grouped by sex](../fig/04_chall_weight_year.png)
 
 ```python
 # writing to file:
@@ -274,7 +274,7 @@ two DataFrames based on a join key and returns a new DataFrame that contains
 *only* those rows that have matching values in *both* of the original
 DataFrames. An example of an inner join, adapted from [Jeff Atwood's blogpost about SQL joins][join-types] is below:
 
-![](fig/inner-join.png){alt='Inner join -- courtesy of codinghorror.com'}
+![Inner join -- courtesy of codinghorror.com](../fig/inner-join.png)
 
 The pandas function for performing joins is called `merge` and an Inner join is
 the default option:
@@ -365,7 +365,7 @@ for those columns in the resulting joined DataFrame.
 Note: a left join will still discard rows from the `right` DataFrame that do not
 have values for the join key(s) in the `left` DataFrame.
 
-![](fig/left-join.png){alt='Left Join'}
+![Left Join](../fig/left-join.png)
 
 A left join is performed in pandas by calling the same `merge` function used for
 inner join, but using the `how='left'` argument:
@@ -462,7 +462,7 @@ Taxa per plot (number of species of each taxa per plot):
   merged_left.groupby(["plot_id"])["taxa"].nunique().plot(kind='bar')
   ```
   
-  ![](fig/04_chall_ntaxa_per_site.png){alt='taxa per plot'}
+  ![taxa per plot](../fig/04_chall_ntaxa_per_site.png)
   
   *Suggestion*: It is also possible to plot the number of individuals for each taxa in each plot
   (stacked bar chart):
@@ -472,7 +472,7 @@ Taxa per plot (number of species of each taxa per plot):
   plt.legend(loc='upper center', ncol=3, bbox_to_anchor=(0.5, 1.05)) # stop the legend from overlapping with the bar plot
   ```
   
-  ![](fig/04_chall_taxa_per_site.png){alt='taxa per plot'}
+  ![taxa per plot](../fig/04_chall_taxa_per_site.png)
 
 ### Challenge - Diversity Index
 
@@ -513,7 +513,7 @@ Taxa per plot (number of species of each taxa per plot):
   plt.xlabel("Diversity index")
   ```
 
-![](fig/04_chall_diversity_index.png){alt='horizontal bar chart of diversity index by plot'}
+![horizontal bar chart of diversity index by plot](../fig/04_chall_diversity_index.png)
 
 [altair]: https://github.com/ellisonbg/altair
 [join-types]: https://blog.codinghorror.com/a-visual-explanation-of-sql-joins/
