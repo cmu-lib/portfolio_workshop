@@ -73,13 +73,13 @@ code {
 
 // Python syntax highlighting overrides
 .highlight {
-  .k, .kn, .kp, .kr, .kd { color: #d73a49; }  // Keywords (red)
-  .s, .s1, .s2, .sb, .sc { color: #032f62; }  // Strings (dark blue)
-  .c, .c1, .cm { color: #6a737d; }            // Comments (gray)
-  .nf { color: #6f42c1; }                     // Functions (purple)
-  .nb { color: #005cc5; }                     // Built-ins (blue)
-  .m, .mi, .mf { color: #005cc5; }            // Numbers (blue)
-  .n, .nx { color: #24292e; }                 // Variables (dark)
+  .k, .kn, .kp, .kr, .kd { color: #0000ff; }  // Blue keywords
+  .s, .s1, .s2, .sb, .sc { color: #a31515; }  // Dark red strings
+  .c, .c1, .cm { color: #008000; }            // Green comments
+  .nf { color: #795e26; }                     // Brown functions
+  .nb { color: #267f99; }                     // Teal built-ins
+  .m, .mi, .mf { color: #098658; }            // Dark green numbers
+  .n, .nx { color: #001080; }                 // Navy variables
 }
 
 .label {
