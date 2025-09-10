@@ -71,6 +71,16 @@ code {
   color: #24292e;
   line-height: 1.4; }
 
+// Python syntax highlighting overrides
+.highlight {
+  .k, .kn, .kp, .kr, .kd { color: #0000ff; }  // Keywords
+  .s, .s1, .s2, .sb, .sc { color: #a31515; }  // Strings  
+  .c, .c1, .cm { color: #008000; }            // Comments
+  .nf { color: #795e26; }                     // Functions
+  .nb { color: #267f99; }                     // Built-ins
+  .m, .mi, .mf { color: #098658; }            // Numbers
+}
+
 .label {
   font-size: 9px;
   padding-bottom: 0.05em;
@@ -78,7 +88,7 @@ code {
   margin-bottom: 0;
   margin-left: 0; }
 
-th, td, {
+th, td {
   font-size: 12px !important;
   min-width: 120px;
   padding-top: 0.5rem;
