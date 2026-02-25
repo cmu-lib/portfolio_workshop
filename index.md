@@ -13,11 +13,11 @@ build computational skills for Open Research and Data Science.
 
 <iframe src="https://cmu.libcal.com/calendar/events/?cid=9148&t=d&d=0000-00-00&cal=9148&inc=0" width="100%" height="500px"></iframe>
 
-## Data Office Hours
+## Data & Code Support
 
-Schedule a [Data Consultation](https://library.cmu.edu/service/data-office-hours) with our library associates for support with data and research!
+Schedule a [Consultation](https://www.library.cmu.edu/services/data-code-support) with our library associates for support with open source coding languages and data science tools!
 
-![Data Office Hours Flyer](content/img/data-office-hours.png)
+<iframe src="https://www.library.cmu.edu/services/data-code-support" width="100%" height="500px"></iframe>
 
 ## Coordinators
 
@@ -50,3 +50,4 @@ Di Yoong (they/them/theirs)
 Social Sciences Librarian  
 Office: 109F, Hunt Library  
 [dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/dyoong)  
+
