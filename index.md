@@ -17,7 +17,14 @@ build computational skills for Open Research and Data Science.
 
 Schedule a [Consultation](https://www.library.cmu.edu/services/data-code-support) with our library associates for support with open source coding languages and data science tools!
 
-<iframe src="https://www.library.cmu.edu/services/data-code-support" width="100%" height="500px"></iframe>
+What We Can Help You With:
+
+- Cleaning and preparing data for analysis in Python and R
+- Writing code in Python and R and fixing errors in code
+- Creating and fixing Python and R code with Generative AI
+- Viewing, handling, and manipulating files on your computer and automating tasks with the command line interface
+- Creating, or working with, relational databases and querying data with SQL
+- Version control and collaboration with Git and GitHub
 
 ## Coordinators
 
@@ -50,4 +57,5 @@ Di Yoong (they/them/theirs)
 Social Sciences Librarian  
 Office: 109F, Hunt Library  
 [dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/dyoong)  
+
 
