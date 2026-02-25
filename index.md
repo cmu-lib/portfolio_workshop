@@ -26,36 +26,14 @@ What We Can Help You With:
 - Creating, or working with, relational databases and querying data with SQL
 - Version control and collaboration with Git and GitHub
 
-## Coordinators
-
-Melanie Gainey (she/her/hers)  
-Open Science Program Director/STEM Librarian  
-Office: Library 431, Mellon library  
-[mgainey@andrew.cmu.edu](mailto:mgainey@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointment/42420)
+## Contact
 
 Chasz Griego (he/him/his)  
 STEM Librarian  
 Office: 4410, Sorrells Library  
 [cgriego@andrew.cmu.edu](mailto:cgriego@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/cgriego)
 
-Emma Slayton (she/her/hers)  
-Data Education Librarian  
-Office: 4408, Sorrells Library  
-[eslayton@andrew.cmu.edu](mailto:eslayton@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointment/41060)
-
-Sarah Young (she/her/hers)  
-Evidence Synthesis Program Director/Social Sciences Librarian  
-Office: 109G, Hunt Library  
-[sarahy@andrew.cmu.edu](mailto:sarahy@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/sarahy)
-
-Emily Bongiovanni (she/her/hers)  
-Open Knowledge Librarian  
-Office: 109D, Hunt Library  
-[ebongiov@andrew.cmu.edu](mailto:ebongiov@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/emily)  
-
-Di Yoong (they/them/theirs)  
-Social Sciences Librarian  
-Office: 109F, Hunt Library  
-[dyoong@andrew.cmu.edu](mailto:dyoong@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointments/dyoong)  
-
-
+Melanie Gainey (she/her/hers)  
+Open Science Program Director/STEM Librarian  
+Office: 4418, Sorrells Library  
+[mgainey@andrew.cmu.edu](mailto:mgainey@andrew.cmu.edu) | [Schedule a Consultation](https://cmu.libcal.com/appointment/42420)
