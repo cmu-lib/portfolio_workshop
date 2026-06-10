@@ -11,7 +11,7 @@ build computational skills for Open Research and Data Science.
 
 ## Workshop Calendar
 
-<iframe src="https://cmu.libcal.com/calendar/events/?cid=9148&t=d&d=0000-00-00&cal=9148&inc=0" width="100%" height="500px"></iframe>
+The CMU Libraries regularly offers a variety of workshops through the academic year. View our [workshop calendar](https://cmu.libcal.com/calendar/events/?cid=9148&t=d&d=0000-00-00&cal=9148&inc=0) to see what we are offering. 
 
 ## Data & Code Support
 
